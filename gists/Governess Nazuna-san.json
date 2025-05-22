@@ -1,33 +1,119 @@
 {
-    "title": "Governess Nazuna-san",
-    "description": "The Koyomi Family once ruled the underside of Japan. Now in ruins, the young heir Kashitarou Koyomi remains, all by his lonesome self. Starting up in solitude and having to live with the anger and grudges of others, a self proclaimed caretaker and tutor appears, introducing herself as \"Nazuna.\" It is here, she proclaims, \"I will raise you to be a great man of evil!\"",
-    "author": "Heriyama",
-    "artist": "Heriyama",
-    "cover": "https://files.catbox.moe/9ktog0.jpg",
-    "chapters": {
-        "1": {
-            "title": "Nazuna Arrives",
-            "volume": "1",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/qidzs9"
-            },
-            "last_updated": 1603515620
-        },
-        "2": {
-            "title": "The Koyomi Family's Most Prized Posession",
-            "volume": null,
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/usgcnp"
-            },
-            "last_updated": 1606454374
-        },
-        "3": {
-            "title": "Cooking War",
-            "volume": null,
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/y9f9yo"
-            },
-            "last_updated": 1607965067
-        }
+  "title": "Governess Nazuna-san",
+  "description": "The Koyomi Family once ruled the underside of Japan. Now in ruins, the young heir Kashitarou Koyomi remains, all by his lonesome self. Starting up in solitude and having to live with the anger and grudges of others, a self proclaimed caretaker and tutor appears, introducing herself as \"Nazuna.\" It is here, she proclaims, \"I will raise you to be a great man of evil!\"",
+  "author": "Heriyama",
+  "artist": "Heriyama",
+  "cover": "https://files.catbox.moe/9ktog0.jpg",
+  "chapters": {
+    "1": {
+      "title": "Nazuna Arrives",
+      "volume": "1",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/p8zt34.png",
+          "https://files.catbox.moe/0f2d4n.png",
+          "https://files.catbox.moe/esvfe3.png",
+          "https://files.catbox.moe/ccopdo.png",
+          "https://files.catbox.moe/14wdgv.png",
+          "https://files.catbox.moe/qcfnnm.png",
+          "https://files.catbox.moe/x0bnmd.png",
+          "https://files.catbox.moe/gwrlgv.png",
+          "https://files.catbox.moe/2gsazl.png",
+          "https://files.catbox.moe/r77cn7.png",
+          "https://files.catbox.moe/z5qhz4.png",
+          "https://files.catbox.moe/n6ccsd.png",
+          "https://files.catbox.moe/v14wni.png",
+          "https://files.catbox.moe/n33a38.png",
+          "https://files.catbox.moe/dblgb7.png",
+          "https://files.catbox.moe/rp0sht.png",
+          "https://files.catbox.moe/ve2kqj.png",
+          "https://files.catbox.moe/90eun3.png",
+          "https://files.catbox.moe/fjg5ug.png",
+          "https://files.catbox.moe/dtrptg.png",
+          "https://files.catbox.moe/sgxr6i.png",
+          "https://files.catbox.moe/rowio3.png",
+          "https://files.catbox.moe/hjzwgi.png",
+          "https://files.catbox.moe/laj6r5.png",
+          "https://files.catbox.moe/n9aa3k.png",
+          "https://files.catbox.moe/wgt2ii.png",
+          "https://files.catbox.moe/cbwdkz.png",
+          "https://files.catbox.moe/21aqza.png",
+          "https://files.catbox.moe/oxqu0w.png",
+          "https://files.catbox.moe/4wd1jd.png",
+          "https://files.catbox.moe/gsx7p8.png",
+          "https://files.catbox.moe/qcgmtz.png",
+          "https://files.catbox.moe/6nuk2w.png",
+          "https://files.catbox.moe/espnex.png",
+          "https://files.catbox.moe/pkdj1k.png",
+          "https://files.catbox.moe/turyan.png",
+          "https://files.catbox.moe/4hvi1y.png",
+          "https://files.catbox.moe/5c4mbn.png",
+          "https://files.catbox.moe/jdck32.png"
+        ]
+      },
+      "last_updated": 1603515620
+    },
+    "2": {
+      "title": "The Koyomi Family's Most Prized Posession",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/io3ueu.png",
+          "https://files.catbox.moe/4fjew2.png",
+          "https://files.catbox.moe/05rp0c.png",
+          "https://files.catbox.moe/6qkm59.png",
+          "https://files.catbox.moe/a52shb.png",
+          "https://files.catbox.moe/1ajqgq.png",
+          "https://files.catbox.moe/dndxtd.png",
+          "https://files.catbox.moe/6pkz92.png",
+          "https://files.catbox.moe/b5acxe.png",
+          "https://files.catbox.moe/4lmyen.png",
+          "https://files.catbox.moe/4jmq8o.png",
+          "https://files.catbox.moe/1gk6zn.png",
+          "https://files.catbox.moe/namcrn.png",
+          "https://files.catbox.moe/jxy630.png",
+          "https://files.catbox.moe/47wtpc.png",
+          "https://files.catbox.moe/0k1q97.png",
+          "https://files.catbox.moe/zgo0qr.png",
+          "https://files.catbox.moe/jrnq5k.png",
+          "https://files.catbox.moe/gmjd86.png",
+          "https://files.catbox.moe/ak1vxz.png",
+          "https://files.catbox.moe/yiawef.png",
+          "https://files.catbox.moe/9j0y4f.png",
+          "https://files.catbox.moe/k2dub6.png",
+          "https://files.catbox.moe/3o8y5b.png",
+          "https://files.catbox.moe/v5wrkz.png",
+          "https://files.catbox.moe/dtzjn4.png"
+        ]
+      },
+      "last_updated": 1606454374
+    },
+    "3": {
+      "title": "Cooking War",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/cop44i.png",
+          "https://files.catbox.moe/gzkrrp.png",
+          "https://files.catbox.moe/poaxmd.png",
+          "https://files.catbox.moe/fd2rrp.png",
+          "https://files.catbox.moe/svonkv.png",
+          "https://files.catbox.moe/47l2z4.png",
+          "https://files.catbox.moe/6qcit5.png",
+          "https://files.catbox.moe/25xjc1.png",
+          "https://files.catbox.moe/0rv088.png",
+          "https://files.catbox.moe/cfrw0l.png",
+          "https://files.catbox.moe/jho0by.png",
+          "https://files.catbox.moe/nur3u1.png",
+          "https://files.catbox.moe/2hbfzd.png",
+          "https://files.catbox.moe/59l8wo.png",
+          "https://files.catbox.moe/xuz88h.png",
+          "https://files.catbox.moe/upzhe9.png",
+          "https://files.catbox.moe/77asdo.png",
+          "https://files.catbox.moe/t2vrxq.png"
+        ]
+      },
+      "last_updated": 1607965067
     }
+  }
 }

@@ -1,137 +1,309 @@
 {
-    "title": "Mikakunin de Shinkoukei",
-    "description": "This is a four-panel comedy manga about Kobeni Yonomori, who on her 16th birthday suddenly has a young man with little presence named Hakuya Mitsumine and his little sister Mashiro appear in front of her. It turns out that Hakuya is her fianc\u00e9, and Mashiro is her future sister-in-law. The three (and Kobeni's overprotective big sister Benio) start living together under the same roof, and hilarious happenings occur.",
-    "author": "Arai Cherry",
-    "artist": "Arai Cherry",
-    "cover": "https://files.catbox.moe/9dtjzd.jpg",
-    "chapters": {
-        "102": {
-            "title": "",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/jqhia9"
-            },
-            "last_updated": 1528956681
-        },
-        "103": {
-            "title": "",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/0f4zu7"
-            },
-            "last_updated": 1532548732
-        },
-        "104": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/aqefgq"
-            },
-            "last_updated": 1532999827
-        },
-        "105": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/057n91"
-            },
-            "last_updated": 1532999835
-        },
-        "106": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/kfl8v2"
-            },
-            "last_updated": 1533610858
-        },
-        "106.5": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/yc0935"
-            },
-            "last_updated": 1534091367
-        },
-        "107": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/0ff5fv"
-            },
-            "last_updated": 1534998489
-        },
-        "108": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/zqpjnt"
-            },
-            "last_updated": 1535899487
-        },
-        "109": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/huzgal"
-            },
-            "last_updated": 1537509249
-        },
-        "110": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/81bu85"
-            },
-            "last_updated": 1537509257
-        },
-        "111": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/eitz1r"
-            },
-            "last_updated": 1539271836
-        },
-        "112": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/p2ps12"
-            },
-            "last_updated": 1539271840
-        },
-        "113": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/wpzxw4"
-            },
-            "last_updated": 1539271846
-        },
-        "114": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/sga39y"
-            },
-            "last_updated": 1539271850
-        },
-        "115": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/sg7llu"
-            },
-            "last_updated": 1539271854
-        },
-        "115.5": {
-            "title": "",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/go5c8l"
-            },
-            "last_updated": 1539271864
-        }
+  "title": "Mikakunin de Shinkoukei",
+  "description": "This is a four-panel comedy manga about Kobeni Yonomori, who on her 16th birthday suddenly has a young man with little presence named Hakuya Mitsumine and his little sister Mashiro appear in front of her. It turns out that Hakuya is her fianc\u00e9, and Mashiro is her future sister-in-law. The three (and Kobeni's overprotective big sister Benio) start living together under the same roof, and hilarious happenings occur.",
+  "author": "Arai Cherry",
+  "artist": "Arai Cherry",
+  "cover": "https://files.catbox.moe/9dtjzd.jpg",
+  "chapters": {
+    "102": {
+      "title": "",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/fzc3yw.png",
+          "https://files.catbox.moe/2k8sby.png",
+          "https://files.catbox.moe/4uno69.png",
+          "https://files.catbox.moe/014l2j.png",
+          "https://files.catbox.moe/dxgnwx.png",
+          "https://files.catbox.moe/w16sbz.png",
+          "https://files.catbox.moe/5t51ko.png",
+          "https://files.catbox.moe/ov18nz.png",
+          "https://files.catbox.moe/5y1ze4.png"
+        ]
+      },
+      "last_updated": 1528956681
+    },
+    "103": {
+      "title": "",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/wdshdq.png",
+          "https://files.catbox.moe/wrecer.png",
+          "https://files.catbox.moe/f7nw2u.png",
+          "https://files.catbox.moe/vucnrh.png",
+          "https://files.catbox.moe/npsh1m.png",
+          "https://files.catbox.moe/8pszu8.png",
+          "https://files.catbox.moe/kw6kos.png",
+          "https://files.catbox.moe/9i1m6h.png",
+          "https://files.catbox.moe/9xss24.png",
+          "https://files.catbox.moe/5gcc4f.png",
+          "https://files.catbox.moe/kt91nm.png",
+          "https://files.catbox.moe/zsiacv.png",
+          "https://files.catbox.moe/zhkhf2.png",
+          "https://files.catbox.moe/bgip4r.png"
+        ]
+      },
+      "last_updated": 1532548732
+    },
+    "104": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/j05l7k.jpeg",
+          "https://files.catbox.moe/n2ldh3.jpeg",
+          "https://files.catbox.moe/hkt8jc.jpeg",
+          "https://files.catbox.moe/v2angg.jpg",
+          "https://files.catbox.moe/l3peud.jpeg",
+          "https://files.catbox.moe/ev5m6r.jpeg",
+          "https://files.catbox.moe/ms4j6g.jpeg",
+          "https://files.catbox.moe/k58tue.jpeg",
+          "https://files.catbox.moe/63qyc6.jpg",
+          "https://files.catbox.moe/5ykdva.jpg",
+          "https://files.catbox.moe/d1seu4.png",
+          "https://files.catbox.moe/7efc8v.png",
+          "https://files.catbox.moe/j6ccs0.png",
+          "https://files.catbox.moe/hhvec4.png",
+          "https://files.catbox.moe/z54clo.png",
+          "https://files.catbox.moe/6efi91.png"
+        ]
+      },
+      "last_updated": 1532999827
+    },
+    "105": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/shpy2g.png",
+          "https://files.catbox.moe/nl08e3.png",
+          "https://files.catbox.moe/2eird4.png",
+          "https://files.catbox.moe/4cacbo.png",
+          "https://files.catbox.moe/7e8s97.png",
+          "https://files.catbox.moe/ljacc9.png",
+          "https://files.catbox.moe/baw1bg.png",
+          "https://files.catbox.moe/nt8deh.png",
+          "https://files.catbox.moe/9f3uiy.png"
+        ]
+      },
+      "last_updated": 1532999835
+    },
+    "106": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/5owm74.png",
+          "https://files.catbox.moe/oi7wa8.png",
+          "https://files.catbox.moe/3lcn2l.png",
+          "https://files.catbox.moe/zftryo.png",
+          "https://files.catbox.moe/xl4r1t.png",
+          "https://files.catbox.moe/0m6beg.png",
+          "https://files.catbox.moe/vczl70.png",
+          "https://files.catbox.moe/rphjcg.png",
+          "https://files.catbox.moe/blb0bp.png"
+        ]
+      },
+      "last_updated": 1533610858
+    },
+    "106.5": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/2cbra1.jpeg",
+          "https://files.catbox.moe/km4l0n.png",
+          "https://files.catbox.moe/2lhhnp.png",
+          "https://files.catbox.moe/1u5jaa.png",
+          "https://files.catbox.moe/8ccymg.png",
+          "https://files.catbox.moe/gi1guf.png",
+          "https://files.catbox.moe/ohmjv8.png"
+        ]
+      },
+      "last_updated": 1534091367
+    },
+    "107": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/5llcki.png",
+          "https://files.catbox.moe/zrbd1o.png",
+          "https://files.catbox.moe/ocha4t.png",
+          "https://files.catbox.moe/que4y8.png",
+          "https://files.catbox.moe/sdga7o.png",
+          "https://files.catbox.moe/fybnk9.png",
+          "https://files.catbox.moe/ti1ssz.png",
+          "https://files.catbox.moe/wi2mra.png",
+          "https://files.catbox.moe/r6e2ah.png"
+        ]
+      },
+      "last_updated": 1534998489
+    },
+    "108": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/h4vru8.png",
+          "https://files.catbox.moe/l0koxz.png",
+          "https://files.catbox.moe/6ue3ts.png",
+          "https://files.catbox.moe/rh0a32.png",
+          "https://files.catbox.moe/8rszj8.png",
+          "https://files.catbox.moe/ohrl1i.png",
+          "https://files.catbox.moe/jbqhm6.png",
+          "https://files.catbox.moe/5tcmmx.png",
+          "https://files.catbox.moe/kmdnyg.png",
+          "https://files.catbox.moe/xefegv.png"
+        ]
+      },
+      "last_updated": 1535899487
+    },
+    "109": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/gftsut.png",
+          "https://files.catbox.moe/jhvl2i.png",
+          "https://files.catbox.moe/noczxf.png",
+          "https://files.catbox.moe/enox8j.png",
+          "https://files.catbox.moe/jhjitl.png",
+          "https://files.catbox.moe/19q6ew.png",
+          "https://files.catbox.moe/7fpfbl.png"
+        ]
+      },
+      "last_updated": 1537509249
+    },
+    "110": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/c1tfo7.png",
+          "https://files.catbox.moe/32koc3.png",
+          "https://files.catbox.moe/4vr1hi.png",
+          "https://files.catbox.moe/qbcxer.png",
+          "https://files.catbox.moe/15u0be.png",
+          "https://files.catbox.moe/8tc68l.png",
+          "https://files.catbox.moe/0dyy7w.png",
+          "https://files.catbox.moe/8oqyw4.png",
+          "https://files.catbox.moe/xzs230.png"
+        ]
+      },
+      "last_updated": 1537509257
+    },
+    "111": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/q0k1be.png",
+          "https://files.catbox.moe/naig5v.png",
+          "https://files.catbox.moe/b33tbr.png",
+          "https://files.catbox.moe/69edfc.png",
+          "https://files.catbox.moe/v44fcp.png",
+          "https://files.catbox.moe/8y0ftc.png",
+          "https://files.catbox.moe/obaq0g.png",
+          "https://files.catbox.moe/qzc201.png"
+        ]
+      },
+      "last_updated": 1539271836
+    },
+    "112": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/2uvr7l.png",
+          "https://files.catbox.moe/g09m8e.png",
+          "https://files.catbox.moe/fhsff0.png",
+          "https://files.catbox.moe/aokipa.png",
+          "https://files.catbox.moe/trogi1.png",
+          "https://files.catbox.moe/oik8h5.png",
+          "https://files.catbox.moe/ph8b00.png",
+          "https://files.catbox.moe/mske5r.png"
+        ]
+      },
+      "last_updated": 1539271840
+    },
+    "113": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/56zxbt.png",
+          "https://files.catbox.moe/m36i13.png",
+          "https://files.catbox.moe/8auk65.png",
+          "https://files.catbox.moe/k0gie0.png",
+          "https://files.catbox.moe/z6k7ae.png",
+          "https://files.catbox.moe/3ectq7.png",
+          "https://files.catbox.moe/4oujl1.png",
+          "https://files.catbox.moe/kl8mkm.png"
+        ]
+      },
+      "last_updated": 1539271846
+    },
+    "114": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/xb61y4.png",
+          "https://files.catbox.moe/5lpkxy.png",
+          "https://files.catbox.moe/ronrs5.png",
+          "https://files.catbox.moe/tp2qbw.png",
+          "https://files.catbox.moe/zc5fsj.png",
+          "https://files.catbox.moe/qki9mq.png",
+          "https://files.catbox.moe/lw0my3.png",
+          "https://files.catbox.moe/oy9ytf.png"
+        ]
+      },
+      "last_updated": 1539271850
+    },
+    "115": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/hif9ta.png",
+          "https://files.catbox.moe/47nxc9.png",
+          "https://files.catbox.moe/u0i1s9.png",
+          "https://files.catbox.moe/ql9qde.png",
+          "https://files.catbox.moe/3pzfon.png",
+          "https://files.catbox.moe/zos00s.png",
+          "https://files.catbox.moe/q5ptuf.png",
+          "https://files.catbox.moe/gmr7rq.png"
+        ]
+      },
+      "last_updated": 1539271854
+    },
+    "115.5": {
+      "title": "",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/88awdp.png",
+          "https://files.catbox.moe/dpcufy.png",
+          "https://files.catbox.moe/zq1h2c.png",
+          "https://files.catbox.moe/jijrot.png",
+          "https://files.catbox.moe/8swza6.png",
+          "https://files.catbox.moe/t4hj4z.png",
+          "https://files.catbox.moe/hk92ov.png",
+          "https://files.catbox.moe/zw8aso.png",
+          "https://files.catbox.moe/ke2n8f.png",
+          "https://files.catbox.moe/jfpkst.png",
+          "https://files.catbox.moe/d84ijl.png",
+          "https://files.catbox.moe/53hv2a.jpg",
+          "https://files.catbox.moe/lnhsmn.jpg",
+          "https://files.catbox.moe/8qc1xv.jpg",
+          "https://files.catbox.moe/i7o3o4.jpg",
+          "https://files.catbox.moe/5vfixk.png",
+          "https://files.catbox.moe/3xvyyh.png"
+        ]
+      },
+      "last_updated": 1539271864
     }
+  }
 }

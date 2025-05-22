@@ -1,17 +1,25 @@
 {
-    "title": "April Fool's Collection 2020",
-    "description": "Long ago , degenerates lurked in Manga**x. Then everything changed when the ads attacked. Only the mod, master of the ban hammer, could stop them, but when the April 1st came, he vanished. A couple minutes have passed and my waifu and I discovered the memes. And although the panty shots are great, these memes won't bee here for long. But I believe they will go down in glory  \n  \ntldr: Collection of 2020 April Fool's releases",
-    "author": "Mangacat",
-    "artist": "Mangacat",
-    "cover": "https://files.catbox.moe/g8sqm4.gif",
-    "chapters": {
-        "49.1": {
-            "title": "Middle school and worries",
-            "volume": null,
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/740zpb"
-            },
-            "last_updated": 1585773366
-        }
+  "title": "April Fool's Collection 2020",
+  "description": "Long ago , degenerates lurked in Manga**x. Then everything changed when the ads attacked. Only the mod, master of the ban hammer, could stop them, but when the April 1st came, he vanished. A couple minutes have passed and my waifu and I discovered the memes. And although the panty shots are great, these memes won't bee here for long. But I believe they will go down in glory  \n  \ntldr: Collection of 2020 April Fool's releases",
+  "author": "Mangacat",
+  "artist": "Mangacat",
+  "cover": "https://files.catbox.moe/g8sqm4.gif",
+  "chapters": {
+    "49.1": {
+      "title": "Middle school and worries",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/izzkao.png",
+          "https://files.catbox.moe/bnp3nq.png",
+          "https://files.catbox.moe/bol2jy.png",
+          "https://files.catbox.moe/6mya7h.png",
+          "https://files.catbox.moe/b4n4tk.png",
+          "https://files.catbox.moe/m9un4r.png",
+          "https://files.catbox.moe/8yqo21.png"
+        ]
+      },
+      "last_updated": 1585773366
     }
+  }
 }

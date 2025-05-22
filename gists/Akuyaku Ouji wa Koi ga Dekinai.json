@@ -1,65 +1,240 @@
 {
-    "title": "Akuyaku Ouji wa Koi ga Dekinai",
-    "description": "The manga is a romantic comedy starring the clever and handsome son of a wealthy family. In middle school he only ever studied, and everyone said he was plain like a background character. When he gets to high school, he enacts a plan to change his image to be more like a \"main character\" and get the perfect girlfriend.  \n  \n\n\n---\n\n  \n**Links:**  \n- [![](https://i.imgur.com/dQCXZkU.png) Mangaka's Twitter](https://twitter.com/yonedakazusa)  \n- [![](https://i.imgur.com/oiVINmy.png) Mangaka\u2019s Pixiv](https://www.pixiv.net/en/users/770176)",
-    "author": "Yoneda Kazusa",
-    "artist": "Yoneda Kazusa",
-    "cover": "https://files.catbox.moe/6beunp.png",
-    "chapters": {
-        "6": {
-            "title": "Can't Live Like a Protagonist",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/o1kjxk"
-            },
-            "last_updated": 1590954506
-        },
-        "7": {
-            "title": "Can't Act Natural",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/f2sh1t"
-            },
-            "last_updated": 1601887598
-        },
-        "8": {
-            "title": "Can't Keep It A Secret",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/qswrh8"
-            },
-            "last_updated": 1608682166
-        },
-        "9": {
-            "title": "Can't Be In A Love Triangle!?",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/lss025"
-            },
-            "last_updated": 1612603922
-        },
-        "10": {
-            "title": "Can't Predict",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/okliv7"
-            },
-            "last_updated": 1659321539
-        },
-        "11": {
-            "title": "The Villain Prince Can't Be In Love",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/8llh16"
-            },
-            "last_updated": 1660954292
-        },
-        "11.5": {
-            "title": "Bonus: After \"The End\"",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/vsh0q0"
-            },
-            "last_updated": 1660956086
-        }
+  "title": "Akuyaku Ouji wa Koi ga Dekinai",
+  "description": "The manga is a romantic comedy starring the clever and handsome son of a wealthy family. In middle school he only ever studied, and everyone said he was plain like a background character. When he gets to high school, he enacts a plan to change his image to be more like a \"main character\" and get the perfect girlfriend.  \n  \n\n\n---\n\n  \n**Links:**  \n- [![](https://i.imgur.com/dQCXZkU.png) Mangaka's Twitter](https://twitter.com/yonedakazusa)  \n- [![](https://i.imgur.com/oiVINmy.png) Mangaka\u2019s Pixiv](https://www.pixiv.net/en/users/770176)",
+  "author": "Yoneda Kazusa",
+  "artist": "Yoneda Kazusa",
+  "cover": "https://files.catbox.moe/6beunp.png",
+  "chapters": {
+    "6": {
+      "title": "Can't Live Like a Protagonist",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/0n6dnf.png",
+          "https://files.catbox.moe/i89rca.png",
+          "https://files.catbox.moe/paqmf2.png",
+          "https://files.catbox.moe/maie7w.png",
+          "https://files.catbox.moe/dzytqu.png",
+          "https://files.catbox.moe/4yo9sw.png",
+          "https://files.catbox.moe/zl3f69.png",
+          "https://files.catbox.moe/uqklv7.png",
+          "https://files.catbox.moe/nxv1ir.png",
+          "https://files.catbox.moe/x5g8fj.png",
+          "https://files.catbox.moe/y6242j.png",
+          "https://files.catbox.moe/dabi5z.png",
+          "https://files.catbox.moe/q4fmju.png",
+          "https://files.catbox.moe/84zasy.png",
+          "https://files.catbox.moe/f5ipmy.png",
+          "https://files.catbox.moe/ha7y99.png",
+          "https://files.catbox.moe/bsjfcq.png",
+          "https://files.catbox.moe/d6ivge.png",
+          "https://files.catbox.moe/ismzu8.png",
+          "https://files.catbox.moe/u8scsf.png",
+          "https://files.catbox.moe/bbgjok.png",
+          "https://files.catbox.moe/eaj1lt.png"
+        ]
+      },
+      "last_updated": 1590954506
+    },
+    "7": {
+      "title": "Can't Act Natural",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/abyct5.png",
+          "https://files.catbox.moe/2l3zar.png",
+          "https://files.catbox.moe/8xymje.png",
+          "https://files.catbox.moe/5vbzlv.png",
+          "https://files.catbox.moe/kww8eh.png",
+          "https://files.catbox.moe/iiz7fc.png",
+          "https://files.catbox.moe/nzcsca.png",
+          "https://files.catbox.moe/ic0px8.png",
+          "https://files.catbox.moe/3vlbii.png",
+          "https://files.catbox.moe/g8hnab.png",
+          "https://files.catbox.moe/uptkwc.png",
+          "https://files.catbox.moe/oha2fs.png",
+          "https://files.catbox.moe/4dp8md.png",
+          "https://files.catbox.moe/9oh4pd.png",
+          "https://files.catbox.moe/3a44kh.png",
+          "https://files.catbox.moe/u55pfl.png",
+          "https://files.catbox.moe/dfhwmp.png",
+          "https://files.catbox.moe/y4uwyr.png",
+          "https://files.catbox.moe/1pan9c.png",
+          "https://files.catbox.moe/8qrzte.png",
+          "https://files.catbox.moe/mj37jm.png",
+          "https://files.catbox.moe/v9tsce.png",
+          "https://files.catbox.moe/s9deer.png",
+          "https://files.catbox.moe/fxzmrf.png",
+          "https://files.catbox.moe/37ubdd.png",
+          "https://files.catbox.moe/qfvz1t.png",
+          "https://files.catbox.moe/hub2qu.png",
+          "https://files.catbox.moe/5633sm.png",
+          "https://files.catbox.moe/0ioryo.png",
+          "https://files.catbox.moe/ve40iz.png"
+        ]
+      },
+      "last_updated": 1601887598
+    },
+    "8": {
+      "title": "Can't Keep It A Secret",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/tfsis4.png",
+          "https://files.catbox.moe/kboamf.png",
+          "https://files.catbox.moe/ywudpl.png",
+          "https://files.catbox.moe/zatsbs.png",
+          "https://files.catbox.moe/twcosb.png",
+          "https://files.catbox.moe/t7yjkn.png",
+          "https://files.catbox.moe/jqdgdx.png",
+          "https://files.catbox.moe/g4tc7k.png",
+          "https://files.catbox.moe/qunyrj.png",
+          "https://files.catbox.moe/9w9cx8.png",
+          "https://files.catbox.moe/fmv5cb.png",
+          "https://files.catbox.moe/nkc672.png",
+          "https://files.catbox.moe/aznwsa.png",
+          "https://files.catbox.moe/h60zvv.png",
+          "https://files.catbox.moe/yjzzx7.png",
+          "https://files.catbox.moe/jg5ixh.png",
+          "https://files.catbox.moe/mjnd4q.png",
+          "https://files.catbox.moe/dhi2pm.png",
+          "https://files.catbox.moe/lck5yz.png",
+          "https://files.catbox.moe/ntw51s.png",
+          "https://files.catbox.moe/tp0hqr.png",
+          "https://files.catbox.moe/ryv338.png"
+        ]
+      },
+      "last_updated": 1608682166
+    },
+    "9": {
+      "title": "Can't Be In A Love Triangle!?",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/pbcedr.png",
+          "https://files.catbox.moe/95emsx.png",
+          "https://files.catbox.moe/8p8k8h.png",
+          "https://files.catbox.moe/tgh3c2.png",
+          "https://files.catbox.moe/zhcgkv.png",
+          "https://files.catbox.moe/nd81k2.png",
+          "https://files.catbox.moe/jv4v9u.png",
+          "https://files.catbox.moe/3hbx1p.png",
+          "https://files.catbox.moe/e07xym.png",
+          "https://files.catbox.moe/e42yy3.png",
+          "https://files.catbox.moe/ob5nqi.png",
+          "https://files.catbox.moe/eauibq.png",
+          "https://files.catbox.moe/lqmjj6.png",
+          "https://files.catbox.moe/jyncld.png",
+          "https://files.catbox.moe/76vwnl.png",
+          "https://files.catbox.moe/t12r4b.png",
+          "https://files.catbox.moe/takrn3.png",
+          "https://files.catbox.moe/5ni1j5.png",
+          "https://files.catbox.moe/x9u6az.png",
+          "https://files.catbox.moe/gx2kf0.png",
+          "https://files.catbox.moe/rusack.png"
+        ]
+      },
+      "last_updated": 1612603922
+    },
+    "10": {
+      "title": "Can't Predict",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/rq3m7m.png",
+          "https://files.catbox.moe/0pengf.png",
+          "https://files.catbox.moe/t07wzj.png",
+          "https://files.catbox.moe/qsidzt.png",
+          "https://files.catbox.moe/rgxa8m.png",
+          "https://files.catbox.moe/stm7bb.png",
+          "https://files.catbox.moe/jtzxlq.png",
+          "https://files.catbox.moe/ik5diy.png",
+          "https://files.catbox.moe/5eqdmc.png",
+          "https://files.catbox.moe/neqdg2.png",
+          "https://files.catbox.moe/rx0dzk.png",
+          "https://files.catbox.moe/dfsm5l.png",
+          "https://files.catbox.moe/fzvnaj.png",
+          "https://files.catbox.moe/kstnuf.png",
+          "https://files.catbox.moe/ncuzzy.png",
+          "https://files.catbox.moe/olj7vg.png",
+          "https://files.catbox.moe/q7w84v.png",
+          "https://files.catbox.moe/8dr7f3.png",
+          "https://files.catbox.moe/r4y0xw.png",
+          "https://files.catbox.moe/vfdui5.png",
+          "https://files.catbox.moe/bqeyqd.png",
+          "https://files.catbox.moe/58k9t1.png",
+          "https://files.catbox.moe/2r0i8t.png",
+          "https://files.catbox.moe/3luq7f.png",
+          "https://files.catbox.moe/hz5noq.png",
+          "https://files.catbox.moe/8y3k8h.png",
+          "https://files.catbox.moe/a3cubq.png"
+        ]
+      },
+      "last_updated": 1659321539
+    },
+    "11": {
+      "title": "The Villain Prince Can't Be In Love",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/dseya9.png",
+          "https://files.catbox.moe/9g26u0.png",
+          "https://files.catbox.moe/5w6344.png",
+          "https://files.catbox.moe/01vnt8.png",
+          "https://files.catbox.moe/rpyju3.png",
+          "https://files.catbox.moe/kvxqiv.png",
+          "https://files.catbox.moe/ojl26s.png",
+          "https://files.catbox.moe/0zc2hf.png",
+          "https://files.catbox.moe/0gwlt8.png",
+          "https://files.catbox.moe/aen4y3.png",
+          "https://files.catbox.moe/o7dh1v.png",
+          "https://files.catbox.moe/cfy7lq.png",
+          "https://files.catbox.moe/mqj3xl.png",
+          "https://files.catbox.moe/yzl0ky.png",
+          "https://files.catbox.moe/4p6b2x.png",
+          "https://files.catbox.moe/4otpai.png",
+          "https://files.catbox.moe/38uxyh.png",
+          "https://files.catbox.moe/058kq5.png",
+          "https://files.catbox.moe/edakj8.png",
+          "https://files.catbox.moe/dmxpuo.png",
+          "https://files.catbox.moe/ud4rt5.png",
+          "https://files.catbox.moe/hyoly2.png",
+          "https://files.catbox.moe/0cyp4a.png",
+          "https://files.catbox.moe/tjrmc7.png",
+          "https://files.catbox.moe/7jwswo.png",
+          "https://files.catbox.moe/j7sest.png",
+          "https://files.catbox.moe/hne8ak.png",
+          "https://files.catbox.moe/dx25a3.png",
+          "https://files.catbox.moe/i5y2ah.png",
+          "https://files.catbox.moe/gq2tkr.png",
+          "https://files.catbox.moe/6ikl8w.png"
+        ]
+      },
+      "last_updated": 1660954292
+    },
+    "11.5": {
+      "title": "Bonus: After \"The End\"",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/1j8e6w.png",
+          "https://files.catbox.moe/otac4s.png",
+          "https://files.catbox.moe/ey1s28.png",
+          "https://files.catbox.moe/8guq4g.png",
+          "https://files.catbox.moe/szqog7.png",
+          "https://files.catbox.moe/w4d4fx.png",
+          "https://files.catbox.moe/7s38cw.png",
+          "https://files.catbox.moe/qx5c33.png",
+          "https://files.catbox.moe/lcsrcw.png",
+          "https://files.catbox.moe/w896vi.png",
+          "https://files.catbox.moe/9o8tof.png",
+          "https://files.catbox.moe/9ruxr7.png",
+          "https://files.catbox.moe/y8cebd.png",
+          "https://files.catbox.moe/kbytqc.png",
+          "https://files.catbox.moe/w8cm6q.png"
+        ]
+      },
+      "last_updated": 1660956086
     }
+  }
 }

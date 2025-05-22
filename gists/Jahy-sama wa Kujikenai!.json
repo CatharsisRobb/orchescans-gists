@@ -1,753 +1,2434 @@
 {
-    "title": "Jahy-sama wa Kujikenai!",
-    "description": "Jahy-sama (pronounced jah-hee) is an existence to be feared and respected throughout the Demon Realm. Well, was.\n\nThe (former) Demon Realm No. 2 is now busy with house chores and work\u2026in the human realm! Her dinner is just beansprouts, and she can't afford anything except water at cafes, but she won't get discouraged!\n\n---\n**Note:**\nJahy's shirt says '\u9b54\u754c\u5fa9\u8208', which seems to translate to 'Demon Realm Restoration'.",
-    "author": "Konbu Wakame",
-    "artist": "Konbu Wakame",
-    "cover": "https://files.catbox.moe/pzt4cj.jpg",
-    "chapters": {
-        "8": {
-            "title": "Jahy-sama, Druj, and the Owner",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/xlfrlz"
-            },
-            "last_updated": 1521942212
-        },
-        "9": {
-            "title": "Jahy-sama and a Challenger",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/nwuzbc"
-            },
-            "last_updated": 1522619106
-        },
-        "10": {
-            "title": "Jahy-sama and Living Expenses",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/f86tz7"
-            },
-            "last_updated": 1523132644
-        },
-        "11": {
-            "title": "Jahy-sama and Salwa, Again",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/tbjys4"
-            },
-            "last_updated": 1523744410
-        },
-        "12": {
-            "title": "Jahy-sama and the Machinations of Society",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/za1q8b"
-            },
-            "last_updated": 1524118660
-        },
-        "13": {
-            "title": "Jahy-sama and Public Speaking",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ww9y9t"
-            },
-            "last_updated": 1524757699
-        },
-        "14": {
-            "title": "Jahy-sama and a Cold",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ciq6k6"
-            },
-            "last_updated": 1525655495
-        },
-        "15": {
-            "title": "Jahy-sama and the Magical Girl",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/tysxm9"
-            },
-            "last_updated": 1525655522
-        },
-        "5.5": {
-            "title": "Jahy-sama and Her Daily Life",
-            "volume": "1",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ne7uvo"
-            },
-            "last_updated": 1525795983
-        },
-        "16": {
-            "title": "Jahy-sama and Fear",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/79ihw7"
-            },
-            "last_updated": 1528942428
-        },
-        "17": {
-            "title": "Jahy-sama and the Ominous School Girl",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/f8tzs9"
-            },
-            "last_updated": 1530503108
-        },
-        "18": {
-            "title": "Jahy-sama and Alcohol",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/j4t09x"
-            },
-            "last_updated": 1532467206
-        },
-        "19": {
-            "title": "Jahy-sama and A Sign of Happiness",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/2gadrn"
-            },
-            "last_updated": 1533012637
-        },
-        "20": {
-            "title": "Jahy-sama and the Woes of the Demon Elite",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/dqbhai"
-            },
-            "last_updated": 1534641827
-        },
-        "21": {
-            "title": "Jahy-sama and Working Out",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/zsu9ok"
-            },
-            "last_updated": 1537550076
-        },
-        "22": {
-            "title": "Jahy-sama and a Neighbor",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/5boihr"
-            },
-            "last_updated": 1542085542
-        },
-        "23": {
-            "title": "Jahy-sama and the Demon Realm Party",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/9ya4wk"
-            },
-            "last_updated": 1544504233
-        },
-        "24": {
-            "title": "Jahy-sama and the Supermarket",
-            "volume": "4",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/vehhsx"
-            },
-            "last_updated": 1546477986
-        },
-        "14.5": {
-            "title": "Jahy-sama and Rent",
-            "volume": "2",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/wjitk1"
-            },
-            "last_updated": 1546478161
-        },
-        "25": {
-            "title": "Jahy-sama and Booby Traps",
-            "volume": "4",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/m4rq6y"
-            },
-            "last_updated": 1546630197
-        },
-        "26": {
-            "title": "Jahy-sama and the Bathhouse",
-            "volume": "4",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/njr648"
-            },
-            "last_updated": 1547760146
-        },
-        "27": {
-            "title": "Salwa-sama and the Bathhouse, Too",
-            "volume": "4",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/hgqyt1"
-            },
-            "last_updated": 1548481965
-        },
-        "28": {
-            "title": "Jahy-sama and the Magical Girl's Desire",
-            "volume": "4",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/lg5fkx"
-            },
-            "last_updated": 1549587201
-        },
-        "32": {
-            "title": "Jahy-sama and the Landlady Who Ran from Home",
-            "volume": "4",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/wgownb"
-            },
-            "last_updated": 1557181154
-        },
-        "33": {
-            "title": "Jahy-sama and Tomatoes",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ln1dty"
-            },
-            "last_updated": 1560570995
-        },
-        "34": {
-            "title": "Salwa-sama and the Doggie",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/owm8s3"
-            },
-            "last_updated": 1564949138
-        },
-        "35": {
-            "title": "Jahy-sama and Park Investigation",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/utv0yi"
-            },
-            "last_updated": 1565380977
-        },
-        "36": {
-            "title": "Jahy-sama and Finding a Gem",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/5qfl02"
-            },
-            "last_updated": 1569901202
-        },
-        "37": {
-            "title": "Jahy-sama and Seaside Restaurant",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/882b0z"
-            },
-            "last_updated": 1573079997
-        },
-        "38": {
-            "title": "Jahy-sama and Entrusting Gems",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/s6ofiw"
-            },
-            "last_updated": 1573892561
-        },
-        "39": {
-            "title": "Jahy-sama and Druj's Feelings",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/eu3hly"
-            },
-            "last_updated": 1573892827
-        },
-        "40": {
-            "title": "Jahy-sama and the Final Battle",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/mcjf0y"
-            },
-            "last_updated": 1576609154
-        },
-        "41": {
-            "title": "Jahy-sama and the Magical Girl's Abode",
-            "volume": "5",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ilx23t"
-            },
-            "last_updated": 1577485999
-        },
-        "42": {
-            "title": "Jahy-sama and Maou-sama",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/yfjype"
-            },
-            "last_updated": 1579392009
-        },
-        "43": {
-            "title": "Jahy-sama and Trust",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/5cnomk"
-            },
-            "last_updated": 1580268909
-        },
-        "44": {
-            "title": "Jahy-sama and Let's Play Together",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/2046zl"
-            },
-            "last_updated": 1584743494
-        },
-        "45": {
-            "title": "Jahy-sama and the New Employee",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/fam5ht"
-            },
-            "last_updated": 1586666734
-        },
-        "46": {
-            "title": "Druj and the Magical Girl",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ql6w4x"
-            },
-            "last_updated": 1587244456
-        },
-        "47": {
-            "title": "Salwa and the Magical Girl",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/m6lbmu"
-            },
-            "last_updated": 1587527637
-        },
-        "48": {
-            "title": "Jahy-sama and Maou-sama's Past",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ttxlgt"
-            },
-            "last_updated": 1588371215
-        },
-        "49": {
-            "title": "Jahy-sama and Menu Development",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/fnokop"
-            },
-            "last_updated": 1590954481
-        },
-        "50": {
-            "title": "Salwa-sama and Volunteering",
-            "volume": "6",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/emmyfy"
-            },
-            "last_updated": 1593464920
-        },
-        "51": {
-            "title": "Jahy-sama and Quality of Life",
-            "volume": "7",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/c1pyu1"
-            },
-            "last_updated": 1629498039
-        },
-        "54": {
-            "title": "Jahy-sama and the Fated Confrontation",
-            "volume": "7",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/8fjfuq"
-            },
-            "last_updated": 1629862712
-        },
-        "23.5": {
-            "title": "Jahy-sama and the Cat Cafe",
-            "volume": "3",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/k8ly60"
-            },
-            "last_updated": 1600055138
-        },
-        "55": {
-            "title": "Jahy-sama and Friends",
-            "volume": "7",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/tbbb4k"
-            },
-            "last_updated": 1629862728
-        },
-        "56": {
-            "title": "Maou-sama's Day",
-            "volume": "7",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ujhcr8"
-            },
-            "last_updated": 1629862772
-        },
-        "32.5": {
-            "title": "Volume 4 Extras",
-            "volume": "4",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/4v5z4n"
-            },
-            "last_updated": 1606082502
-        },
-        "57": {
-            "title": "Jahy-sama and the Sleepover",
-            "volume": "7",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ec9ng8"
-            },
-            "last_updated": 1629862788
-        },
-        "58": {
-            "title": "Maou-sama and the Magical Girl",
-            "volume": "7",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/dpny2k"
-            },
-            "last_updated": 1629862803
-        },
-        "59": {
-            "title": "Jahy-sama and the Ghost",
-            "volume": "7",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/vwrgip"
-            },
-            "last_updated": 1629862819
-        },
-        "60": {
-            "title": "Jahy-sama and the Mysterious Light",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/dotvm2"
-            },
-            "last_updated": 1640147845
-        },
-        "61": {
-            "title": "Druj and Jahy-sama",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ybaulx"
-            },
-            "last_updated": 1640147862
-        },
-        "62": {
-            "title": "Jahy-sama and the Omikoshi",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/vbfalu"
-            },
-            "last_updated": 1640147877
-        },
-        "63": {
-            "title": "Salwa-sama and the Festival",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/9z8vq5"
-            },
-            "last_updated": 1640147909
-        },
-        "62.5": {
-            "title": "Jahy-sama and After the Omikoshi",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/uwz2zo"
-            },
-            "last_updated": 1640147894
-        },
-        "64": {
-            "title": "Jahy-sama and Independence",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/bp6tl5"
-            },
-            "last_updated": 1640147925
-        },
-        "65": {
-            "title": "Jahy-sama and the Mastermind's Appearance",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/q56b11"
-            },
-            "last_updated": 1640147940
-        },
-        "66": {
-            "title": "Jahy-sama and the Big Fight",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/dy37yv"
-            },
-            "last_updated": 1640147955
-        },
-        "67": {
-            "title": "Jahy-sama and the End of the Big Fight",
-            "volume": "8",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/0dqdif"
-            },
-            "last_updated": 1640147971
-        },
-        "68": {
-            "title": "Jahy-sama and the Farewell Party",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/sn9iqv"
-            },
-            "last_updated": 1711698903
-        },
-        "69": {
-            "title": "Jahy-sama and Jealousy",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/n0livf"
-            },
-            "last_updated": 1711698905
-        },
-        "70": {
-            "title": "Jahy-sama and Games",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/8a9k3f"
-            },
-            "last_updated": 1711698906
-        },
-        "71": {
-            "title": "Jahy-sama and the Live Concert",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/jha1cm"
-            },
-            "last_updated": 1711698907
-        },
-        "72": {
-            "title": "Jahy-sama and Doing One's Best",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/klfyvy"
-            },
-            "last_updated": 1711698908
-        },
-        "73": {
-            "title": "Jahy-sama and the Truth",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ircpf7"
-            },
-            "last_updated": 1711698910
-        },
-        "74": {
-            "title": "Jahy-sama and the Truth \u2461",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/3j1goi"
-            },
-            "last_updated": 1711698911
-        },
-        "75": {
-            "title": "Jahy-sama and Moving",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ocfx12"
-            },
-            "last_updated": 1711698912
-        },
-        "76": {
-            "title": "Jahy-sama and Demon Realm Restoration Strategy Meeting",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/whxgim"
-            },
-            "last_updated": 1711698914
-        },
-        "76.5": {
-            "title": "Jahy-sama and Comfort",
-            "volume": "9",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/lgdes5"
-            },
-            "last_updated": 1711698915
-        },
-        "77": {
-            "title": "Jahy-sama and Words of Praise",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/rkwmio"
-            },
-            "last_updated": 1711698916
-        },
-        "78": {
-            "title": "Jahy-sama and A Lot of Money",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/osb6tb"
-            },
-            "last_updated": 1711698917
-        },
-        "79": {
-            "title": "Jahy-sama and Shadowing",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/f0s1j5"
-            },
-            "last_updated": 1711698917
-        },
-        "80": {
-            "title": "Jahy-sama and Five of Me ",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/y6wtj2"
-            },
-            "last_updated": 1711698919
-        },
-        "81": {
-            "title": "Jahy-sama and Transformation",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/3uto9b"
-            },
-            "last_updated": 1711698919
-        },
-        "82": {
-            "title": "Jahy-sama and the lottery",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/wm7ybr"
-            },
-            "last_updated": 1711698921
-        },
-        "83": {
-            "title": "Jahy-sama and Hot Springs Trip",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/wb5x5t"
-            },
-            "last_updated": 1711698921
-        },
-        "84": {
-            "title": "Jahy-sama and Hot Springs Trip \u2461",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/uzk7hs"
-            },
-            "last_updated": 1711698922
-        },
-        "83.5": {
-            "title": "Kyouko and Hot Springs Trip",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/qgcl6x"
-            },
-            "last_updated": 1711698923
-        },
-        "84.5": {
-            "title": "Jahy-sama and Sleeping Together",
-            "volume": "10",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/f4upag"
-            },
-            "last_updated": 1711698924
-        },
-        "85": {
-            "title": "Jahy-sama and Work Again",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/w3rje1"
-            },
-            "last_updated": 1744128502
-        },
-        "86": {
-            "title": "Jahy-sama and a Stray Dog",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/3frad1"
-            },
-            "last_updated": 1744128515
-        },
-        "87": {
-            "title": "Jahy-sama and Pets",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/nudvzu"
-            },
-            "last_updated": 1744128528
-        },
-        "88": {
-            "title": "Saurva-sama and a Puppy",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/rbfcmr"
-            },
-            "last_updated": 1744128541
-        },
-        "89": {
-            "title": "Jahy-sama and the Crisis",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/wkh0ox"
-            },
-            "last_updated": 1744128725
-        },
-        "90": {
-            "title": "Jahy-sama and the Beloved Pet",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/z04t9m"
-            },
-            "last_updated": 1744128734
-        },
-        "91": {
-            "title": "Jahy-sama and the School",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/b5o5ho"
-            },
-            "last_updated": 1744128744
-        },
-        "92": {
-            "title": "Saurva-sama and the Infantilization Elixir",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/vuq5hx"
-            },
-            "last_updated": 1744128786
-        },
-        "93": {
-            "title": "Taromaru and Jahy-sama",
-            "volume": "11",
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/ir0pyh"
-            },
-            "last_updated": 1744128796
-        },
-        "94": {
-            "title": "Jahy-sama and the Ideal Demon Realm",
-            "volume": null,
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/6x4110"
-            },
-            "last_updated": 1738708410
-        },
-        "95": {
-            "title": "Jahy-sama and Being a Human",
-            "volume": null,
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/r4w57p"
-            },
-            "last_updated": 1740858677
-        },
-        "96": {
-            "title": "Jahy-sama and Cleaning the Building",
-            "volume": null,
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/m8rvem"
-            },
-            "last_updated": 1744128482
-        },
-        "97": {
-            "title": "Jahy-sama and the Love Potion",
-            "volume": null,
-            "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/o7cw0a"
-            },
-            "last_updated": 1746910853
-        }
+  "title": "Jahy-sama wa Kujikenai!",
+  "description": "Jahy-sama (pronounced jah-hee) is an existence to be feared and respected throughout the Demon Realm. Well, was.\n\nThe (former) Demon Realm No. 2 is now busy with house chores and work\u2026in the human realm! Her dinner is just beansprouts, and she can't afford anything except water at cafes, but she won't get discouraged!\n\n---\n**Note:**\nJahy's shirt says '\u9b54\u754c\u5fa9\u8208', which seems to translate to 'Demon Realm Restoration'.",
+  "author": "Konbu Wakame",
+  "artist": "Konbu Wakame",
+  "cover": "https://files.catbox.moe/pzt4cj.jpg",
+  "chapters": {
+    "8": {
+      "title": "Jahy-sama, Druj, and the Owner",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/ob0hmq.png",
+          "https://files.catbox.moe/aeud0k.png",
+          "https://files.catbox.moe/ygzevk.png",
+          "https://files.catbox.moe/opwfoi.png",
+          "https://files.catbox.moe/04j963.png",
+          "https://files.catbox.moe/z4wnb5.png",
+          "https://files.catbox.moe/caypjf.png",
+          "https://files.catbox.moe/taearu.png",
+          "https://files.catbox.moe/gaygrz.png",
+          "https://files.catbox.moe/ugv5e4.png",
+          "https://files.catbox.moe/uwj2zo.png",
+          "https://files.catbox.moe/64udwc.png",
+          "https://files.catbox.moe/fjhz55.png",
+          "https://files.catbox.moe/n5mxbg.png",
+          "https://files.catbox.moe/2zz9tl.png",
+          "https://files.catbox.moe/vujhsl.png",
+          "https://files.catbox.moe/ci7o6b.png",
+          "https://files.catbox.moe/iy81b1.png"
+        ]
+      },
+      "last_updated": 1521942212
+    },
+    "9": {
+      "title": "Jahy-sama and a Challenger",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/7qe4jv.png",
+          "https://files.catbox.moe/q5d720.png",
+          "https://files.catbox.moe/o0y365.png",
+          "https://files.catbox.moe/qam3f8.png",
+          "https://files.catbox.moe/da0wse.png",
+          "https://files.catbox.moe/yjggwo.png",
+          "https://files.catbox.moe/9hxeak.png",
+          "https://files.catbox.moe/ubqvmu.png",
+          "https://files.catbox.moe/cb3z4w.png",
+          "https://files.catbox.moe/8onzk5.png",
+          "https://files.catbox.moe/1o68nm.png",
+          "https://files.catbox.moe/60gz0l.png",
+          "https://files.catbox.moe/uh2oqx.png",
+          "https://files.catbox.moe/s8id5b.png",
+          "https://files.catbox.moe/mo5c87.png",
+          "https://files.catbox.moe/h3uyr6.png",
+          "https://files.catbox.moe/fsjo8d.png",
+          "https://files.catbox.moe/gg0kg9.png"
+        ]
+      },
+      "last_updated": 1522619106
+    },
+    "10": {
+      "title": "Jahy-sama and Living Expenses",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/tjs9gy.png",
+          "https://files.catbox.moe/wz5a7k.png",
+          "https://files.catbox.moe/l3tang.png",
+          "https://files.catbox.moe/lwv6mg.png",
+          "https://files.catbox.moe/94a1mw.png",
+          "https://files.catbox.moe/s5yg96.png",
+          "https://files.catbox.moe/27s2rf.png",
+          "https://files.catbox.moe/p32r3r.png",
+          "https://files.catbox.moe/u3y9pr.png",
+          "https://files.catbox.moe/0kxoqc.png",
+          "https://files.catbox.moe/cfaadv.png",
+          "https://files.catbox.moe/obu04i.png",
+          "https://files.catbox.moe/dx515p.png",
+          "https://files.catbox.moe/vr54vx.png",
+          "https://files.catbox.moe/ym6ydo.png",
+          "https://files.catbox.moe/070ri0.png",
+          "https://files.catbox.moe/vf5e7w.png"
+        ]
+      },
+      "last_updated": 1523132644
+    },
+    "11": {
+      "title": "Jahy-sama and Salwa, Again",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/wud38m.png",
+          "https://files.catbox.moe/z8d07j.png",
+          "https://files.catbox.moe/h1dab2.png",
+          "https://files.catbox.moe/rgzzh5.png",
+          "https://files.catbox.moe/xrzcdq.png",
+          "https://files.catbox.moe/hluwx9.png",
+          "https://files.catbox.moe/o4wtf3.png",
+          "https://files.catbox.moe/lqbwn1.png",
+          "https://files.catbox.moe/spe2r8.png",
+          "https://files.catbox.moe/gvutxy.png",
+          "https://files.catbox.moe/1ubet0.png",
+          "https://files.catbox.moe/zotnxy.png",
+          "https://files.catbox.moe/wvn8w3.png",
+          "https://files.catbox.moe/eatt5k.png",
+          "https://files.catbox.moe/6ae5s3.png",
+          "https://files.catbox.moe/hyut88.png",
+          "https://files.catbox.moe/tfh4lk.png",
+          "https://files.catbox.moe/3ejahc.png",
+          "https://files.catbox.moe/mf4ize.png",
+          "https://files.catbox.moe/qtyyuc.png"
+        ]
+      },
+      "last_updated": 1523744410
+    },
+    "12": {
+      "title": "Jahy-sama and the Machinations of Society",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/ry3y9n.png",
+          "https://files.catbox.moe/am73x5.png",
+          "https://files.catbox.moe/8s2ggo.png",
+          "https://files.catbox.moe/74mctc.png",
+          "https://files.catbox.moe/gh4ksw.png",
+          "https://files.catbox.moe/piunj7.png",
+          "https://files.catbox.moe/hy1jlw.png",
+          "https://files.catbox.moe/q6ygnr.png",
+          "https://files.catbox.moe/dimrj5.png",
+          "https://files.catbox.moe/vlo9vx.png",
+          "https://files.catbox.moe/f3evbm.png",
+          "https://files.catbox.moe/rrlxei.png",
+          "https://files.catbox.moe/bhnjkl.png",
+          "https://files.catbox.moe/ioafuv.png",
+          "https://files.catbox.moe/tq979z.png"
+        ]
+      },
+      "last_updated": 1524118660
+    },
+    "13": {
+      "title": "Jahy-sama and Public Speaking",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/d8uejs.jpg",
+          "https://files.catbox.moe/xtg780.jpg",
+          "https://files.catbox.moe/jld8j9.jpg",
+          "https://files.catbox.moe/twdnle.jpg",
+          "https://files.catbox.moe/vt7ivt.png",
+          "https://files.catbox.moe/dv19i7.png",
+          "https://files.catbox.moe/a3p1lh.png",
+          "https://files.catbox.moe/hlqe8k.png",
+          "https://files.catbox.moe/2o2b2j.png",
+          "https://files.catbox.moe/h96vnl.png",
+          "https://files.catbox.moe/nxlwwy.png",
+          "https://files.catbox.moe/cmg0oe.png",
+          "https://files.catbox.moe/vombqe.png",
+          "https://files.catbox.moe/5rnd9d.png",
+          "https://files.catbox.moe/m84ggz.png",
+          "https://files.catbox.moe/wv9h9w.png",
+          "https://files.catbox.moe/zy8jo1.png",
+          "https://files.catbox.moe/yqdugc.png",
+          "https://files.catbox.moe/ooht6b.png"
+        ]
+      },
+      "last_updated": 1524757699
+    },
+    "14": {
+      "title": "Jahy-sama and a Cold",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/j4t3ee.png",
+          "https://files.catbox.moe/lf8ncz.png",
+          "https://files.catbox.moe/56iz95.png",
+          "https://files.catbox.moe/8cmxcr.png",
+          "https://files.catbox.moe/tg1bzj.png",
+          "https://files.catbox.moe/2w5nr2.png",
+          "https://files.catbox.moe/q5b5fc.png",
+          "https://files.catbox.moe/k16g4e.png",
+          "https://files.catbox.moe/ulekbs.png",
+          "https://files.catbox.moe/yx7zp0.png",
+          "https://files.catbox.moe/rx7qzz.png",
+          "https://files.catbox.moe/635bed.png",
+          "https://files.catbox.moe/8u0omc.png",
+          "https://files.catbox.moe/wvrhh2.png",
+          "https://files.catbox.moe/un1g09.png",
+          "https://files.catbox.moe/gxgtq2.png",
+          "https://files.catbox.moe/q38mpi.png"
+        ]
+      },
+      "last_updated": 1525655495
+    },
+    "15": {
+      "title": "Jahy-sama and the Magical Girl",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/s6v1ah.png",
+          "https://files.catbox.moe/j7p6sn.png",
+          "https://files.catbox.moe/v0rr3q.png",
+          "https://files.catbox.moe/ri204w.png",
+          "https://files.catbox.moe/i3ll5w.png",
+          "https://files.catbox.moe/9g0non.png",
+          "https://files.catbox.moe/e7xz2f.png",
+          "https://files.catbox.moe/lzl4fw.png",
+          "https://files.catbox.moe/piback.png",
+          "https://files.catbox.moe/0howq1.png",
+          "https://files.catbox.moe/78g24y.png",
+          "https://files.catbox.moe/1o5ovu.png",
+          "https://files.catbox.moe/b82t5u.png",
+          "https://files.catbox.moe/6h20j4.png",
+          "https://files.catbox.moe/z62n42.png",
+          "https://files.catbox.moe/t4syal.png",
+          "https://files.catbox.moe/uflivr.png",
+          "https://files.catbox.moe/efx09w.png"
+        ]
+      },
+      "last_updated": 1525655522
+    },
+    "5.5": {
+      "title": "Jahy-sama and Her Daily Life",
+      "volume": "1",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/nl8cmj.png",
+          "https://files.catbox.moe/c53z5g.png",
+          "https://files.catbox.moe/xhidr1.png",
+          "https://files.catbox.moe/t0o2ap.png",
+          "https://files.catbox.moe/yntzrz.png",
+          "https://files.catbox.moe/8mb9qm.png",
+          "https://files.catbox.moe/08gxb6.png",
+          "https://files.catbox.moe/pa3q2a.png",
+          "https://files.catbox.moe/jda5v1.png",
+          "https://files.catbox.moe/tty73r.png",
+          "https://files.catbox.moe/g2w31e.png",
+          "https://files.catbox.moe/yt68xg.png"
+        ]
+      },
+      "last_updated": 1525795983
+    },
+    "16": {
+      "title": "Jahy-sama and Fear",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/k8pjpl.png",
+          "https://files.catbox.moe/sukuax.png",
+          "https://files.catbox.moe/m2vlwh.png",
+          "https://files.catbox.moe/xvg4yo.png",
+          "https://files.catbox.moe/mpxljy.png",
+          "https://files.catbox.moe/wvhxkp.png",
+          "https://files.catbox.moe/ty63zh.png",
+          "https://files.catbox.moe/88xytz.png",
+          "https://files.catbox.moe/y7rnk0.png",
+          "https://files.catbox.moe/qkkjtq.png",
+          "https://files.catbox.moe/k9gwmc.png",
+          "https://files.catbox.moe/bh7f8p.png",
+          "https://files.catbox.moe/6pm5u8.png",
+          "https://files.catbox.moe/l6hpel.png",
+          "https://files.catbox.moe/7c8bec.png",
+          "https://files.catbox.moe/s00ve3.png",
+          "https://files.catbox.moe/wqkzfa.png",
+          "https://files.catbox.moe/v4wi5x.png",
+          "https://files.catbox.moe/4y73iu.png"
+        ]
+      },
+      "last_updated": 1528942428
+    },
+    "17": {
+      "title": "Jahy-sama and the Ominous School Girl",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/wtkp53.png",
+          "https://files.catbox.moe/t7s7mc.png",
+          "https://files.catbox.moe/8p5ye5.png",
+          "https://files.catbox.moe/c6h0uc.png",
+          "https://files.catbox.moe/pmru94.png",
+          "https://files.catbox.moe/df20t2.png",
+          "https://files.catbox.moe/d9t1gf.png",
+          "https://files.catbox.moe/vt8q7u.png",
+          "https://files.catbox.moe/143wxp.png",
+          "https://files.catbox.moe/4v69cl.png",
+          "https://files.catbox.moe/bjg4zc.png",
+          "https://files.catbox.moe/cpxxdg.png",
+          "https://files.catbox.moe/l4dj14.png",
+          "https://files.catbox.moe/xwp6fv.png",
+          "https://files.catbox.moe/7szs1x.png",
+          "https://files.catbox.moe/8663zx.png",
+          "https://files.catbox.moe/dgdq7g.png",
+          "https://files.catbox.moe/2x88a4.png"
+        ]
+      },
+      "last_updated": 1530503108
+    },
+    "18": {
+      "title": "Jahy-sama and Alcohol",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/75hib2.png",
+          "https://files.catbox.moe/2pt0si.png",
+          "https://files.catbox.moe/xyvwrw.png",
+          "https://files.catbox.moe/dgw4oe.png",
+          "https://files.catbox.moe/524mva.png",
+          "https://files.catbox.moe/crjefk.png",
+          "https://files.catbox.moe/6fe18o.png",
+          "https://files.catbox.moe/2smapg.png",
+          "https://files.catbox.moe/dazhdo.png",
+          "https://files.catbox.moe/qvuwkt.png",
+          "https://files.catbox.moe/zxgkro.png",
+          "https://files.catbox.moe/ej8c8b.png",
+          "https://files.catbox.moe/7kqjp8.png",
+          "https://files.catbox.moe/rlbi93.png",
+          "https://files.catbox.moe/9nvn2k.png",
+          "https://files.catbox.moe/sf9xmv.png",
+          "https://files.catbox.moe/qe4tna.png",
+          "https://files.catbox.moe/i8vgn4.png",
+          "https://files.catbox.moe/8gn2jy.png",
+          "https://files.catbox.moe/q18ryv.png"
+        ]
+      },
+      "last_updated": 1532467206
+    },
+    "19": {
+      "title": "Jahy-sama and A Sign of Happiness",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/029o4z.png",
+          "https://files.catbox.moe/3zr43a.png",
+          "https://files.catbox.moe/nqywm7.png",
+          "https://files.catbox.moe/0n29zx.png",
+          "https://files.catbox.moe/7a6loq.png",
+          "https://files.catbox.moe/9ypchy.png",
+          "https://files.catbox.moe/2z2g91.png",
+          "https://files.catbox.moe/l87tg1.png",
+          "https://files.catbox.moe/jfj1rv.png",
+          "https://files.catbox.moe/f8hfho.png",
+          "https://files.catbox.moe/fsgqyw.png",
+          "https://files.catbox.moe/eaitf7.png",
+          "https://files.catbox.moe/twldub.png",
+          "https://files.catbox.moe/6zbure.png",
+          "https://files.catbox.moe/skcbc4.png",
+          "https://files.catbox.moe/sa3yhx.png",
+          "https://files.catbox.moe/nu8gw4.png",
+          "https://files.catbox.moe/kwwlvk.png"
+        ]
+      },
+      "last_updated": 1533012637
+    },
+    "20": {
+      "title": "Jahy-sama and the Woes of the Demon Elite",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/t6qrm8.png",
+          "https://files.catbox.moe/q98xe3.png",
+          "https://files.catbox.moe/65ofdx.png",
+          "https://files.catbox.moe/iifotg.png",
+          "https://files.catbox.moe/egxpct.png",
+          "https://files.catbox.moe/o6jv3k.png",
+          "https://files.catbox.moe/ahblxr.png",
+          "https://files.catbox.moe/wcdysl.png",
+          "https://files.catbox.moe/h3p18e.png",
+          "https://files.catbox.moe/znrbto.png",
+          "https://files.catbox.moe/ptc87e.png",
+          "https://files.catbox.moe/uxh3vo.png",
+          "https://files.catbox.moe/kgyzx7.png",
+          "https://files.catbox.moe/rr3wp2.png",
+          "https://files.catbox.moe/38gqv1.png",
+          "https://files.catbox.moe/xc9or4.png",
+          "https://files.catbox.moe/dlhn9g.png"
+        ]
+      },
+      "last_updated": 1534641827
+    },
+    "21": {
+      "title": "Jahy-sama and Working Out",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/6yg7iu.png",
+          "https://files.catbox.moe/vlcdoz.png",
+          "https://files.catbox.moe/qt6jks.png",
+          "https://files.catbox.moe/s63ohp.png",
+          "https://files.catbox.moe/5az1nr.png",
+          "https://files.catbox.moe/3f9rnm.png",
+          "https://files.catbox.moe/fprowx.png",
+          "https://files.catbox.moe/grj3v2.png",
+          "https://files.catbox.moe/mas7ns.png",
+          "https://files.catbox.moe/evg8v9.png",
+          "https://files.catbox.moe/1acj5a.png",
+          "https://files.catbox.moe/8im6w0.png",
+          "https://files.catbox.moe/oockat.png",
+          "https://files.catbox.moe/d5qh2m.png",
+          "https://files.catbox.moe/i3ao4g.png",
+          "https://files.catbox.moe/rmecmu.png",
+          "https://files.catbox.moe/9aro1c.png",
+          "https://files.catbox.moe/jfocak.png"
+        ]
+      },
+      "last_updated": 1537550076
+    },
+    "22": {
+      "title": "Jahy-sama and a Neighbor",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/mjp6rl.png",
+          "https://files.catbox.moe/mlbcgc.png",
+          "https://files.catbox.moe/984xsx.png",
+          "https://files.catbox.moe/22d2de.png",
+          "https://files.catbox.moe/s27bco.png",
+          "https://files.catbox.moe/pze0oa.png",
+          "https://files.catbox.moe/cmav0r.png",
+          "https://files.catbox.moe/lk874x.png",
+          "https://files.catbox.moe/ono3n1.png",
+          "https://files.catbox.moe/3wzqr7.png",
+          "https://files.catbox.moe/7rpq1q.png",
+          "https://files.catbox.moe/2hoe60.png",
+          "https://files.catbox.moe/3bs7gp.png",
+          "https://files.catbox.moe/mlb461.png",
+          "https://files.catbox.moe/pmsh91.png",
+          "https://files.catbox.moe/39bp60.png",
+          "https://files.catbox.moe/wt4u9z.png",
+          "https://files.catbox.moe/32iq9e.png"
+        ]
+      },
+      "last_updated": 1542085542
+    },
+    "23": {
+      "title": "Jahy-sama and the Demon Realm Party",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/0s5wss.png",
+          "https://files.catbox.moe/37nrjp.png",
+          "https://files.catbox.moe/1pcpd9.png",
+          "https://files.catbox.moe/eqku69.png",
+          "https://files.catbox.moe/excsni.png",
+          "https://files.catbox.moe/pzr93v.png",
+          "https://files.catbox.moe/ztsu6g.png",
+          "https://files.catbox.moe/qewpfc.png",
+          "https://files.catbox.moe/1his6a.png",
+          "https://files.catbox.moe/q16lp3.png",
+          "https://files.catbox.moe/pbrnds.png",
+          "https://files.catbox.moe/luea3z.png",
+          "https://files.catbox.moe/6j3w58.png",
+          "https://files.catbox.moe/nndfq5.png",
+          "https://files.catbox.moe/5coiuf.png",
+          "https://files.catbox.moe/eu39jb.png",
+          "https://files.catbox.moe/tbw9u3.png"
+        ]
+      },
+      "last_updated": 1544504233
+    },
+    "24": {
+      "title": "Jahy-sama and the Supermarket",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/d3syth.png",
+          "https://files.catbox.moe/rm5xw2.png",
+          "https://files.catbox.moe/udu401.png",
+          "https://files.catbox.moe/dc0asc.png",
+          "https://files.catbox.moe/bk38q7.png",
+          "https://files.catbox.moe/5l63rf.png",
+          "https://files.catbox.moe/x4jq7g.png",
+          "https://files.catbox.moe/ilgtwb.png",
+          "https://files.catbox.moe/augcsl.png",
+          "https://files.catbox.moe/tw4jh1.png",
+          "https://files.catbox.moe/xq4as2.png",
+          "https://files.catbox.moe/1q9zmo.png",
+          "https://files.catbox.moe/lgajfd.png",
+          "https://files.catbox.moe/zz2xrs.png",
+          "https://files.catbox.moe/oy3j20.png",
+          "https://files.catbox.moe/y69p40.png",
+          "https://files.catbox.moe/qygbtf.png"
+        ]
+      },
+      "last_updated": 1546477986
+    },
+    "14.5": {
+      "title": "Jahy-sama and Rent",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/cwdgc5.png",
+          "https://files.catbox.moe/8nfn4w.png",
+          "https://files.catbox.moe/hrsesc.png",
+          "https://files.catbox.moe/iyi7fj.png",
+          "https://files.catbox.moe/qokrxh.png",
+          "https://files.catbox.moe/9s8lhv.png",
+          "https://files.catbox.moe/ff9b6g.png",
+          "https://files.catbox.moe/4y8ksy.png",
+          "https://files.catbox.moe/4tb7fb.png",
+          "https://files.catbox.moe/zss15a.png",
+          "https://files.catbox.moe/6l2i9h.png"
+        ]
+      },
+      "last_updated": 1546478161
+    },
+    "25": {
+      "title": "Jahy-sama and Booby Traps",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/rp51v5.png",
+          "https://files.catbox.moe/xpgxl4.png",
+          "https://files.catbox.moe/h7goxq.png",
+          "https://files.catbox.moe/uhd053.png",
+          "https://files.catbox.moe/2w26ht.png",
+          "https://files.catbox.moe/88nbbn.png",
+          "https://files.catbox.moe/8nkme3.png",
+          "https://files.catbox.moe/zpvkli.png",
+          "https://files.catbox.moe/c4gjnt.png",
+          "https://files.catbox.moe/w5simt.png",
+          "https://files.catbox.moe/pjum6j.png",
+          "https://files.catbox.moe/4jpez3.png",
+          "https://files.catbox.moe/p9aiov.png",
+          "https://files.catbox.moe/fxet1z.png",
+          "https://files.catbox.moe/vkp10x.png",
+          "https://files.catbox.moe/e5ba94.png"
+        ]
+      },
+      "last_updated": 1546630197
+    },
+    "26": {
+      "title": "Jahy-sama and the Bathhouse",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/v1xmp6.png",
+          "https://files.catbox.moe/hpocb5.png",
+          "https://files.catbox.moe/xpnh91.png",
+          "https://files.catbox.moe/bqzr2e.png",
+          "https://files.catbox.moe/rz7aw9.png",
+          "https://files.catbox.moe/s2xmey.png",
+          "https://files.catbox.moe/hsoctg.png",
+          "https://files.catbox.moe/54ay4k.png",
+          "https://files.catbox.moe/nxslsu.png",
+          "https://files.catbox.moe/hkm8on.png",
+          "https://files.catbox.moe/eu5ceb.png",
+          "https://files.catbox.moe/nzmbsd.png",
+          "https://files.catbox.moe/6liis8.png",
+          "https://files.catbox.moe/ecj2be.png",
+          "https://files.catbox.moe/5vl04b.png",
+          "https://files.catbox.moe/vawzqu.png",
+          "https://files.catbox.moe/kgvnnb.png",
+          "https://files.catbox.moe/55n067.png"
+        ]
+      },
+      "last_updated": 1547760146
+    },
+    "27": {
+      "title": "Salwa-sama and the Bathhouse, Too",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/816ivu.png",
+          "https://files.catbox.moe/46cwdb.png",
+          "https://files.catbox.moe/uxtztj.png",
+          "https://files.catbox.moe/q8m8n8.png",
+          "https://files.catbox.moe/9sud0p.png",
+          "https://files.catbox.moe/21q386.png",
+          "https://files.catbox.moe/gg7jet.png",
+          "https://files.catbox.moe/7b1zoj.png",
+          "https://files.catbox.moe/o82cbn.png",
+          "https://files.catbox.moe/kteylr.png",
+          "https://files.catbox.moe/kv53a7.png",
+          "https://files.catbox.moe/nuuc2l.png",
+          "https://files.catbox.moe/0gkow1.png",
+          "https://files.catbox.moe/zw10eo.png",
+          "https://files.catbox.moe/xvkp5k.png",
+          "https://files.catbox.moe/4l7wio.png",
+          "https://files.catbox.moe/4el5dy.png"
+        ]
+      },
+      "last_updated": 1548481965
+    },
+    "28": {
+      "title": "Jahy-sama and the Magical Girl's Desire",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/4wluxv.png",
+          "https://files.catbox.moe/2si69k.png",
+          "https://files.catbox.moe/t9hkd5.png",
+          "https://files.catbox.moe/j6warn.png",
+          "https://files.catbox.moe/nk2gsd.png",
+          "https://files.catbox.moe/zarfqu.png",
+          "https://files.catbox.moe/qjnf2j.png",
+          "https://files.catbox.moe/5ipywp.png",
+          "https://files.catbox.moe/51a0sm.png",
+          "https://files.catbox.moe/rfel2m.png",
+          "https://files.catbox.moe/lwo4y4.png",
+          "https://files.catbox.moe/o7rtaz.png",
+          "https://files.catbox.moe/flxvfb.png",
+          "https://files.catbox.moe/yc853l.png",
+          "https://files.catbox.moe/mgc5j7.png",
+          "https://files.catbox.moe/0ooi4g.png",
+          "https://files.catbox.moe/bw377y.png",
+          "https://files.catbox.moe/twnmxx.png"
+        ]
+      },
+      "last_updated": 1549587201
+    },
+    "32": {
+      "title": "Jahy-sama and the Landlady Who Ran from Home",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/d4dxtp.png",
+          "https://files.catbox.moe/awp2rg.png",
+          "https://files.catbox.moe/key57j.png",
+          "https://files.catbox.moe/lxlb24.png",
+          "https://files.catbox.moe/dt8lsa.png",
+          "https://files.catbox.moe/0cat1p.png",
+          "https://files.catbox.moe/o850ao.png",
+          "https://files.catbox.moe/x1g049.png",
+          "https://files.catbox.moe/pgmklf.png",
+          "https://files.catbox.moe/2myyzf.png",
+          "https://files.catbox.moe/pquq2o.png",
+          "https://files.catbox.moe/en8oud.png",
+          "https://files.catbox.moe/dk1j0s.png",
+          "https://files.catbox.moe/8ipnou.png",
+          "https://files.catbox.moe/vhqldr.png",
+          "https://files.catbox.moe/t9hnpu.png",
+          "https://files.catbox.moe/najjc1.png",
+          "https://files.catbox.moe/pysd9x.png",
+          "https://files.catbox.moe/d2yb6s.png",
+          "https://files.catbox.moe/0jehvs.png"
+        ]
+      },
+      "last_updated": 1557181154
+    },
+    "33": {
+      "title": "Jahy-sama and Tomatoes",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/s959q5.png",
+          "https://files.catbox.moe/up5sua.png",
+          "https://files.catbox.moe/r4fuse.png",
+          "https://files.catbox.moe/47yzro.png",
+          "https://files.catbox.moe/wfonhp.png",
+          "https://files.catbox.moe/4k6sny.png",
+          "https://files.catbox.moe/t1i9aq.png",
+          "https://files.catbox.moe/2t0724.png",
+          "https://files.catbox.moe/bacawm.png",
+          "https://files.catbox.moe/man9d5.png",
+          "https://files.catbox.moe/xwmt7u.png",
+          "https://files.catbox.moe/oqe4ie.png",
+          "https://files.catbox.moe/01ys0p.png",
+          "https://files.catbox.moe/xn06gk.png",
+          "https://files.catbox.moe/kfj0i6.png",
+          "https://files.catbox.moe/672qxf.png",
+          "https://files.catbox.moe/uvcq6a.png"
+        ]
+      },
+      "last_updated": 1560570995
+    },
+    "34": {
+      "title": "Salwa-sama and the Doggie",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/14y1ah.png",
+          "https://files.catbox.moe/luzkhx.png",
+          "https://files.catbox.moe/0lint5.png",
+          "https://files.catbox.moe/9spwuv.png",
+          "https://files.catbox.moe/xweewr.png",
+          "https://files.catbox.moe/7kww9r.png",
+          "https://files.catbox.moe/rrgyvx.png",
+          "https://files.catbox.moe/cyrjg1.png",
+          "https://files.catbox.moe/kxrlyd.png",
+          "https://files.catbox.moe/262vwg.png",
+          "https://files.catbox.moe/04pxvh.png",
+          "https://files.catbox.moe/vmer3g.png",
+          "https://files.catbox.moe/2fwolu.png",
+          "https://files.catbox.moe/6oaj64.png",
+          "https://files.catbox.moe/1kqah6.png",
+          "https://files.catbox.moe/q3m4cr.png",
+          "https://files.catbox.moe/km1bj0.png",
+          "https://files.catbox.moe/kraadg.jpg",
+          "https://files.catbox.moe/kohoa9.png"
+        ]
+      },
+      "last_updated": 1564949138
+    },
+    "35": {
+      "title": "Jahy-sama and Park Investigation",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/lipj1r.png",
+          "https://files.catbox.moe/x2g0xj.png",
+          "https://files.catbox.moe/i6ao3c.png",
+          "https://files.catbox.moe/zm5y24.png",
+          "https://files.catbox.moe/0mjykb.png",
+          "https://files.catbox.moe/14l38b.png",
+          "https://files.catbox.moe/y56d2b.png",
+          "https://files.catbox.moe/md22zx.png",
+          "https://files.catbox.moe/nx422d.png",
+          "https://files.catbox.moe/uarptt.png",
+          "https://files.catbox.moe/laka74.png",
+          "https://files.catbox.moe/wr3qcm.png",
+          "https://files.catbox.moe/8jzc0s.png",
+          "https://files.catbox.moe/phrphc.png",
+          "https://files.catbox.moe/mjxzoj.png",
+          "https://files.catbox.moe/dux0ed.png",
+          "https://files.catbox.moe/86glg5.png",
+          "https://files.catbox.moe/zbwflr.png"
+        ]
+      },
+      "last_updated": 1565380977
+    },
+    "36": {
+      "title": "Jahy-sama and Finding a Gem",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/i7l5e8.png",
+          "https://files.catbox.moe/d39ne8.png",
+          "https://files.catbox.moe/newyw7.png",
+          "https://files.catbox.moe/vr7dvv.png",
+          "https://files.catbox.moe/o2blqh.png",
+          "https://files.catbox.moe/bpky6d.png",
+          "https://files.catbox.moe/57rd1s.png",
+          "https://files.catbox.moe/14xtu5.png",
+          "https://files.catbox.moe/jg1lf7.png",
+          "https://files.catbox.moe/oy5ama.png",
+          "https://files.catbox.moe/3w9y5x.png",
+          "https://files.catbox.moe/17o645.png",
+          "https://files.catbox.moe/zaw8vt.png",
+          "https://files.catbox.moe/ha86qm.png",
+          "https://files.catbox.moe/kh1fa8.png",
+          "https://files.catbox.moe/kfmwjp.png",
+          "https://files.catbox.moe/jxi4bl.png",
+          "https://files.catbox.moe/l2826l.png",
+          "https://files.catbox.moe/9xsk00.png"
+        ]
+      },
+      "last_updated": 1569901202
+    },
+    "37": {
+      "title": "Jahy-sama and Seaside Restaurant",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/uq8frv.png",
+          "https://files.catbox.moe/6jn5nd.png",
+          "https://files.catbox.moe/25p3yj.png",
+          "https://files.catbox.moe/xjlomf.png",
+          "https://files.catbox.moe/hcig32.png",
+          "https://files.catbox.moe/ec5jho.png",
+          "https://files.catbox.moe/bj2znw.png",
+          "https://files.catbox.moe/ivdhsx.png",
+          "https://files.catbox.moe/an28ds.png",
+          "https://files.catbox.moe/3mfawy.png",
+          "https://files.catbox.moe/3tylnb.png",
+          "https://files.catbox.moe/uwv3es.png",
+          "https://files.catbox.moe/ma7qxb.png",
+          "https://files.catbox.moe/kwgob1.png",
+          "https://files.catbox.moe/ik130c.png",
+          "https://files.catbox.moe/ubn1nd.png",
+          "https://files.catbox.moe/r96a63.png",
+          "https://files.catbox.moe/2xfdou.png",
+          "https://files.catbox.moe/p2ieo3.png",
+          "https://files.catbox.moe/pa5ke2.png",
+          "https://files.catbox.moe/kwi9e7.png"
+        ]
+      },
+      "last_updated": 1573079997
+    },
+    "38": {
+      "title": "Jahy-sama and Entrusting Gems",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/zcewlh.png",
+          "https://files.catbox.moe/tncsmf.png",
+          "https://files.catbox.moe/qn4mmw.png",
+          "https://files.catbox.moe/57ydpx.png",
+          "https://files.catbox.moe/ncchkj.png",
+          "https://files.catbox.moe/y1ohte.png",
+          "https://files.catbox.moe/df6qeo.png",
+          "https://files.catbox.moe/oahz15.png",
+          "https://files.catbox.moe/4c7llj.png",
+          "https://files.catbox.moe/iq7z1q.png",
+          "https://files.catbox.moe/mfy0dr.png",
+          "https://files.catbox.moe/894adx.png",
+          "https://files.catbox.moe/d5pwng.png",
+          "https://files.catbox.moe/ldeu8n.png",
+          "https://files.catbox.moe/y2umbw.png",
+          "https://files.catbox.moe/gp40hu.png",
+          "https://files.catbox.moe/2yfs2u.png",
+          "https://files.catbox.moe/z9itvj.png",
+          "https://files.catbox.moe/5gq5y6.png"
+        ]
+      },
+      "last_updated": 1573892561
+    },
+    "39": {
+      "title": "Jahy-sama and Druj's Feelings",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/i10yfa.png",
+          "https://files.catbox.moe/5m0tz2.png",
+          "https://files.catbox.moe/gm747x.png",
+          "https://files.catbox.moe/i8dz72.png",
+          "https://files.catbox.moe/uzi7ut.png",
+          "https://files.catbox.moe/esi73z.png",
+          "https://files.catbox.moe/8cxku8.png",
+          "https://files.catbox.moe/mhhaji.png",
+          "https://files.catbox.moe/7hre9m.png",
+          "https://files.catbox.moe/db6c6h.png",
+          "https://files.catbox.moe/q24oq8.png",
+          "https://files.catbox.moe/9qfw8v.png",
+          "https://files.catbox.moe/mgsc8i.png",
+          "https://files.catbox.moe/dl7pv2.png",
+          "https://files.catbox.moe/o2nbzx.png",
+          "https://files.catbox.moe/td69xy.png",
+          "https://files.catbox.moe/em5y56.png",
+          "https://files.catbox.moe/85sie8.png"
+        ]
+      },
+      "last_updated": 1573892827
+    },
+    "40": {
+      "title": "Jahy-sama and the Final Battle",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/219t0r.png",
+          "https://files.catbox.moe/gj5e6s.png",
+          "https://files.catbox.moe/dt8xkg.png",
+          "https://files.catbox.moe/b311me.png",
+          "https://files.catbox.moe/m4ugt9.png",
+          "https://files.catbox.moe/vt1gqw.png",
+          "https://files.catbox.moe/xzclpi.png",
+          "https://files.catbox.moe/6k7qvl.png",
+          "https://files.catbox.moe/pr1bwm.png",
+          "https://files.catbox.moe/rgsdj9.png",
+          "https://files.catbox.moe/hhu3ep.png",
+          "https://files.catbox.moe/kho34m.png",
+          "https://files.catbox.moe/y2hdz8.png",
+          "https://files.catbox.moe/csn7um.png",
+          "https://files.catbox.moe/fvfoen.png",
+          "https://files.catbox.moe/18eewi.png",
+          "https://files.catbox.moe/kyhzgd.png",
+          "https://files.catbox.moe/c4konb.png",
+          "https://files.catbox.moe/gdqmsv.png",
+          "https://files.catbox.moe/yfwobu.png",
+          "https://files.catbox.moe/qwpjnx.png",
+          "https://files.catbox.moe/71m5nh.png",
+          "https://files.catbox.moe/nub384.png",
+          "https://files.catbox.moe/w9wcwv.png",
+          "https://files.catbox.moe/4z8r5u.png"
+        ]
+      },
+      "last_updated": 1576609154
+    },
+    "41": {
+      "title": "Jahy-sama and the Magical Girl's Abode",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/2agja1.png",
+          "https://files.catbox.moe/kpr11j.png",
+          "https://files.catbox.moe/xl7ajq.png",
+          "https://files.catbox.moe/bmklve.png",
+          "https://files.catbox.moe/ctu304.png",
+          "https://files.catbox.moe/8fq6jm.png",
+          "https://files.catbox.moe/zsvdbc.png",
+          "https://files.catbox.moe/kif0go.png",
+          "https://files.catbox.moe/8azhia.png",
+          "https://files.catbox.moe/zw7bzc.png",
+          "https://files.catbox.moe/gzajo1.png",
+          "https://files.catbox.moe/h28fsh.png",
+          "https://files.catbox.moe/zmnsxv.png",
+          "https://files.catbox.moe/i1sfvf.png",
+          "https://files.catbox.moe/dpsqgn.png",
+          "https://files.catbox.moe/4472wi.png",
+          "https://files.catbox.moe/ul2z72.png",
+          "https://files.catbox.moe/e25ia9.png",
+          "https://files.catbox.moe/bq6xxx.png",
+          "https://files.catbox.moe/aagpsv.png",
+          "https://files.catbox.moe/pmggd6.png",
+          "https://files.catbox.moe/upfxxj.png",
+          "https://files.catbox.moe/bhdo91.png"
+        ]
+      },
+      "last_updated": 1577485999
+    },
+    "42": {
+      "title": "Jahy-sama and Maou-sama",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/m2pv3r.png",
+          "https://files.catbox.moe/75l70n.png",
+          "https://files.catbox.moe/cwwgnl.png",
+          "https://files.catbox.moe/xgt7zk.png",
+          "https://files.catbox.moe/d390da.png",
+          "https://files.catbox.moe/5gk2yw.png",
+          "https://files.catbox.moe/c4j8s9.png",
+          "https://files.catbox.moe/5mgatv.png",
+          "https://files.catbox.moe/e2c43u.png",
+          "https://files.catbox.moe/51y7w1.png",
+          "https://files.catbox.moe/i6uirb.png",
+          "https://files.catbox.moe/3hy8xw.png",
+          "https://files.catbox.moe/q9iz48.png",
+          "https://files.catbox.moe/0qltyc.png",
+          "https://files.catbox.moe/c0duu2.png",
+          "https://files.catbox.moe/k3fcpz.png",
+          "https://files.catbox.moe/5wp1sq.png",
+          "https://files.catbox.moe/1yjm7j.png",
+          "https://files.catbox.moe/5i1wje.png"
+        ]
+      },
+      "last_updated": 1579392009
+    },
+    "43": {
+      "title": "Jahy-sama and Trust",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/mfgmo5.png",
+          "https://files.catbox.moe/29i3lg.png",
+          "https://files.catbox.moe/bv8q52.png",
+          "https://files.catbox.moe/t5o3bm.png",
+          "https://files.catbox.moe/x5z8nd.png",
+          "https://files.catbox.moe/cokfdv.png",
+          "https://files.catbox.moe/hqy56g.png",
+          "https://files.catbox.moe/uvroed.png",
+          "https://files.catbox.moe/s0nosi.png",
+          "https://files.catbox.moe/rw2579.png",
+          "https://files.catbox.moe/r16ajw.png",
+          "https://files.catbox.moe/pcj4qp.png",
+          "https://files.catbox.moe/pa6bom.png",
+          "https://files.catbox.moe/howau9.png",
+          "https://files.catbox.moe/yzxa8g.png",
+          "https://files.catbox.moe/py1tm6.png",
+          "https://files.catbox.moe/9cty2l.png",
+          "https://files.catbox.moe/jyz8z5.png"
+        ]
+      },
+      "last_updated": 1580268909
+    },
+    "44": {
+      "title": "Jahy-sama and Let's Play Together",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/ltzkrt.png",
+          "https://files.catbox.moe/tudjal.png",
+          "https://files.catbox.moe/bxf5f0.png",
+          "https://files.catbox.moe/arurjq.png",
+          "https://files.catbox.moe/wr9e6g.png",
+          "https://files.catbox.moe/xqg9c8.png",
+          "https://files.catbox.moe/wztdk2.png",
+          "https://files.catbox.moe/jtqwpf.png",
+          "https://files.catbox.moe/3m62v3.png",
+          "https://files.catbox.moe/2j6jgn.png",
+          "https://files.catbox.moe/mme21o.png",
+          "https://files.catbox.moe/u0l4y6.png",
+          "https://files.catbox.moe/0tu0jk.png",
+          "https://files.catbox.moe/lagzuu.png",
+          "https://files.catbox.moe/ajrvyp.png",
+          "https://files.catbox.moe/tbe6og.png",
+          "https://files.catbox.moe/vpq07a.png"
+        ]
+      },
+      "last_updated": 1584743494
+    },
+    "45": {
+      "title": "Jahy-sama and the New Employee",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/e7lq5i.png",
+          "https://files.catbox.moe/zx8hug.png",
+          "https://files.catbox.moe/66hu5y.png",
+          "https://files.catbox.moe/mpkxvk.png",
+          "https://files.catbox.moe/qmm68r.png",
+          "https://files.catbox.moe/zcj0it.png",
+          "https://files.catbox.moe/i0yyie.png",
+          "https://files.catbox.moe/794bu7.png",
+          "https://files.catbox.moe/eb51bj.png",
+          "https://files.catbox.moe/3l15u5.png",
+          "https://files.catbox.moe/v0m0dp.png",
+          "https://files.catbox.moe/svwm84.png",
+          "https://files.catbox.moe/dl3jvr.png",
+          "https://files.catbox.moe/0k6hmk.png",
+          "https://files.catbox.moe/pfye4l.png",
+          "https://files.catbox.moe/huq5xy.png",
+          "https://files.catbox.moe/p3sgzq.png",
+          "https://files.catbox.moe/mevvwd.gif"
+        ]
+      },
+      "last_updated": 1586666734
+    },
+    "46": {
+      "title": "Druj and the Magical Girl",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/i667q9.png",
+          "https://files.catbox.moe/fpa9xr.png",
+          "https://files.catbox.moe/lj1eau.png",
+          "https://files.catbox.moe/7vvsqf.png",
+          "https://files.catbox.moe/okkap9.png",
+          "https://files.catbox.moe/uypt93.png",
+          "https://files.catbox.moe/5ito7b.png",
+          "https://files.catbox.moe/hqp9y0.png",
+          "https://files.catbox.moe/du321m.png",
+          "https://files.catbox.moe/jhuc02.png",
+          "https://files.catbox.moe/j05me9.png",
+          "https://files.catbox.moe/467st6.png",
+          "https://files.catbox.moe/8uh9en.png",
+          "https://files.catbox.moe/byws4r.png",
+          "https://files.catbox.moe/21h6qf.png",
+          "https://files.catbox.moe/nfxv9w.png"
+        ]
+      },
+      "last_updated": 1587244456
+    },
+    "47": {
+      "title": "Salwa and the Magical Girl",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/yeg8v4.png",
+          "https://files.catbox.moe/0xvbl0.png",
+          "https://files.catbox.moe/ytlc20.png",
+          "https://files.catbox.moe/h6dibh.png",
+          "https://files.catbox.moe/d9ofx1.png",
+          "https://files.catbox.moe/bl5j9h.png",
+          "https://files.catbox.moe/5gzhw7.png",
+          "https://files.catbox.moe/56yjwp.png",
+          "https://files.catbox.moe/kk1n02.png",
+          "https://files.catbox.moe/1vus8q.png",
+          "https://files.catbox.moe/0tdz9t.png",
+          "https://files.catbox.moe/ald509.png",
+          "https://files.catbox.moe/5xnc29.png",
+          "https://files.catbox.moe/kr1ebd.png",
+          "https://files.catbox.moe/p0m1r6.png",
+          "https://files.catbox.moe/55cnnx.png",
+          "https://files.catbox.moe/1fooan.png"
+        ]
+      },
+      "last_updated": 1587527637
+    },
+    "48": {
+      "title": "Jahy-sama and Maou-sama's Past",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/e5qllg.png",
+          "https://files.catbox.moe/p3riku.png",
+          "https://files.catbox.moe/05fnyf.png",
+          "https://files.catbox.moe/vq67z5.png",
+          "https://files.catbox.moe/9j4q59.png",
+          "https://files.catbox.moe/30uer5.png",
+          "https://files.catbox.moe/bb4fw2.png",
+          "https://files.catbox.moe/kdfxfp.png",
+          "https://files.catbox.moe/205kuj.png",
+          "https://files.catbox.moe/esq7hu.png",
+          "https://files.catbox.moe/s7vmjd.png",
+          "https://files.catbox.moe/uqt1cj.png",
+          "https://files.catbox.moe/8wsiei.png",
+          "https://files.catbox.moe/bihsej.png",
+          "https://files.catbox.moe/wqaung.png",
+          "https://files.catbox.moe/dvs7jz.png",
+          "https://files.catbox.moe/2kc0oy.png"
+        ]
+      },
+      "last_updated": 1588371215
+    },
+    "49": {
+      "title": "Jahy-sama and Menu Development",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/e5c15p.png",
+          "https://files.catbox.moe/x0gzfu.png",
+          "https://files.catbox.moe/1yc2tm.png",
+          "https://files.catbox.moe/sexnvt.png",
+          "https://files.catbox.moe/7cybal.png",
+          "https://files.catbox.moe/4e4goo.png",
+          "https://files.catbox.moe/xonje8.png",
+          "https://files.catbox.moe/58bg47.png",
+          "https://files.catbox.moe/8wkm6f.png",
+          "https://files.catbox.moe/3domdw.png",
+          "https://files.catbox.moe/3ouvv1.png",
+          "https://files.catbox.moe/yymj32.png",
+          "https://files.catbox.moe/a145d2.png",
+          "https://files.catbox.moe/r18e2v.png",
+          "https://files.catbox.moe/xv7wk0.png",
+          "https://files.catbox.moe/aqn7at.png",
+          "https://files.catbox.moe/q47epj.png"
+        ]
+      },
+      "last_updated": 1590954481
+    },
+    "50": {
+      "title": "Salwa-sama and Volunteering",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/yfqghr.png",
+          "https://files.catbox.moe/2gsu5t.png",
+          "https://files.catbox.moe/egz6s1.png",
+          "https://files.catbox.moe/0pw8lu.png",
+          "https://files.catbox.moe/edaqy0.png",
+          "https://files.catbox.moe/uleumn.png",
+          "https://files.catbox.moe/1zmi9j.png",
+          "https://files.catbox.moe/ihpow8.png",
+          "https://files.catbox.moe/fmlx7i.png",
+          "https://files.catbox.moe/ggi7kt.png",
+          "https://files.catbox.moe/r2ivhd.png",
+          "https://files.catbox.moe/4mvyii.png",
+          "https://files.catbox.moe/4yn3c9.png",
+          "https://files.catbox.moe/r0ew8h.png",
+          "https://files.catbox.moe/23a9o8.png"
+        ]
+      },
+      "last_updated": 1593464920
+    },
+    "51": {
+      "title": "Jahy-sama and Quality of Life",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/oqygha.png",
+          "https://files.catbox.moe/k4hz54.png",
+          "https://files.catbox.moe/96t5ki.png",
+          "https://files.catbox.moe/9p7dk1.png",
+          "https://files.catbox.moe/0jjrn2.png",
+          "https://files.catbox.moe/tpnmj9.png",
+          "https://files.catbox.moe/f7u1z1.png",
+          "https://files.catbox.moe/c5d6u7.png",
+          "https://files.catbox.moe/cybmyb.png",
+          "https://files.catbox.moe/l5z3at.png",
+          "https://files.catbox.moe/ydxc9t.png",
+          "https://files.catbox.moe/8du7z1.png",
+          "https://files.catbox.moe/k4h5ap.png",
+          "https://files.catbox.moe/rli18w.png",
+          "https://files.catbox.moe/0en7hh.png",
+          "https://files.catbox.moe/acn60y.gif"
+        ]
+      },
+      "last_updated": 1629498039
+    },
+    "54": {
+      "title": "Jahy-sama and the Fated Confrontation",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/duc57e.png",
+          "https://files.catbox.moe/ucr4s5.png",
+          "https://files.catbox.moe/kvahmx.png",
+          "https://files.catbox.moe/g19y2g.png",
+          "https://files.catbox.moe/wjugyb.png",
+          "https://files.catbox.moe/re4g2r.png",
+          "https://files.catbox.moe/16km2o.png",
+          "https://files.catbox.moe/4vg4nl.png",
+          "https://files.catbox.moe/rcwzvf.png",
+          "https://files.catbox.moe/tuoh3t.png",
+          "https://files.catbox.moe/e1u5x9.png",
+          "https://files.catbox.moe/s0x1h1.png",
+          "https://files.catbox.moe/2t1ifj.png",
+          "https://files.catbox.moe/op1zhg.png",
+          "https://files.catbox.moe/0nu8cz.png",
+          "https://files.catbox.moe/s1dozv.png",
+          "https://files.catbox.moe/b0t65u.png",
+          "https://files.catbox.moe/cbzap7.png",
+          "https://files.catbox.moe/n5c6j3.png",
+          "https://files.catbox.moe/hls9at.png",
+          "https://files.catbox.moe/lbwqgt.png"
+        ]
+      },
+      "last_updated": 1629862712
+    },
+    "23.5": {
+      "title": "Jahy-sama and the Cat Cafe",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/ol0ukl.png",
+          "https://files.catbox.moe/nrjvys.png",
+          "https://files.catbox.moe/c8efzg.png",
+          "https://files.catbox.moe/g713ib.png",
+          "https://files.catbox.moe/fnfcra.png"
+        ]
+      },
+      "last_updated": 1600055138
+    },
+    "55": {
+      "title": "Jahy-sama and Friends",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/62roxn.png",
+          "https://files.catbox.moe/1l927y.png",
+          "https://files.catbox.moe/4bn86g.png",
+          "https://files.catbox.moe/ccb60c.png",
+          "https://files.catbox.moe/g4t4j3.png",
+          "https://files.catbox.moe/9iizs2.png",
+          "https://files.catbox.moe/93bfxh.png",
+          "https://files.catbox.moe/6m7pjm.png",
+          "https://files.catbox.moe/azonyb.png",
+          "https://files.catbox.moe/8f9wpr.png",
+          "https://files.catbox.moe/rlcj15.png",
+          "https://files.catbox.moe/l3nm6i.png",
+          "https://files.catbox.moe/zvxqql.png",
+          "https://files.catbox.moe/zweox0.png",
+          "https://files.catbox.moe/g7y3wi.png",
+          "https://files.catbox.moe/78yjny.png",
+          "https://files.catbox.moe/2ibsmz.gif"
+        ]
+      },
+      "last_updated": 1629862728
+    },
+    "56": {
+      "title": "Maou-sama's Day",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/riu1oa.png",
+          "https://files.catbox.moe/1gdppq.png",
+          "https://files.catbox.moe/2m0m9j.png",
+          "https://files.catbox.moe/86353c.png",
+          "https://files.catbox.moe/12x65y.png",
+          "https://files.catbox.moe/4n1xis.png",
+          "https://files.catbox.moe/39887q.png",
+          "https://files.catbox.moe/si7bzc.png",
+          "https://files.catbox.moe/gew494.png",
+          "https://files.catbox.moe/q7dag9.png",
+          "https://files.catbox.moe/57tcar.png",
+          "https://files.catbox.moe/85zhr1.png",
+          "https://files.catbox.moe/tfgv3o.png",
+          "https://files.catbox.moe/vom10h.png",
+          "https://files.catbox.moe/bxc2g6.png",
+          "https://files.catbox.moe/n0wzzu.png"
+        ]
+      },
+      "last_updated": 1629862772
+    },
+    "32.5": {
+      "title": "Volume 4 Extras",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/bcz7ws.png",
+          "https://files.catbox.moe/8kca9w.png",
+          "https://files.catbox.moe/ml8ph8.png",
+          "https://files.catbox.moe/01rr92.png",
+          "https://files.catbox.moe/1qm931.png",
+          "https://files.catbox.moe/h0xxco.png",
+          "https://files.catbox.moe/cn18i4.png",
+          "https://files.catbox.moe/jxxs1r.png",
+          "https://files.catbox.moe/m89dpk.png",
+          "https://files.catbox.moe/887yjw.png",
+          "https://files.catbox.moe/n62cwa.png",
+          "https://files.catbox.moe/7423q1.png",
+          "https://files.catbox.moe/i42tgh.png",
+          "https://files.catbox.moe/2mpcm5.png",
+          "https://files.catbox.moe/9epbpc.png",
+          "https://files.catbox.moe/b48lc7.png",
+          "https://files.catbox.moe/gjdz9w.png",
+          "https://files.catbox.moe/p5uo1y.png",
+          "https://files.catbox.moe/lxb9rc.png",
+          "https://files.catbox.moe/566nnx.png",
+          "https://files.catbox.moe/5sno10.png",
+          "https://files.catbox.moe/ors4h6.png"
+        ]
+      },
+      "last_updated": 1606082502
+    },
+    "57": {
+      "title": "Jahy-sama and the Sleepover",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/w7x7r2.png",
+          "https://files.catbox.moe/oerb27.png",
+          "https://files.catbox.moe/yh15ec.png",
+          "https://files.catbox.moe/4yzb6g.png",
+          "https://files.catbox.moe/udevou.png",
+          "https://files.catbox.moe/hw02r5.png",
+          "https://files.catbox.moe/t6ylt7.png",
+          "https://files.catbox.moe/w6l1y3.png",
+          "https://files.catbox.moe/kv35jc.png",
+          "https://files.catbox.moe/2eiipp.png",
+          "https://files.catbox.moe/n3isws.png",
+          "https://files.catbox.moe/3auuyd.png",
+          "https://files.catbox.moe/hev8q7.png",
+          "https://files.catbox.moe/fd82fw.png",
+          "https://files.catbox.moe/1ep6c1.png",
+          "https://files.catbox.moe/8sjhcm.png",
+          "https://files.catbox.moe/vsnyb7.png",
+          "https://files.catbox.moe/uzy8q7.png"
+        ]
+      },
+      "last_updated": 1629862788
+    },
+    "58": {
+      "title": "Maou-sama and the Magical Girl",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/hd87j5.png",
+          "https://files.catbox.moe/p0nkjh.png",
+          "https://files.catbox.moe/pasd6p.png",
+          "https://files.catbox.moe/ruugbv.png",
+          "https://files.catbox.moe/bakh6h.png",
+          "https://files.catbox.moe/jxiqch.png",
+          "https://files.catbox.moe/3yose6.png",
+          "https://files.catbox.moe/s2pbro.png",
+          "https://files.catbox.moe/3atvvc.png",
+          "https://files.catbox.moe/0ifsuz.png",
+          "https://files.catbox.moe/8f9ere.png",
+          "https://files.catbox.moe/oqnt87.png",
+          "https://files.catbox.moe/m0y5ee.png",
+          "https://files.catbox.moe/dpq2fj.png",
+          "https://files.catbox.moe/livdns.png",
+          "https://files.catbox.moe/zhf4wh.png"
+        ]
+      },
+      "last_updated": 1629862803
+    },
+    "59": {
+      "title": "Jahy-sama and the Ghost",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/2qr1s6.png",
+          "https://files.catbox.moe/ewjtwy.png",
+          "https://files.catbox.moe/y5dc6u.png",
+          "https://files.catbox.moe/riaghe.png",
+          "https://files.catbox.moe/kh7ok7.png",
+          "https://files.catbox.moe/3p0qzp.png",
+          "https://files.catbox.moe/jvbw4r.png",
+          "https://files.catbox.moe/jl9v6w.png",
+          "https://files.catbox.moe/54q8fd.png",
+          "https://files.catbox.moe/lbrxqp.png",
+          "https://files.catbox.moe/pr22y3.png",
+          "https://files.catbox.moe/2ff6js.png",
+          "https://files.catbox.moe/er3el7.png",
+          "https://files.catbox.moe/d0f1m9.png",
+          "https://files.catbox.moe/1ukiwf.png",
+          "https://files.catbox.moe/wanqhh.png",
+          "https://files.catbox.moe/t5vs71.png"
+        ]
+      },
+      "last_updated": 1629862819
+    },
+    "60": {
+      "title": "Jahy-sama and the Mysterious Light",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/78cz4x.png",
+          "https://files.catbox.moe/uis259.png",
+          "https://files.catbox.moe/3w9ar4.png",
+          "https://files.catbox.moe/sel2vq.png",
+          "https://files.catbox.moe/qr74q6.png",
+          "https://files.catbox.moe/gmfkfq.png",
+          "https://files.catbox.moe/ymtng2.png",
+          "https://files.catbox.moe/ttuyyx.png",
+          "https://files.catbox.moe/1fntya.png",
+          "https://files.catbox.moe/yvij01.png",
+          "https://files.catbox.moe/dm74h4.png",
+          "https://files.catbox.moe/rhjnnr.png",
+          "https://files.catbox.moe/edcjku.png",
+          "https://files.catbox.moe/8mgp2t.png",
+          "https://files.catbox.moe/phvtz0.png",
+          "https://files.catbox.moe/pz4l1y.png",
+          "https://files.catbox.moe/th4pis.png"
+        ]
+      },
+      "last_updated": 1640147845
+    },
+    "61": {
+      "title": "Druj and Jahy-sama",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/y93fq0.png",
+          "https://files.catbox.moe/klsfju.png",
+          "https://files.catbox.moe/ohj8zt.png",
+          "https://files.catbox.moe/g3hixe.png",
+          "https://files.catbox.moe/5nlne4.png",
+          "https://files.catbox.moe/942cmm.png",
+          "https://files.catbox.moe/c97ozq.png",
+          "https://files.catbox.moe/btl24k.png",
+          "https://files.catbox.moe/smeo70.png",
+          "https://files.catbox.moe/nfpbio.png",
+          "https://files.catbox.moe/7xtr6r.png",
+          "https://files.catbox.moe/ehml4o.png",
+          "https://files.catbox.moe/r4lc3q.png",
+          "https://files.catbox.moe/5rdpb6.png",
+          "https://files.catbox.moe/kxqp92.png",
+          "https://files.catbox.moe/ftrjor.png",
+          "https://files.catbox.moe/7pq24e.png"
+        ]
+      },
+      "last_updated": 1640147862
+    },
+    "62": {
+      "title": "Jahy-sama and the Omikoshi",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/i281ci.png",
+          "https://files.catbox.moe/3b86b2.png",
+          "https://files.catbox.moe/yccdgz.jpg",
+          "https://files.catbox.moe/trqxy4.png",
+          "https://files.catbox.moe/01pugr.png",
+          "https://files.catbox.moe/lauegu.png",
+          "https://files.catbox.moe/n0hxj7.png",
+          "https://files.catbox.moe/2h6od8.png",
+          "https://files.catbox.moe/pzmrmh.png",
+          "https://files.catbox.moe/vesmwj.png",
+          "https://files.catbox.moe/r4mbod.png",
+          "https://files.catbox.moe/0k6hcw.png",
+          "https://files.catbox.moe/a0kauh.png",
+          "https://files.catbox.moe/2mw9ih.png",
+          "https://files.catbox.moe/wvu0ad.png",
+          "https://files.catbox.moe/64ejcb.png",
+          "https://files.catbox.moe/age829.png",
+          "https://files.catbox.moe/rdwaej.png",
+          "https://files.catbox.moe/dep3g0.png",
+          "https://files.catbox.moe/l3lo0m.png",
+          "https://files.catbox.moe/a0028s.png",
+          "https://files.catbox.moe/pvr1b7.png"
+        ]
+      },
+      "last_updated": 1640147877
+    },
+    "63": {
+      "title": "Salwa-sama and the Festival",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/xdnl1k.png",
+          "https://files.catbox.moe/5wq93t.png",
+          "https://files.catbox.moe/gwuku0.png",
+          "https://files.catbox.moe/3nhx6m.png",
+          "https://files.catbox.moe/3l1b8d.png",
+          "https://files.catbox.moe/tsn6uy.png",
+          "https://files.catbox.moe/n48g1y.png",
+          "https://files.catbox.moe/qah440.png",
+          "https://files.catbox.moe/ceajq9.png",
+          "https://files.catbox.moe/tww7xn.png",
+          "https://files.catbox.moe/gcoxeo.png",
+          "https://files.catbox.moe/j226ci.png",
+          "https://files.catbox.moe/5x3bsq.png",
+          "https://files.catbox.moe/azh5vw.png",
+          "https://files.catbox.moe/wvmlk5.png",
+          "https://files.catbox.moe/h2xfkb.png",
+          "https://files.catbox.moe/nvw3yn.png",
+          "https://files.catbox.moe/n9ozib.png",
+          "https://files.catbox.moe/ay6p34.png",
+          "https://files.catbox.moe/dai049.png"
+        ]
+      },
+      "last_updated": 1640147909
+    },
+    "62.5": {
+      "title": "Jahy-sama and After the Omikoshi",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/l2xwc9.png",
+          "https://files.catbox.moe/bmqw4d.png",
+          "https://files.catbox.moe/8235wn.png",
+          "https://files.catbox.moe/fxjq7q.png",
+          "https://files.catbox.moe/zsf7d8.png"
+        ]
+      },
+      "last_updated": 1640147894
+    },
+    "64": {
+      "title": "Jahy-sama and Independence",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/7bm7ju.png",
+          "https://files.catbox.moe/ldrrl3.png",
+          "https://files.catbox.moe/il2xwv.png",
+          "https://files.catbox.moe/pgotcs.png",
+          "https://files.catbox.moe/jt0h08.png",
+          "https://files.catbox.moe/y6kkdp.png",
+          "https://files.catbox.moe/tywhpm.png",
+          "https://files.catbox.moe/3wtre0.png",
+          "https://files.catbox.moe/u5bbzy.png",
+          "https://files.catbox.moe/i63myc.png",
+          "https://files.catbox.moe/agglov.png",
+          "https://files.catbox.moe/c38xe2.png",
+          "https://files.catbox.moe/jrppnm.png",
+          "https://files.catbox.moe/42d9dl.png",
+          "https://files.catbox.moe/j53oua.png",
+          "https://files.catbox.moe/twqqua.png",
+          "https://files.catbox.moe/sn18ve.png",
+          "https://files.catbox.moe/z1kud3.png"
+        ]
+      },
+      "last_updated": 1640147925
+    },
+    "65": {
+      "title": "Jahy-sama and the Mastermind's Appearance",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/uyo9wy.png",
+          "https://files.catbox.moe/g7lt4o.png",
+          "https://files.catbox.moe/fgrbqu.png",
+          "https://files.catbox.moe/eytu3o.png",
+          "https://files.catbox.moe/w731dc.png",
+          "https://files.catbox.moe/k5lyih.png",
+          "https://files.catbox.moe/tlyqi2.png",
+          "https://files.catbox.moe/tac7nj.png",
+          "https://files.catbox.moe/gq1fco.png",
+          "https://files.catbox.moe/1e024g.png",
+          "https://files.catbox.moe/hk52gs.png",
+          "https://files.catbox.moe/pfoozt.png",
+          "https://files.catbox.moe/ji6avi.png",
+          "https://files.catbox.moe/z8odlg.png",
+          "https://files.catbox.moe/hgfxgg.png",
+          "https://files.catbox.moe/kokxhn.png",
+          "https://files.catbox.moe/xdoipa.png",
+          "https://files.catbox.moe/7yz48z.png",
+          "https://files.catbox.moe/8h7moo.png"
+        ]
+      },
+      "last_updated": 1640147940
+    },
+    "66": {
+      "title": "Jahy-sama and the Big Fight",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/v5uvv3.png",
+          "https://files.catbox.moe/cq6upe.png",
+          "https://files.catbox.moe/b03r0t.png",
+          "https://files.catbox.moe/sja5az.png",
+          "https://files.catbox.moe/lxo195.png",
+          "https://files.catbox.moe/07mtb8.png",
+          "https://files.catbox.moe/5u6w2q.png",
+          "https://files.catbox.moe/wy87tc.png",
+          "https://files.catbox.moe/tjhpnd.png",
+          "https://files.catbox.moe/vkep2c.png",
+          "https://files.catbox.moe/c57gin.png",
+          "https://files.catbox.moe/4rjaqd.png",
+          "https://files.catbox.moe/xvtphc.png",
+          "https://files.catbox.moe/vo47tn.png",
+          "https://files.catbox.moe/ovs67b.png",
+          "https://files.catbox.moe/yoytz9.png",
+          "https://files.catbox.moe/bsl0em.png",
+          "https://files.catbox.moe/4vppwu.png"
+        ]
+      },
+      "last_updated": 1640147955
+    },
+    "67": {
+      "title": "Jahy-sama and the End of the Big Fight",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/aukt0o.png",
+          "https://files.catbox.moe/0tb38a.png",
+          "https://files.catbox.moe/6maw68.png",
+          "https://files.catbox.moe/g9hhjc.png",
+          "https://files.catbox.moe/c3jyvu.png",
+          "https://files.catbox.moe/xfsr2l.png",
+          "https://files.catbox.moe/ol1g1y.png",
+          "https://files.catbox.moe/gtgoev.png",
+          "https://files.catbox.moe/22mcyc.png",
+          "https://files.catbox.moe/rwkq1g.png",
+          "https://files.catbox.moe/27t0of.png",
+          "https://files.catbox.moe/v3wt9d.png",
+          "https://files.catbox.moe/e3ckkm.png",
+          "https://files.catbox.moe/7201yn.png",
+          "https://files.catbox.moe/owoz0r.png",
+          "https://files.catbox.moe/gcnktr.png",
+          "https://files.catbox.moe/9k0bbg.png",
+          "https://files.catbox.moe/2du1sq.png",
+          "https://files.catbox.moe/ggxasn.png",
+          "https://files.catbox.moe/ghaxud.png"
+        ]
+      },
+      "last_updated": 1640147971
+    },
+    "68": {
+      "title": "Jahy-sama and the Farewell Party",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/irrx26.png",
+          "https://files.catbox.moe/q185z0.png",
+          "https://files.catbox.moe/mxewzx.png",
+          "https://files.catbox.moe/7y5wk0.png",
+          "https://files.catbox.moe/5tckl4.png",
+          "https://files.catbox.moe/23lth2.png",
+          "https://files.catbox.moe/dy6rq2.png",
+          "https://files.catbox.moe/ohmuee.png",
+          "https://files.catbox.moe/13ncey.png",
+          "https://files.catbox.moe/zoycsd.png",
+          "https://files.catbox.moe/azzsby.png",
+          "https://files.catbox.moe/5oyo5w.png",
+          "https://files.catbox.moe/spbwqe.png",
+          "https://files.catbox.moe/rxy8un.png",
+          "https://files.catbox.moe/v2l6fz.png",
+          "https://files.catbox.moe/hzykir.png",
+          "https://files.catbox.moe/4sek8f.png",
+          "https://files.catbox.moe/bixcl2.png",
+          "https://files.catbox.moe/6ixsye.png"
+        ]
+      },
+      "last_updated": 1711698903
+    },
+    "69": {
+      "title": "Jahy-sama and Jealousy",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/szhlac.png",
+          "https://files.catbox.moe/06vv35.png",
+          "https://files.catbox.moe/pssukx.png",
+          "https://files.catbox.moe/hjaq6o.png",
+          "https://files.catbox.moe/xbgscc.png",
+          "https://files.catbox.moe/iwkxbo.png",
+          "https://files.catbox.moe/k7028e.png",
+          "https://files.catbox.moe/07f5np.png",
+          "https://files.catbox.moe/4ikwpn.png",
+          "https://files.catbox.moe/b1clkq.png",
+          "https://files.catbox.moe/gw66sn.png",
+          "https://files.catbox.moe/jwo9jw.png",
+          "https://files.catbox.moe/zl5xjm.png",
+          "https://files.catbox.moe/hekoek.png",
+          "https://files.catbox.moe/qllwts.png",
+          "https://files.catbox.moe/ac2epa.png",
+          "https://files.catbox.moe/3elrpx.png",
+          "https://files.catbox.moe/xp001j.png"
+        ]
+      },
+      "last_updated": 1711698905
+    },
+    "70": {
+      "title": "Jahy-sama and Games",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/ualnwe.png",
+          "https://files.catbox.moe/4xxfbj.png",
+          "https://files.catbox.moe/pjv1fu.png",
+          "https://files.catbox.moe/512ugb.png",
+          "https://files.catbox.moe/xtnwy5.png",
+          "https://files.catbox.moe/a1j2ft.png",
+          "https://files.catbox.moe/w30v0e.png",
+          "https://files.catbox.moe/zx2fbu.png",
+          "https://files.catbox.moe/wtdcu7.png",
+          "https://files.catbox.moe/dyxs2s.png",
+          "https://files.catbox.moe/r7fxim.png",
+          "https://files.catbox.moe/fh8zb5.png",
+          "https://files.catbox.moe/4m6n6p.png",
+          "https://files.catbox.moe/7z6a5g.png",
+          "https://files.catbox.moe/hgdjam.png"
+        ]
+      },
+      "last_updated": 1711698906
+    },
+    "71": {
+      "title": "Jahy-sama and the Live Concert",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/vtetos.png",
+          "https://files.catbox.moe/w71i7e.png",
+          "https://files.catbox.moe/r4qu9v.png",
+          "https://files.catbox.moe/gnbw5l.png",
+          "https://files.catbox.moe/yiup50.png",
+          "https://files.catbox.moe/y8zu2w.png",
+          "https://files.catbox.moe/0usp8b.png",
+          "https://files.catbox.moe/532mis.png",
+          "https://files.catbox.moe/ixyy4d.png",
+          "https://files.catbox.moe/iptsfe.png",
+          "https://files.catbox.moe/yldno0.png",
+          "https://files.catbox.moe/fhzgd3.png",
+          "https://files.catbox.moe/1lb79v.png",
+          "https://files.catbox.moe/kkf6hx.png",
+          "https://files.catbox.moe/bvxhct.png",
+          "https://files.catbox.moe/k3zthx.png",
+          "https://files.catbox.moe/8supqe.png",
+          "https://files.catbox.moe/qw34wd.png",
+          "https://files.catbox.moe/m76ab7.png"
+        ]
+      },
+      "last_updated": 1711698907
+    },
+    "72": {
+      "title": "Jahy-sama and Doing One's Best",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/bighja.png",
+          "https://files.catbox.moe/r17s1r.png",
+          "https://files.catbox.moe/6e3qrw.png",
+          "https://files.catbox.moe/6kdf3h.png",
+          "https://files.catbox.moe/4urr38.png",
+          "https://files.catbox.moe/z2zup7.png",
+          "https://files.catbox.moe/7ryo4l.png",
+          "https://files.catbox.moe/v9bs3p.png",
+          "https://files.catbox.moe/tlh0xj.png",
+          "https://files.catbox.moe/svhm5m.png",
+          "https://files.catbox.moe/3f87iz.png",
+          "https://files.catbox.moe/9ai5d7.png",
+          "https://files.catbox.moe/d7rpaq.png",
+          "https://files.catbox.moe/2fqabq.png",
+          "https://files.catbox.moe/17ftzn.png",
+          "https://files.catbox.moe/f4vo4g.png",
+          "https://files.catbox.moe/8gsvd4.png",
+          "https://files.catbox.moe/eytf20.png"
+        ]
+      },
+      "last_updated": 1711698908
+    },
+    "73": {
+      "title": "Jahy-sama and the Truth",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/2a8l8v.png",
+          "https://files.catbox.moe/vxcpfk.png",
+          "https://files.catbox.moe/ryx1t0.png",
+          "https://files.catbox.moe/pvo2se.png",
+          "https://files.catbox.moe/idpe0q.png",
+          "https://files.catbox.moe/ewsbvd.png",
+          "https://files.catbox.moe/id8kng.png",
+          "https://files.catbox.moe/0bhmy1.png",
+          "https://files.catbox.moe/cwcnkf.png",
+          "https://files.catbox.moe/hu13ff.png",
+          "https://files.catbox.moe/u9vfm9.png",
+          "https://files.catbox.moe/1c84rq.png",
+          "https://files.catbox.moe/9v2ull.png",
+          "https://files.catbox.moe/284mt6.png",
+          "https://files.catbox.moe/4wnmil.png",
+          "https://files.catbox.moe/go9ipu.png",
+          "https://files.catbox.moe/0kqmfd.png",
+          "https://files.catbox.moe/hol7jx.png"
+        ]
+      },
+      "last_updated": 1711698910
+    },
+    "74": {
+      "title": "Jahy-sama and the Truth \u2461",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/wym6pz.png",
+          "https://files.catbox.moe/jvwy14.png",
+          "https://files.catbox.moe/utdalk.png",
+          "https://files.catbox.moe/pxrqi9.png",
+          "https://files.catbox.moe/2oy4g4.png",
+          "https://files.catbox.moe/f0jaea.png",
+          "https://files.catbox.moe/uzbydo.png",
+          "https://files.catbox.moe/w0zebx.png",
+          "https://files.catbox.moe/zhx67f.png",
+          "https://files.catbox.moe/mmh123.png",
+          "https://files.catbox.moe/s9tyny.png",
+          "https://files.catbox.moe/hgn5g7.png",
+          "https://files.catbox.moe/rahphc.png",
+          "https://files.catbox.moe/8camtf.png",
+          "https://files.catbox.moe/rsojmj.png",
+          "https://files.catbox.moe/kc0y7k.png",
+          "https://files.catbox.moe/u8rx6m.png",
+          "https://files.catbox.moe/ij8166.png",
+          "https://files.catbox.moe/xm8jv2.png"
+        ]
+      },
+      "last_updated": 1711698911
+    },
+    "75": {
+      "title": "Jahy-sama and Moving",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/7t677z.png",
+          "https://files.catbox.moe/e5asd9.png",
+          "https://files.catbox.moe/apu7z4.png",
+          "https://files.catbox.moe/5iball.png",
+          "https://files.catbox.moe/gc0tg0.png",
+          "https://files.catbox.moe/8v1j85.png",
+          "https://files.catbox.moe/u5uos3.png",
+          "https://files.catbox.moe/ojl950.png",
+          "https://files.catbox.moe/39xrja.png",
+          "https://files.catbox.moe/hu9oyj.png",
+          "https://files.catbox.moe/yelzco.png",
+          "https://files.catbox.moe/jmd0uz.png",
+          "https://files.catbox.moe/k5su8p.png",
+          "https://files.catbox.moe/79vfql.png",
+          "https://files.catbox.moe/p8i9ne.png",
+          "https://files.catbox.moe/6ldycn.png",
+          "https://files.catbox.moe/brupsz.png"
+        ]
+      },
+      "last_updated": 1711698912
+    },
+    "76": {
+      "title": "Jahy-sama and Demon Realm Restoration Strategy Meeting",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/s8qwwz.png",
+          "https://files.catbox.moe/v0z9c7.png",
+          "https://files.catbox.moe/iu256b.png",
+          "https://files.catbox.moe/rwcdom.png",
+          "https://files.catbox.moe/2eyfnr.png",
+          "https://files.catbox.moe/mwe2qn.png",
+          "https://files.catbox.moe/wwkl5k.png",
+          "https://files.catbox.moe/0b8d3p.png",
+          "https://files.catbox.moe/p1p11w.png",
+          "https://files.catbox.moe/3f5ech.png",
+          "https://files.catbox.moe/4jq9jl.png",
+          "https://files.catbox.moe/vftiyo.png",
+          "https://files.catbox.moe/q8m48a.png",
+          "https://files.catbox.moe/teczvl.png",
+          "https://files.catbox.moe/vxnsnc.png",
+          "https://files.catbox.moe/jh9qie.png",
+          "https://files.catbox.moe/uo0haa.png"
+        ]
+      },
+      "last_updated": 1711698914
+    },
+    "76.5": {
+      "title": "Jahy-sama and Comfort",
+      "volume": "9",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/4whrtq.png",
+          "https://files.catbox.moe/7zar30.png",
+          "https://files.catbox.moe/wesp60.png",
+          "https://files.catbox.moe/nfgxp9.png",
+          "https://files.catbox.moe/tl0kp6.png"
+        ]
+      },
+      "last_updated": 1711698915
+    },
+    "77": {
+      "title": "Jahy-sama and Words of Praise",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/xsbqoj.png",
+          "https://files.catbox.moe/d411xm.png",
+          "https://files.catbox.moe/qot9wn.png",
+          "https://files.catbox.moe/uv6zr9.png",
+          "https://files.catbox.moe/rb97x3.png",
+          "https://files.catbox.moe/hzo485.png",
+          "https://files.catbox.moe/zxzwby.png",
+          "https://files.catbox.moe/c7lm4v.png",
+          "https://files.catbox.moe/nvigwz.png",
+          "https://files.catbox.moe/cz9jet.png",
+          "https://files.catbox.moe/rnvmle.png",
+          "https://files.catbox.moe/hfs4zd.png",
+          "https://files.catbox.moe/dvui6g.png",
+          "https://files.catbox.moe/u400y6.png",
+          "https://files.catbox.moe/qt9yab.png",
+          "https://files.catbox.moe/105miq.png",
+          "https://files.catbox.moe/0vud4q.png"
+        ]
+      },
+      "last_updated": 1711698916
+    },
+    "78": {
+      "title": "Jahy-sama and A Lot of Money",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/vyyd82.png",
+          "https://files.catbox.moe/yiqizd.png",
+          "https://files.catbox.moe/xxu9ve.png",
+          "https://files.catbox.moe/mlj9iq.png",
+          "https://files.catbox.moe/ne5alp.png",
+          "https://files.catbox.moe/03ugu2.png",
+          "https://files.catbox.moe/6egwzp.png",
+          "https://files.catbox.moe/d7xefc.png",
+          "https://files.catbox.moe/3e526h.png",
+          "https://files.catbox.moe/k7nown.png",
+          "https://files.catbox.moe/7j5jve.png",
+          "https://files.catbox.moe/vq4wil.png",
+          "https://files.catbox.moe/rnurpl.png",
+          "https://files.catbox.moe/0qlmrv.png",
+          "https://files.catbox.moe/097h1b.png",
+          "https://files.catbox.moe/nthqdg.png",
+          "https://files.catbox.moe/89tw7o.png"
+        ]
+      },
+      "last_updated": 1711698917
+    },
+    "79": {
+      "title": "Jahy-sama and Shadowing",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/vdq4wa.png",
+          "https://files.catbox.moe/4yhrox.png",
+          "https://files.catbox.moe/icquq3.png",
+          "https://files.catbox.moe/lc356f.png",
+          "https://files.catbox.moe/kwczsb.png",
+          "https://files.catbox.moe/0cgyt8.png",
+          "https://files.catbox.moe/zav0sr.png",
+          "https://files.catbox.moe/s87hnc.png",
+          "https://files.catbox.moe/dxarp9.png",
+          "https://files.catbox.moe/mstwkd.png",
+          "https://files.catbox.moe/atyjol.png",
+          "https://files.catbox.moe/ob1f99.png",
+          "https://files.catbox.moe/uagyvn.png",
+          "https://files.catbox.moe/na38e4.png",
+          "https://files.catbox.moe/gexrz1.png",
+          "https://files.catbox.moe/4qvg7w.png",
+          "https://files.catbox.moe/9bs3tu.png",
+          "https://files.catbox.moe/m1od3z.png"
+        ]
+      },
+      "last_updated": 1711698917
+    },
+    "80": {
+      "title": "Jahy-sama and Five of Me ",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/nz5n97.png",
+          "https://files.catbox.moe/gl6zti.png",
+          "https://files.catbox.moe/8k9cj1.png",
+          "https://files.catbox.moe/p52zo5.png",
+          "https://files.catbox.moe/lfi1aw.png",
+          "https://files.catbox.moe/rllvw6.png",
+          "https://files.catbox.moe/bwhgm7.png",
+          "https://files.catbox.moe/pcs7y7.png",
+          "https://files.catbox.moe/purjkp.png",
+          "https://files.catbox.moe/vlkoj5.png",
+          "https://files.catbox.moe/s78avd.png",
+          "https://files.catbox.moe/os03yr.png",
+          "https://files.catbox.moe/tymddz.png",
+          "https://files.catbox.moe/smg1m6.png",
+          "https://files.catbox.moe/nc0gd1.png",
+          "https://files.catbox.moe/hmhwsi.png",
+          "https://files.catbox.moe/9eby9k.png"
+        ]
+      },
+      "last_updated": 1711698919
+    },
+    "81": {
+      "title": "Jahy-sama and Transformation",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/ii61a8.png",
+          "https://files.catbox.moe/kqods6.png",
+          "https://files.catbox.moe/3oq3z3.png",
+          "https://files.catbox.moe/17k4lg.png",
+          "https://files.catbox.moe/h8ut4u.png",
+          "https://files.catbox.moe/jmejju.png",
+          "https://files.catbox.moe/2n1d78.png",
+          "https://files.catbox.moe/ggkwy2.png",
+          "https://files.catbox.moe/2y5xb1.png",
+          "https://files.catbox.moe/wxfmg4.png",
+          "https://files.catbox.moe/tz8ah6.png",
+          "https://files.catbox.moe/1d7c9y.png",
+          "https://files.catbox.moe/j7paef.png",
+          "https://files.catbox.moe/esd5o3.png",
+          "https://files.catbox.moe/cd3xw8.png",
+          "https://files.catbox.moe/bzrje2.png"
+        ]
+      },
+      "last_updated": 1711698919
+    },
+    "82": {
+      "title": "Jahy-sama and the lottery",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/5buq1s.png",
+          "https://files.catbox.moe/uj3aci.png",
+          "https://files.catbox.moe/ak70lb.png",
+          "https://files.catbox.moe/8tr8nn.png",
+          "https://files.catbox.moe/sh5kqc.png",
+          "https://files.catbox.moe/5x44oa.png",
+          "https://files.catbox.moe/8akbde.png",
+          "https://files.catbox.moe/gmvi6i.png",
+          "https://files.catbox.moe/wq7421.png",
+          "https://files.catbox.moe/qxp0zq.png",
+          "https://files.catbox.moe/7s9zpa.png",
+          "https://files.catbox.moe/pm3vdw.png",
+          "https://files.catbox.moe/0lkov9.png",
+          "https://files.catbox.moe/ba92yh.png",
+          "https://files.catbox.moe/fy0ljn.png",
+          "https://files.catbox.moe/ws0xap.png",
+          "https://files.catbox.moe/wg10cj.png"
+        ]
+      },
+      "last_updated": 1711698921
+    },
+    "83": {
+      "title": "Jahy-sama and Hot Springs Trip",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/w3dg6z.png",
+          "https://files.catbox.moe/rd137o.png",
+          "https://files.catbox.moe/7i0itg.png",
+          "https://files.catbox.moe/ooels2.png",
+          "https://files.catbox.moe/bnd8g6.png",
+          "https://files.catbox.moe/a6rmxj.png",
+          "https://files.catbox.moe/s0uden.png",
+          "https://files.catbox.moe/qel6nh.png",
+          "https://files.catbox.moe/wsxfis.png",
+          "https://files.catbox.moe/k3jh8n.png",
+          "https://files.catbox.moe/60ca1m.png",
+          "https://files.catbox.moe/c7acjy.png",
+          "https://files.catbox.moe/7t5sar.png",
+          "https://files.catbox.moe/miac2w.png",
+          "https://files.catbox.moe/hdjece.png",
+          "https://files.catbox.moe/5sndbh.png",
+          "https://files.catbox.moe/eycj0f.png"
+        ]
+      },
+      "last_updated": 1711698921
+    },
+    "84": {
+      "title": "Jahy-sama and Hot Springs Trip \u2461",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/u7vb98.png",
+          "https://files.catbox.moe/e4qga5.png",
+          "https://files.catbox.moe/hkcymj.png",
+          "https://files.catbox.moe/7mnogt.png",
+          "https://files.catbox.moe/9udxdc.png",
+          "https://files.catbox.moe/6o3eto.png",
+          "https://files.catbox.moe/rs8ecc.png",
+          "https://files.catbox.moe/g9ao4u.png",
+          "https://files.catbox.moe/6gcz5x.png",
+          "https://files.catbox.moe/rlu9qi.png",
+          "https://files.catbox.moe/7oao5u.png",
+          "https://files.catbox.moe/0ltwvs.png",
+          "https://files.catbox.moe/yr0jra.png",
+          "https://files.catbox.moe/gm7xca.png",
+          "https://files.catbox.moe/ga3rgi.png",
+          "https://files.catbox.moe/iudakb.png"
+        ]
+      },
+      "last_updated": 1711698922
+    },
+    "83.5": {
+      "title": "Kyouko and Hot Springs Trip",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/lionoj.png",
+          "https://files.catbox.moe/79mrh5.png",
+          "https://files.catbox.moe/q5gdpn.png",
+          "https://files.catbox.moe/svrm9f.png",
+          "https://files.catbox.moe/l9d4ie.png",
+          "https://files.catbox.moe/0f5keb.png",
+          "https://files.catbox.moe/i2k9i5.png",
+          "https://files.catbox.moe/1npa6m.png",
+          "https://files.catbox.moe/qlqe77.png",
+          "https://files.catbox.moe/h425yb.png",
+          "https://files.catbox.moe/pmwy11.png"
+        ]
+      },
+      "last_updated": 1711698923
+    },
+    "84.5": {
+      "title": "Jahy-sama and Sleeping Together",
+      "volume": "10",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/534f6v.png",
+          "https://files.catbox.moe/rz89g0.png",
+          "https://files.catbox.moe/l1wqbe.png",
+          "https://files.catbox.moe/f5yyfz.png",
+          "https://files.catbox.moe/tn4bbb.png"
+        ]
+      },
+      "last_updated": 1711698924
+    },
+    "85": {
+      "title": "Jahy-sama and Work Again",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/leb0y3.png",
+          "https://files.catbox.moe/thxfdl.png",
+          "https://files.catbox.moe/ok4ad3.png",
+          "https://files.catbox.moe/oxhsk2.png",
+          "https://files.catbox.moe/g8fwgs.png",
+          "https://files.catbox.moe/0j4vzp.png",
+          "https://files.catbox.moe/s74z8r.png",
+          "https://files.catbox.moe/ma4p8y.png",
+          "https://files.catbox.moe/xrnyzn.png",
+          "https://files.catbox.moe/im77mp.png",
+          "https://files.catbox.moe/bvbx1h.png",
+          "https://files.catbox.moe/xphcee.png",
+          "https://files.catbox.moe/22lb43.png",
+          "https://files.catbox.moe/87z2tw.png",
+          "https://files.catbox.moe/plbwys.png",
+          "https://files.catbox.moe/b2i4c2.png",
+          "https://files.catbox.moe/hq93kq.png"
+        ]
+      },
+      "last_updated": 1744128502
+    },
+    "86": {
+      "title": "Jahy-sama and a Stray Dog",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/62xdsx.png",
+          "https://files.catbox.moe/ss49sc.png",
+          "https://files.catbox.moe/3dbest.png",
+          "https://files.catbox.moe/9tmoxl.png",
+          "https://files.catbox.moe/klm8ic.png",
+          "https://files.catbox.moe/6g564y.png",
+          "https://files.catbox.moe/ys8l05.png",
+          "https://files.catbox.moe/ro48au.png",
+          "https://files.catbox.moe/4vbh5m.png",
+          "https://files.catbox.moe/jbugq9.png",
+          "https://files.catbox.moe/4jz7mq.png",
+          "https://files.catbox.moe/q946np.png",
+          "https://files.catbox.moe/nt4crp.png",
+          "https://files.catbox.moe/kjqfz0.png",
+          "https://files.catbox.moe/3is2bp.png",
+          "https://files.catbox.moe/rg7ymy.png",
+          "https://files.catbox.moe/7btm35.png",
+          "https://files.catbox.moe/xukuxz.png",
+          "https://files.catbox.moe/rytb0r.png"
+        ]
+      },
+      "last_updated": 1744128515
+    },
+    "87": {
+      "title": "Jahy-sama and Pets",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/durnbf.png",
+          "https://files.catbox.moe/kcaavq.png",
+          "https://files.catbox.moe/73nzec.png",
+          "https://files.catbox.moe/0ts4lg.png",
+          "https://files.catbox.moe/qpwkqo.png",
+          "https://files.catbox.moe/jnc035.png",
+          "https://files.catbox.moe/kdwqsu.png",
+          "https://files.catbox.moe/dah0ki.png",
+          "https://files.catbox.moe/hvvbyq.png",
+          "https://files.catbox.moe/bz2g3q.png",
+          "https://files.catbox.moe/rcsc21.png",
+          "https://files.catbox.moe/ydqq8m.png",
+          "https://files.catbox.moe/emkjfh.png",
+          "https://files.catbox.moe/daq3w9.png",
+          "https://files.catbox.moe/gvyfw1.png",
+          "https://files.catbox.moe/n6q988.png"
+        ]
+      },
+      "last_updated": 1744128528
+    },
+    "88": {
+      "title": "Saurva-sama and a Puppy",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/jr4a2f.png",
+          "https://files.catbox.moe/s6ndx0.png",
+          "https://files.catbox.moe/5yb9ja.png",
+          "https://files.catbox.moe/29goxd.png",
+          "https://files.catbox.moe/20m70p.png",
+          "https://files.catbox.moe/iv62ft.png",
+          "https://files.catbox.moe/krtqfs.png",
+          "https://files.catbox.moe/0wx4r7.png",
+          "https://files.catbox.moe/8hvkvr.png",
+          "https://files.catbox.moe/zy9067.png",
+          "https://files.catbox.moe/q2ubjk.png",
+          "https://files.catbox.moe/j0xnd4.png",
+          "https://files.catbox.moe/m8kkfa.png",
+          "https://files.catbox.moe/v9tv5q.png",
+          "https://files.catbox.moe/pxcu86.png",
+          "https://files.catbox.moe/k9evlx.png"
+        ]
+      },
+      "last_updated": 1744128541
+    },
+    "89": {
+      "title": "Jahy-sama and the Crisis",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/5d10f0.png",
+          "https://files.catbox.moe/hl39yk.png",
+          "https://files.catbox.moe/r1k9zy.png",
+          "https://files.catbox.moe/whhwut.png",
+          "https://files.catbox.moe/0ck4fu.png",
+          "https://files.catbox.moe/9ybq3g.png",
+          "https://files.catbox.moe/5si52n.png",
+          "https://files.catbox.moe/5556qn.png",
+          "https://files.catbox.moe/6tuiv6.png",
+          "https://files.catbox.moe/gc1gac.png",
+          "https://files.catbox.moe/vubvq6.png",
+          "https://files.catbox.moe/k43llm.png",
+          "https://files.catbox.moe/g0oda7.png",
+          "https://files.catbox.moe/uwmc0w.png",
+          "https://files.catbox.moe/etgnon.png",
+          "https://files.catbox.moe/rbfvvo.png"
+        ]
+      },
+      "last_updated": 1744128725
+    },
+    "90": {
+      "title": "Jahy-sama and the Beloved Pet",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/lh9u1c.png",
+          "https://files.catbox.moe/82g8aj.png",
+          "https://files.catbox.moe/u6bnar.png",
+          "https://files.catbox.moe/tbg3yr.png",
+          "https://files.catbox.moe/1u9kvb.png",
+          "https://files.catbox.moe/52uv25.png",
+          "https://files.catbox.moe/is9q9q.png",
+          "https://files.catbox.moe/hzb64g.png",
+          "https://files.catbox.moe/226buc.png",
+          "https://files.catbox.moe/1s6lrw.png",
+          "https://files.catbox.moe/qfvmhw.png",
+          "https://files.catbox.moe/jjldse.png",
+          "https://files.catbox.moe/iolfta.png",
+          "https://files.catbox.moe/ngqaed.png",
+          "https://files.catbox.moe/4ikjol.png",
+          "https://files.catbox.moe/uadijf.png",
+          "https://files.catbox.moe/66wkez.png"
+        ]
+      },
+      "last_updated": 1744128734
+    },
+    "91": {
+      "title": "Jahy-sama and the School",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/x5ylf4.png",
+          "https://files.catbox.moe/exfe57.png",
+          "https://files.catbox.moe/07mia2.png",
+          "https://files.catbox.moe/x5f8pi.png",
+          "https://files.catbox.moe/gaxscx.png",
+          "https://files.catbox.moe/vkgbu3.png",
+          "https://files.catbox.moe/8wvvwg.png",
+          "https://files.catbox.moe/4wpk86.png",
+          "https://files.catbox.moe/pwhef8.png",
+          "https://files.catbox.moe/r2zkvq.png",
+          "https://files.catbox.moe/gjx6l8.png",
+          "https://files.catbox.moe/ux5toh.png",
+          "https://files.catbox.moe/ewzhw8.png",
+          "https://files.catbox.moe/pgpv12.png",
+          "https://files.catbox.moe/hw8yio.png",
+          "https://files.catbox.moe/34qmvl.png",
+          "https://files.catbox.moe/21busg.gif"
+        ]
+      },
+      "last_updated": 1744128744
+    },
+    "92": {
+      "title": "Saurva-sama and the Infantilization Elixir",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/wqq3ch.png",
+          "https://files.catbox.moe/4lssb8.png",
+          "https://files.catbox.moe/mimaz4.png",
+          "https://files.catbox.moe/6atugb.png",
+          "https://files.catbox.moe/9aqvf5.png",
+          "https://files.catbox.moe/vqgp2y.png",
+          "https://files.catbox.moe/emy42d.png",
+          "https://files.catbox.moe/ormr79.png",
+          "https://files.catbox.moe/1ob5wh.png",
+          "https://files.catbox.moe/4em3wv.png",
+          "https://files.catbox.moe/9wf8py.png",
+          "https://files.catbox.moe/a3762v.png",
+          "https://files.catbox.moe/soomu4.png",
+          "https://files.catbox.moe/upmy28.png",
+          "https://files.catbox.moe/g9erru.png",
+          "https://files.catbox.moe/w5oi81.png"
+        ]
+      },
+      "last_updated": 1744128786
+    },
+    "93": {
+      "title": "Taromaru and Jahy-sama",
+      "volume": "11",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/cn611g.png",
+          "https://files.catbox.moe/sy8xsz.png",
+          "https://files.catbox.moe/5pdf96.png",
+          "https://files.catbox.moe/nmsw9n.png",
+          "https://files.catbox.moe/g6jk4e.png",
+          "https://files.catbox.moe/kfbnrv.png",
+          "https://files.catbox.moe/ou2yfk.png",
+          "https://files.catbox.moe/atb5xm.png",
+          "https://files.catbox.moe/9gthes.png",
+          "https://files.catbox.moe/j88p2p.png",
+          "https://files.catbox.moe/4h2bqm.png",
+          "https://files.catbox.moe/orii2h.png",
+          "https://files.catbox.moe/m7hde5.png",
+          "https://files.catbox.moe/mhsijr.png",
+          "https://files.catbox.moe/i4y936.png",
+          "https://files.catbox.moe/exla74.png",
+          "https://files.catbox.moe/l91xum.png"
+        ]
+      },
+      "last_updated": 1744128796
+    },
+    "94": {
+      "title": "Jahy-sama and the Ideal Demon Realm",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/orb3jv.png",
+          "https://files.catbox.moe/efxx0w.png",
+          "https://files.catbox.moe/nofgq7.png",
+          "https://files.catbox.moe/euzpi1.png",
+          "https://files.catbox.moe/sdc3fh.png",
+          "https://files.catbox.moe/76tdbg.png",
+          "https://files.catbox.moe/3zocu3.png",
+          "https://files.catbox.moe/igv36p.png",
+          "https://files.catbox.moe/hbf6xk.png",
+          "https://files.catbox.moe/5qav2b.png",
+          "https://files.catbox.moe/38xb9h.png",
+          "https://files.catbox.moe/8qu4ju.png",
+          "https://files.catbox.moe/fufk5v.png",
+          "https://files.catbox.moe/w2sqb8.png",
+          "https://files.catbox.moe/obo7rp.png",
+          "https://files.catbox.moe/tcoxyi.png",
+          "https://files.catbox.moe/4c2n5t.png"
+        ]
+      },
+      "last_updated": 1738708410
+    },
+    "95": {
+      "title": "Jahy-sama and Being a Human",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/gwrqyu.png",
+          "https://files.catbox.moe/4wc5x4.png",
+          "https://files.catbox.moe/1pldt7.png",
+          "https://files.catbox.moe/tmlklv.png",
+          "https://files.catbox.moe/jwr8kr.png",
+          "https://files.catbox.moe/6ymf8s.png",
+          "https://files.catbox.moe/3if06t.png",
+          "https://files.catbox.moe/sufx2p.png",
+          "https://files.catbox.moe/uyhunb.png",
+          "https://files.catbox.moe/487jsp.png",
+          "https://files.catbox.moe/q60xkv.png",
+          "https://files.catbox.moe/zguozr.png",
+          "https://files.catbox.moe/3dbdcb.png",
+          "https://files.catbox.moe/1bev3g.png",
+          "https://files.catbox.moe/5qz5jt.png",
+          "https://files.catbox.moe/a6qnlo.png",
+          "https://files.catbox.moe/o0a24x.png"
+        ]
+      },
+      "last_updated": 1740858677
+    },
+    "96": {
+      "title": "Jahy-sama and Cleaning the Building",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/nwatvf.png",
+          "https://files.catbox.moe/x135sd.png",
+          "https://files.catbox.moe/auqw3c.png",
+          "https://files.catbox.moe/y91a2j.png",
+          "https://files.catbox.moe/gswcca.png",
+          "https://files.catbox.moe/w2nue8.png",
+          "https://files.catbox.moe/ppb5aj.png",
+          "https://files.catbox.moe/ysnb4o.png",
+          "https://files.catbox.moe/1xsfh9.png",
+          "https://files.catbox.moe/qzld3e.png",
+          "https://files.catbox.moe/i0xmcm.png",
+          "https://files.catbox.moe/jy56v1.png",
+          "https://files.catbox.moe/25ij8u.png",
+          "https://files.catbox.moe/1f12v0.png",
+          "https://files.catbox.moe/m9gc1r.png",
+          "https://files.catbox.moe/e1c9xg.png",
+          "https://files.catbox.moe/94fy2o.png"
+        ]
+      },
+      "last_updated": 1744128482
+    },
+    "97": {
+      "title": "Jahy-sama and the Love Potion",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/n42jf2.png",
+          "https://files.catbox.moe/p4gwdg.png",
+          "https://files.catbox.moe/omcfuy.png",
+          "https://files.catbox.moe/ykxa63.png",
+          "https://files.catbox.moe/tnp608.png",
+          "https://files.catbox.moe/o7x2gp.png",
+          "https://files.catbox.moe/ps3tdh.png",
+          "https://files.catbox.moe/xyquiv.png",
+          "https://files.catbox.moe/vz8jiv.png",
+          "https://files.catbox.moe/9h5kee.png",
+          "https://files.catbox.moe/uz2wf6.png",
+          "https://files.catbox.moe/gr2mpy.png",
+          "https://files.catbox.moe/a9vqmg.png",
+          "https://files.catbox.moe/rfxj90.png",
+          "https://files.catbox.moe/kkn3dh.png",
+          "https://files.catbox.moe/5g20kb.png",
+          "https://files.catbox.moe/bqei0x.png"
+        ]
+      },
+      "last_updated": 1746910853
     }
+  }
 }
