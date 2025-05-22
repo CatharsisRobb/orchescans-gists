@@ -9,7 +9,20 @@
             "title": "Friend",
             "volume": "1",
             "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox/c/w18vh3/"
+                "orchesc/a/ns": [
+                                "https://catbox.moe/whlb59.png",
+                                "https://catbox.moe/232h1g.png",
+                                "https://catbox.moe/5jghn4.png",
+                                "https://catbox.moe/9u73pq.png",
+                                "https://catbox.moe/h4angy.png",
+                                "https://catbox.moe/ozmayw.png",
+                                "https://catbox.moe/6ntqxv.png",
+                                "https://catbox.moe/rgom0i.png",
+                                "https://catbox.moe/isqqii.png",
+                                "https://catbox.moe/5n4b48.png",
+                                "https://catbox.moe/yt3ly6.png",
+                                "https://catbox.moe/qazgar.png"
+]
             },
             "last_updated": 1548553340
         },
@@ -17,7 +30,7 @@
             "title": "Yoshika",
             "volume": "1",
             "groups": {
-                "orchesc/a/ns": "https://catbox.moe/c/9lqfed/"
+                "orchesc/a/ns": "/proxy/api/catbox/9lqfed/"
             },
             "last_updated": 1551323254
         },
@@ -25,7 +38,7 @@
             "title": "Hole Digging",
             "volume": "1",
             "groups": {
-                "orchesc/a/ns": "/proxy/api/catbox.moe/c/8xkgbx/"
+                "orchesc/a/ns": "/proxy/api/catbox/8xkgbx/"
             },
             "last_updated": 1556546997
         },
