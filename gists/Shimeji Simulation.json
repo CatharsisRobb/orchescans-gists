@@ -1,0 +1,449 @@
+{
+    "title": "Shimeji Simulation",
+    "description": "A surreal yet heartwarming 4-koma series about everyday life.  \n  \nFrom the author of Shoujo Shuumatsu Ryokou/Girls' Last Tour.",
+    "author": "Tsukumizu",
+    "artist": "Tsukumizu",
+    "cover": "https://files.catbox.moe/ec87jc.jpg",
+    "chapters": {
+        "1": {
+            "title": "Friend",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/w18vh3"
+            },
+            "last_updated": 1548553340
+        },
+        "2": {
+            "title": "Yoshika",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/9lqfed"
+            },
+            "last_updated": 1551323254
+        },
+        "3": {
+            "title": "Hole Digging",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/8xkgbx"
+            },
+            "last_updated": 1556546997
+        },
+        "4": {
+            "title": "Shape",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/auomyp"
+            },
+            "last_updated": 1556565851
+        },
+        "5": {
+            "title": "Heaven",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/zqovqb"
+            },
+            "last_updated": 1559346197
+        },
+        "6": {
+            "title": "Rain",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tszwa9"
+            },
+            "last_updated": 1562253279
+        },
+        "7": {
+            "title": "A Walk",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/znug6l"
+            },
+            "last_updated": 1567057429
+        },
+        "8": {
+            "title": "Danchi",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/lqm599"
+            },
+            "last_updated": 1569125955
+        },
+        "9": {
+            "title": "Experiment",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/rzzv31"
+            },
+            "last_updated": 1569618556
+        },
+        "10": {
+            "title": "Dream",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/0gh3ph"
+            },
+            "last_updated": 1572224071
+        },
+        "11": {
+            "title": "All Sorts of People",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/y22883"
+            },
+            "last_updated": 1577518625
+        },
+        "12": {
+            "title": "All Sorts of Words",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/nusapc"
+            },
+            "last_updated": 1580137945
+        },
+        "13": {
+            "title": "The Neighbors",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/d4x4f0"
+            },
+            "last_updated": 1582919237
+        },
+        "10.5": {
+            "title": "Extras",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/jv7lps"
+            },
+            "last_updated": 1583366409
+        },
+        "14": {
+            "title": "Majime-chan's House",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/amwcef"
+            },
+            "last_updated": 1585425590
+        },
+        "15": {
+            "title": "Person at the Library",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/vy1n1g"
+            },
+            "last_updated": 1588124488
+        },
+        "16": {
+            "title": "Buried Treasure",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/amsw9z"
+            },
+            "last_updated": 1590693669
+        },
+        "17": {
+            "title": "Shopping Mall",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/gctbli"
+            },
+            "last_updated": 1593421389
+        },
+        "18": {
+            "title": "The Teacher's Shape",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/1ld63j"
+            },
+            "last_updated": 1595896021
+        },
+        "18.5": {
+            "title": "",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/6bt5ca"
+            },
+            "last_updated": 1598558234
+        },
+        "19": {
+            "title": "Hole-Digger",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/kgr0yp"
+            },
+            "last_updated": 1601309994
+        },
+        "20": {
+            "title": "Earth Donut",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/3xuvm2"
+            },
+            "last_updated": 1606593441
+        },
+        "21": {
+            "title": "Rotation",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ksmeqq"
+            },
+            "last_updated": 1654465027
+        },
+        "22": {
+            "title": "Summer Snow",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/7aflth"
+            },
+            "last_updated": 1654842272
+        },
+        "23": {
+            "title": "Expression",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/w1n5b6"
+            },
+            "last_updated": 1654803253
+        },
+        "20.5": {
+            "title": "Volume 2 Extras",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ay7rm0"
+            },
+            "last_updated": 1615507677
+        },
+        "24": {
+            "title": "Writing Lyrics",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/281rgv"
+            },
+            "last_updated": 1654803268
+        },
+        "25": {
+            "title": "Floating",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/gxtky8"
+            },
+            "last_updated": 1654803282
+        },
+        "26": {
+            "title": "Darkness",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tqnd5a"
+            },
+            "last_updated": 1654803293
+        },
+        "27": {
+            "title": "Away From Home",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/n76ljh"
+            },
+            "last_updated": 1654803311
+        },
+        "28": {
+            "title": "Mysterious Stone",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/5gz7ou"
+            },
+            "last_updated": 1654803324
+        },
+        "29": {
+            "title": "Explanation",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/smui0j"
+            },
+            "last_updated": 1654803337
+        },
+        "30": {
+            "title": "Change",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/q72ha6"
+            },
+            "last_updated": 1654465052
+        },
+        "31": {
+            "title": "Arkitacture",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/cnh5eg"
+            },
+            "last_updated": 1685332399
+        },
+        "32": {
+            "title": "Feshion",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/utvgcp"
+            },
+            "last_updated": 1685332439
+        },
+        "33": {
+            "title": "Kokoa",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/eqrb29"
+            },
+            "last_updated": 1685332458
+        },
+        "34": {
+            "title": "Nathing",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/h6za1v"
+            },
+            "last_updated": 1685332478
+        },
+        "35": {
+            "title": "Faer",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ti5x6m"
+            },
+            "last_updated": 1685332500
+        },
+        "30.5": {
+            "title": "Volume 3 Extras",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/b45t9a"
+            },
+            "last_updated": 1654881004
+        },
+        "36": {
+            "title": "Algirothm",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/teq4p6"
+            },
+            "last_updated": 1685332517
+        },
+        "37": {
+            "title": "Cotcus",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/1tffeg"
+            },
+            "last_updated": 1685332543
+        },
+        "38": {
+            "title": "Exvacation",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/exvvd4"
+            },
+            "last_updated": 1685332565
+        },
+        "39": {
+            "title": "Fostavel",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/804hjq"
+            },
+            "last_updated": 1685332581
+        },
+        "40": {
+            "title": "Masic",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/rr6naw"
+            },
+            "last_updated": 1685332594
+        },
+        "41": {
+            "title": "\u274d\ud83d\udd25\ud83d\udd14",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/0g81gc"
+            },
+            "last_updated": 1708207767
+        },
+        "42": {
+            "title": "\u29be",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/3ru62p"
+            },
+            "last_updated": 1706216518
+        },
+        "43": {
+            "title": "\ud83c\udf4a\ud83c\udf4a\ud83c\udf4a",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/1aw28s"
+            },
+            "last_updated": 1706216081
+        },
+        "44": {
+            "title": "We are but a stream",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox//"
+            },
+            "last_updated": 1707595357
+        },
+        "45": {
+            "title": "\ud83d\udc1f",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/h9p6qf"
+            },
+            "last_updated": 1706211105
+        },
+        "40.5": {
+            "title": "Volume 4 Extras",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/abxcyl"
+            },
+            "last_updated": 1685333071
+        },
+        "46": {
+            "title": "Kingdom",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/yforkw"
+            },
+            "last_updated": 1707595341
+        },
+        "47": {
+            "title": "Sleep",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/xyp8dn"
+            },
+            "last_updated": 1746506485
+        },
+        "48": {
+            "title": "Train",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/h0w95f"
+            },
+            "last_updated": 1707595304
+        },
+        "49": {
+            "title": "\ud83c\udf44 \ud83c\udf73",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/co4rhb"
+            },
+            "last_updated": 1707596358
+        },
+        "49.5": {
+            "title": "Volume 5 Extras",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/xir5w3"
+            },
+            "last_updated": 1708207495
+        }
+    }
+}

@@ -1,0 +1,1193 @@
+{
+    "title": "Uzaki-chan wa Asobitai!",
+    "description": "Annoying! Cute! But Annoying!  Shinichi Sakurai is a grumpy-faced, athletic and quiet college student who just wants to be left alone,  but he is frequently teased by his cute, stacked underclassman Hana Uzaki, whom he has known since high school.     Sugoi Dekai means something along the lines of \"impressively huge.\"\n___\n**Additional Links:**\n- Alt Official Raws: [KADOComi](https://comic-walker.com/detail/KC_004657_S?episodeType=first), [KADOKAWA](https://promo.kadokawa.co.jp/uzakichan/)\n- [Official X](https://x.com/uzakichan_asobi)",
+    "author": "Take",
+    "artist": "Take",
+    "cover": "https://files.catbox.moe/kit06f.jpg",
+    "chapters": {
+        "1.1": {
+            "title": "A Kouhai and A Senpai Who Wants To Be Left Alone",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ho155m"
+            },
+            "last_updated": 1525587754
+        },
+        "1.2": {
+            "title": "Kouhai and the Batting Center",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/nz6ch7"
+            },
+            "last_updated": 1525587785
+        },
+        "1.3": {
+            "title": "Kouhai and Eating Ramen",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/948ojm"
+            },
+            "last_updated": 1525922386
+        },
+        "1.4": {
+            "title": "Kouhai and Walking to School",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/lkag4n"
+            },
+            "last_updated": 1525922408
+        },
+        "2": {
+            "title": "Kouhai and Movie Theater",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/rgc8ba"
+            },
+            "last_updated": 1526264848
+        },
+        "3.1": {
+            "title": "Kouhai and Electronics Store",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/gnbprc"
+            },
+            "last_updated": 1526618180
+        },
+        "3.2": {
+            "title": "Kouhai and VR",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/1hc7x2"
+            },
+            "last_updated": 1526618193
+        },
+        "4": {
+            "title": "Kouhai and Workplace",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ns4h1o"
+            },
+            "last_updated": 1528519622
+        },
+        "6": {
+            "title": "Kouhai and Cat",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/mxhq6m"
+            },
+            "last_updated": 1529528045
+        },
+        "7": {
+            "title": "Kouhai and Senpai's Senpai",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/vpcswi"
+            },
+            "last_updated": 1532399805
+        },
+        "5.1": {
+            "title": "Kouhai and Cafeteria",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ancb28"
+            },
+            "last_updated": 1532570944
+        },
+        "5.2": {
+            "title": "Kouhai and The Diner",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/417nhw"
+            },
+            "last_updated": 1532570959
+        },
+        "8": {
+            "title": "Kouhai and the Common Cold",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/7n3t91"
+            },
+            "last_updated": 1533262852
+        },
+        "9": {
+            "title": "Kouhai and Yakiniku",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tnh4is"
+            },
+            "last_updated": 1536811108
+        },
+        "10": {
+            "title": "Kouhai and Hypnotism",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/02j1l4"
+            },
+            "last_updated": 1543639910
+        },
+        "11": {
+            "title": "Kouhai and A Break",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/y798mj"
+            },
+            "last_updated": 1543699532
+        },
+        "12": {
+            "title": "Kouhai and Glasses",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ebj8vz"
+            },
+            "last_updated": 1543808025
+        },
+        "13": {
+            "title": "Kouhai and Burnout",
+            "volume": "1",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/z8zxfk"
+            },
+            "last_updated": 1543887334
+        },
+        "14": {
+            "title": "Kouhai and Lecture",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/nhq1ac"
+            },
+            "last_updated": 1543971104
+        },
+        "15": {
+            "title": "Kouhai and Senpai's Friend",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/7yem3n"
+            },
+            "last_updated": 1544032388
+        },
+        "16": {
+            "title": "Kouhai and Harassment",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ytajhm"
+            },
+            "last_updated": 1544112263
+        },
+        "17": {
+            "title": "Kouhai and Mint Chocolate",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/t4ve73"
+            },
+            "last_updated": 1544214371
+        },
+        "18": {
+            "title": "Kouhai and Summer Plans",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ksib7a"
+            },
+            "last_updated": 1544640963
+        },
+        "19": {
+            "title": "Kouhai and the Sea",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/o3xn37"
+            },
+            "last_updated": 1546477839
+        },
+        "20": {
+            "title": "Kouhai and a Night on the Mountain",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/07in3y"
+            },
+            "last_updated": 1546661853
+        },
+        "21": {
+            "title": "Kouhai and Cat Cafe",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/4yljd7"
+            },
+            "last_updated": 1546661875
+        },
+        "22": {
+            "title": "Kouhai and Sashinomi",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/xej2xh"
+            },
+            "last_updated": 1546730306
+        },
+        "23": {
+            "title": "Kouhai and Fireworks",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/dd164i"
+            },
+            "last_updated": 1546730320
+        },
+        "24": {
+            "title": "Kouhai and Kouhai's House",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/3vsmkx"
+            },
+            "last_updated": 1548108610
+        },
+        "24.1": {
+            "title": "Twitter Bonus Comic",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/o8v4qx"
+            },
+            "last_updated": 1548108662
+        },
+        "23.6": {
+            "title": "Omake 2 (Originally Web Bonus)",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/1nn8hc"
+            },
+            "last_updated": 1549161135
+        },
+        "25": {
+            "title": "Kouhai and Kouhai's Mom",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/qqncm7"
+            },
+            "last_updated": 1549658888
+        },
+        "26": {
+            "title": "Kouhai and A Slip of the Tongue",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/26fcny"
+            },
+            "last_updated": 1552593450
+        },
+        "28": {
+            "title": "Kouhai and Bowling",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/q6bgvu"
+            },
+            "last_updated": 1557119466
+        },
+        "27": {
+            "title": "Kouhai and Senpai's Room",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/p2l8t9"
+            },
+            "last_updated": 1557238843
+        },
+        "29": {
+            "title": "Kouhai and Bouldering",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/xsk83e"
+            },
+            "last_updated": 1557435176
+        },
+        "30": {
+            "title": "Kouhai and a Story from Back Then",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/88uunr"
+            },
+            "last_updated": 1557701405
+        },
+        "31": {
+            "title": "Kouhai and Cooking Practice",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/pjqsxr"
+            },
+            "last_updated": 1558592217
+        },
+        "32": {
+            "title": "Kouhai and Karaoke and Cosplay",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/e5j0t1"
+            },
+            "last_updated": 1561343605
+        },
+        "33": {
+            "title": "Kouhai and Bad Drink",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/rka8f1"
+            },
+            "last_updated": 1563762602
+        },
+        "34": {
+            "title": "Kouhai and Blackout",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/4fquue"
+            },
+            "last_updated": 1563996877
+        },
+        "35": {
+            "title": "Kouhai and the End of Break",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/cq3hrj"
+            },
+            "last_updated": 1564709484
+        },
+        "23.5": {
+            "title": "Tankoubon 2 Omake + Extras",
+            "volume": "2",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/eb3q9s"
+            },
+            "last_updated": 1565498198
+        },
+        "36": {
+            "title": "Kouhai and Futsal",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/mqm87q"
+            },
+            "last_updated": 1567378125
+        },
+        "37": {
+            "title": "Kouhai and Costumes",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/fpftjy"
+            },
+            "last_updated": 1568957070
+        },
+        "38": {
+            "title": "Kouhai and Sleep Deprivation",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/k7clrl"
+            },
+            "last_updated": 1570570112
+        },
+        "39": {
+            "title": "Kouhai and Cooking Training 2",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tbco9b"
+            },
+            "last_updated": 1572101415
+        },
+        "40": {
+            "title": "Kouhai and the School Festival, Part 1",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ph1kdn"
+            },
+            "last_updated": 1574463040
+        },
+        "41": {
+            "title": "Kouhai and the School Festival, Part 2",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ve2gr1"
+            },
+            "last_updated": 1577554970
+        },
+        "42": {
+            "title": "Kouhai and Hotpot",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tezxis"
+            },
+            "last_updated": 1579762612
+        },
+        "43": {
+            "title": "Kouhai And The Plan Going Ahead",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/iieqbe"
+            },
+            "last_updated": 1582339874
+        },
+        "44": {
+            "title": "Kouhai And Executing The Plan",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/rh6i2i"
+            },
+            "last_updated": 1582339937
+        },
+        "45": {
+            "title": "Kouhai and Cooking Training 3",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/7magqy"
+            },
+            "last_updated": 1582344765
+        },
+        "46": {
+            "title": "Kouhai and Making Up",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/t2d3gh"
+            },
+            "last_updated": 1584418748
+        },
+        "47": {
+            "title": "Kouhai and Kouhai's Dad",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/c5zo02"
+            },
+            "last_updated": 1584584198
+        },
+        "48": {
+            "title": "Kouhai and Kouhai's Family",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/n99hfj"
+            },
+            "last_updated": 1585108515
+        },
+        "49": {
+            "title": "Kouhai and Worries",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tblwer"
+            },
+            "last_updated": 1585801089
+        },
+        "41.5": {
+            "title": "Extra",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ph98um"
+            },
+            "last_updated": 1586383852
+        },
+        "33.5": {
+            "title": "Tankoubon 3 Omake + Extras",
+            "volume": "3",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/b7n67q"
+            },
+            "last_updated": 1587175558
+        },
+        "50": {
+            "title": "Kouhai and Cooking Training 4",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tmyatx"
+            },
+            "last_updated": 1587192234
+        },
+        "51": {
+            "title": "Kouhai and the Time Left",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/tipzkh"
+            },
+            "last_updated": 1588534618
+        },
+        "52": {
+            "title": "Kouhai and Something Like Resolve",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/xqw9a1"
+            },
+            "last_updated": 1592798834
+        },
+        "42.5": {
+            "title": "Tankoubon 4 Omake + Extras",
+            "volume": "4",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/9zm0mt"
+            },
+            "last_updated": 1594267408
+        },
+        "53": {
+            "title": "Kouhai and a Cliched Development",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/rpza35"
+            },
+            "last_updated": 1594267462
+        },
+        "54": {
+            "title": "Kouhai and Kouhai's Sister",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/pogds9"
+            },
+            "last_updated": 1597463277
+        },
+        "55": {
+            "title": "Kouhai and Kouhai's Sister 2",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ok5xcy"
+            },
+            "last_updated": 1598925984
+        },
+        "51.5": {
+            "title": "Tankoubon 5 Omake + Extras",
+            "volume": "5",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/8a9vvm"
+            },
+            "last_updated": 1599017132
+        },
+        "56": {
+            "title": "Kouhai and Kouhai's Brother",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/7p6jyd"
+            },
+            "last_updated": 1725167476
+        },
+        "57": {
+            "title": "Kouhai and Kouhai's Brother 2",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/a8ck4c"
+            },
+            "last_updated": 1601345030
+        },
+        "58": {
+            "title": "Kouhai and December",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/muynd6"
+            },
+            "last_updated": 1602299899
+        },
+        "59": {
+            "title": "Kouhai and the Horror Film",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ark2ph"
+            },
+            "last_updated": 1604887610
+        },
+        "60": {
+            "title": "Kouhai and a Day Without Senpai",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/mxpxil"
+            },
+            "last_updated": 1606272154
+        },
+        "61": {
+            "title": "Kouhai and a Story from a Little While Back",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/lu4yem"
+            },
+            "last_updated": 1607315055
+        },
+        "62": {
+            "title": "Kouhai and Thrown Senpai",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/vlg2t2"
+            },
+            "last_updated": 1632659013
+        },
+        "62.5": {
+            "title": null,
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/dq9klm"
+            },
+            "last_updated": 1632659015
+        },
+        "63": {
+            "title": "Kouhai and a Ray of Hope",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/4rqebz"
+            },
+            "last_updated": 1632659016
+        },
+        "61.5": {
+            "title": "Tankoubon 6 Omake + Extras",
+            "volume": "6",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/w6wmpk"
+            },
+            "last_updated": 1615609002
+        },
+        "64": {
+            "title": "Kouhai and Christmas Eve",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/0utti0"
+            },
+            "last_updated": 1632659018
+        },
+        "65": {
+            "title": "Kouhai and Christmas Party 1",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/cxzwp6"
+            },
+            "last_updated": 1632614352
+        },
+        "66": {
+            "title": "Kouhai and Christmas Party 2 Pt. 1",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/j6rrw7"
+            },
+            "last_updated": 1632614368
+        },
+        "66.2": {
+            "title": "Kouhai and Christmas Party 2 Pt. 2",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/fasmcf"
+            },
+            "last_updated": 1632614386
+        },
+        "67": {
+            "title": "Kouhai and Christmas Party 3",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/9gkieu"
+            },
+            "last_updated": 1632614399
+        },
+        "68": {
+            "title": "Kouhai and Heartthrob",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/luk304"
+            },
+            "last_updated": 1632614409
+        },
+        "69": {
+            "title": "Kouhai and Shrine Visit",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/uvverc"
+            },
+            "last_updated": 1632614446
+        },
+        "70": {
+            "title": "Kouhai and Confession",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/a38rxu"
+            },
+            "last_updated": 1649035839
+        },
+        "71": {
+            "title": "Kouhai and Rambling Senpai",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/q89uxb"
+            },
+            "last_updated": 1649035868
+        },
+        "72": {
+            "title": "Kouhai and a Senpai Who's Holding Back",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/2xe8nz"
+            },
+            "last_updated": 1649035903
+        },
+        "69.5": {
+            "title": "Tankoubon 7 Omake + Extras",
+            "volume": "7",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/gvk8mq"
+            },
+            "last_updated": 1646017665
+        },
+        "73": {
+            "title": "Uzaki and Review Meeting",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/8eojs6"
+            },
+            "last_updated": 1649035915
+        },
+        "74.1": {
+            "title": "Kouhai and Starting to Date",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/hpfrzd"
+            },
+            "last_updated": 1649035972
+        },
+        "72.5": {
+            "title": "Comitia Tsuki Doujin",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/3xg1e4"
+            },
+            "last_updated": 1660575993
+        },
+        "74.2": {
+            "title": "Kouhai and Starting to Date",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/fgtc8v"
+            },
+            "last_updated": 1649036016
+        },
+        "75": {
+            "title": "Kouhai and Where We Go From Here",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/1ohucd"
+            },
+            "last_updated": 1649036075
+        },
+        "76": {
+            "title": "Kouhai and Mother",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/64etfm"
+            },
+            "last_updated": 1649036082
+        },
+        "77": {
+            "title": "Kouhai and Someone Left Out",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/atp8rp"
+            },
+            "last_updated": 1649036089
+        },
+        "77.1": {
+            "title": "2022 New Years Special",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/vsgwhe"
+            },
+            "last_updated": 1660532412
+        },
+        "78": {
+            "title": "Kouhai and First Mixer",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/icngek"
+            },
+            "last_updated": 1685332849
+        },
+        "79": {
+            "title": "Kouhai and Kouhai's Parents",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ypg0d0"
+            },
+            "last_updated": 1685332859
+        },
+        "80.1": {
+            "title": "Kouhai and Opportunity",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/p6afng"
+            },
+            "last_updated": 1685332910
+        },
+        "80.2": {
+            "title": "Kouhai and Opportunity",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/j45brk"
+            },
+            "last_updated": 1685332922
+        },
+        "81": {
+            "title": "Kouhai and Troubled Younger Brother",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/l7gl9c"
+            },
+            "last_updated": 1685332939
+        },
+        "82": {
+            "title": "Kouhai and Younger Brother In Love",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/lahnnv"
+            },
+            "last_updated": 1685332951
+        },
+        "83": {
+            "title": "Uzaki and Younger Brother's Enlightenment",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ftxifw"
+            },
+            "last_updated": 1685332969
+        },
+        "84": {
+            "title": "Kouhai and Quivering Brother and Father",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/fc77gl"
+            },
+            "last_updated": 1685332986
+        },
+        "85": {
+            "title": "Kouhai and Valentine's Day 1",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/6evmgt"
+            },
+            "last_updated": 1685333001
+        },
+        "85.1": {
+            "title": "August 2022 Special Chapter",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/bphw8p"
+            },
+            "last_updated": 1685943837
+        },
+        "77.5": {
+            "title": "Tankoubon 8 Omake + Extras",
+            "volume": "8",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/occ4cm"
+            },
+            "last_updated": 1692689293
+        },
+        "86": {
+            "title": "Kouhai and Valentine's Day 2",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/5ef56z"
+            },
+            "last_updated": 1685943817
+        },
+        "87": {
+            "title": "Kouhai and Valentine's Day 3",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/lq30ia"
+            },
+            "last_updated": 1685943817
+        },
+        "88": {
+            "title": "Kouhai and Valentine's Day 4",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/3lkabm"
+            },
+            "last_updated": 1685943819
+        },
+        "89": {
+            "title": "Kouhai and Moving Forward",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/o9t2es"
+            },
+            "last_updated": 1685943819
+        },
+        "90": {
+            "title": "Kouhai and White Day 1",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/orrzvd"
+            },
+            "last_updated": 1685943820
+        },
+        "91.1": {
+            "title": "Kouhai and White Day 2 (Part 1)",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/geetei"
+            },
+            "last_updated": 1685943820
+        },
+        "91.2": {
+            "title": "Kouhai and White Day 2 (Part 2)",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/rs2s5i"
+            },
+            "last_updated": 1685943821
+        },
+        "92": {
+            "title": "Kouhai and White Day 3",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/u8sra1"
+            },
+            "last_updated": 1685943821
+        },
+        "93": {
+            "title": "Kouhai and White Day 4",
+            "volume": "10",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/9cp0t2"
+            },
+            "last_updated": 1685943822
+        },
+        "94": {
+            "title": "Kouhai and Training",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ezd9ly"
+            },
+            "last_updated": 1703187136
+        },
+        "95": {
+            "title": "Kouhai and Graduation Ceremony",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/2dbdd5"
+            },
+            "last_updated": 1703187137
+        },
+        "96": {
+            "title": "Kouhai and Hay Fever",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/vtk8lq"
+            },
+            "last_updated": 1703187138
+        },
+        "97": {
+            "title": "Kouhai and Kouhai's Parents' Past (Part 1)",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/cbxu9s"
+            },
+            "last_updated": 1703187139
+        },
+        "98": {
+            "title": "Kouhai and Kouhai's Parents' Past (Part 2)",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/8inj02"
+            },
+            "last_updated": 1703187141
+        },
+        "99": {
+            "title": "Kouhai and Kouhai's Parents' Past(Part 3)",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/teu98j"
+            },
+            "last_updated": 1703187141
+        },
+        "100": {
+            "title": "Kouhai and Boobs",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/mjwomd"
+            },
+            "last_updated": 1703187142
+        },
+        "85.5": {
+            "title": "Tankoubon 9 Omake + Extras",
+            "volume": "9",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/t4x8xn"
+            },
+            "last_updated": 1692939433
+        },
+        "101": {
+            "title": "Kouhai and Dream",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/airqy2"
+            },
+            "last_updated": 1703187144
+        },
+        "102": {
+            "title": "Kouhai and Consultation",
+            "volume": "11",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/jkoqcp"
+            },
+            "last_updated": 1703187148
+        },
+        "103": {
+            "title": "Kouhai and Control",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/6qfejc"
+            },
+            "last_updated": 1721248045
+        },
+        "104": {
+            "title": "Kouhai and Secret Fun",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/0jk4al"
+            },
+            "last_updated": 1721248046
+        },
+        "104.1": {
+            "title": "2024 New Years Special ~No Slip-Ups Here~",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/c9qq7y"
+            },
+            "last_updated": 1721248046
+        },
+        "105": {
+            "title": "Kouhai and Secret Fun 2",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/z9ljgl"
+            },
+            "last_updated": 1721248047
+        },
+        "106.1": {
+            "title": "Kouhai and Determination (Part 1)",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/e7ffpf"
+            },
+            "last_updated": 1721248047
+        },
+        "106.2": {
+            "title": "Kouhai and Determination (Part 2)",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/f39h7a"
+            },
+            "last_updated": 1721248047
+        },
+        "107": {
+            "title": "Kouhai and Review Meeting",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/dfd05z"
+            },
+            "last_updated": 1721248048
+        },
+        "108": {
+            "title": "Kouhai and Visit",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/m9ee30"
+            },
+            "last_updated": 1721248049
+        },
+        "109": {
+            "title": "Kouhai and Family Council",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/ubti04"
+            },
+            "last_updated": 1721248050
+        },
+        "110": {
+            "title": "Kouhai and the Matter of Yanagi",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/41k982"
+            },
+            "last_updated": 1721248050
+        },
+        "111": {
+            "title": "Kouhai and the Matter of Tsuki",
+            "volume": "12",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/r62cv1"
+            },
+            "last_updated": 1721248051
+        },
+        "112": {
+            "title": "Kouhai and the Matter of Kiri",
+            "volume": "13",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/lr704z"
+            },
+            "last_updated": 1742845785
+        },
+        "113": {
+            "title": "Kouhai and Dream 2",
+            "volume": "13",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/fmoqiu"
+            },
+            "last_updated": 1742845785
+        },
+        "114": {
+            "title": "Kouhai and Impulses",
+            "volume": "13",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/evsu2z"
+            },
+            "last_updated": 1742845786
+        },
+        "115": {
+            "title": "Kouhai and Regrets",
+            "volume": "13",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/km88f3"
+            },
+            "last_updated": 1742845787
+        },
+        "116": {
+            "title": "Kouhai and Her Sister's Room",
+            "volume": "13",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/2uo26y"
+            },
+            "last_updated": 1742845787
+        },
+        "117": {
+            "title": "Kouhai and Persuasion",
+            "volume": "13",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/5hnhoc"
+            },
+            "last_updated": 1742845791
+        },
+        "118": {
+            "title": "Kouhai and Father",
+            "volume": "13",
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/62ogmp"
+            },
+            "last_updated": 1742845792
+        },
+        "119": {
+            "title": "Kouhai and Parents",
+            "volume": null,
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/wbe643"
+            },
+            "last_updated": 1736953557
+        },
+        "120": {
+            "title": "Kouhai and Job Hunting",
+            "volume": null,
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/o92ms5"
+            },
+            "last_updated": 1738317339
+        },
+        "121": {
+            "title": "Kouhai and a Disgruntled Man",
+            "volume": null,
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/u4m78w"
+            },
+            "last_updated": 1745556904
+        },
+        "122": {
+            "title": "Kouhai and Settlements",
+            "volume": null,
+            "groups": {
+                "orchesc/a/ns": "/proxy/api/catbox/7iecgi"
+            },
+            "last_updated": 1747445233
+        }
+    }
+}
