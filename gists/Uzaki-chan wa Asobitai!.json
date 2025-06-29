@@ -535,7 +535,11 @@
     "24.1": {
       "title": "Twitter Bonus Comic",
       "volume": "3",
-      "groups": { "orchesc/a/ns": ["https://files.catbox.moe/01f6pm.png"] },
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/01f6pm.png"
+        ]
+      },
       "last_updated": 1548108662
     },
     "23.6": {
@@ -3212,6 +3216,28 @@
         ]
       },
       "last_updated": 1749534687
+    },
+    "124": {
+      "title": "Kouhai and Confusion",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/4mutiy.png",
+          "https://files.catbox.moe/080h5x.png",
+          "https://files.catbox.moe/tfk1hb.png",
+          "https://files.catbox.moe/7as561.png",
+          "https://files.catbox.moe/xinr9l.png",
+          "https://files.catbox.moe/nx5p18.png",
+          "https://files.catbox.moe/d2rdyo.png",
+          "https://files.catbox.moe/lms8o4.png",
+          "https://files.catbox.moe/5wn7i3.png",
+          "https://files.catbox.moe/2fr7ev.png",
+          "https://files.catbox.moe/3a0pw4.png",
+          "https://files.catbox.moe/0iheah.png",
+          "https://files.catbox.moe/z16cdy.png"
+        ]
+      },
+      "last_updated": 1751174800
     }
   }
 }
