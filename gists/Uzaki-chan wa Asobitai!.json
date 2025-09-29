@@ -536,9 +536,7 @@
       "title": "Twitter Bonus Comic",
       "volume": "3",
       "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/01f6pm.png"
-        ]
+        "orchesc/a/ns": ["https://files.catbox.moe/01f6pm.png"]
       },
       "last_updated": 1548108662
     },
@@ -3292,22 +3290,22 @@
       "volume": null,
       "groups": {
         "orchesc/a/ns": [
-          "https://files.catbox.moe/qs8lp8.webp",
-          "https://files.catbox.moe/a8jp68.webp",
-          "https://files.catbox.moe/vpnvsc.webp",
-          "https://files.catbox.moe/2o3mu1.webp",
-          "https://files.catbox.moe/n4voxo.webp",
-          "https://files.catbox.moe/yjhwpz.webp",
-          "https://files.catbox.moe/uwcg77.webp",
-          "https://files.catbox.moe/p1ibne.webp",
-          "https://files.catbox.moe/qyj7bw.webp",
-          "https://files.catbox.moe/lftvpu.webp",
-          "https://files.catbox.moe/ufci4x.webp",
-          "https://files.catbox.moe/vzo606.webp",
-          "https://files.catbox.moe/69wx50.webp"
+          "https://files.catbox.moe/84x366.webp",
+          "https://files.catbox.moe/w60bj5.webp",
+          "https://files.catbox.moe/07m8ho.webp",
+          "https://files.catbox.moe/dvfnp9.webp",
+          "https://files.catbox.moe/zob161.webp",
+          "https://files.catbox.moe/rzvklj.webp",
+          "https://files.catbox.moe/gzy0co.webp",
+          "https://files.catbox.moe/ammq1r.webp",
+          "https://files.catbox.moe/qe29lv.webp",
+          "https://files.catbox.moe/6ag4vr.webp",
+          "https://files.catbox.moe/h8c63l.webp",
+          "https://files.catbox.moe/lf511s.webp",
+          "https://files.catbox.moe/r60tbj.webp"
         ]
       },
-      "last_updated": 1759128594
+      "last_updated": 1759129223
     }
   }
 }
