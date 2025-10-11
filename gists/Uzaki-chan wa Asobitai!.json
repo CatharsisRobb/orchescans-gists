@@ -123,6 +123,33 @@
       },
       "last_updated": 1528519622
     },
+    "5.1": {
+      "title": "Kouhai and Cafeteria",
+      "volume": "1",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/l3aqzn.png",
+          "https://files.catbox.moe/81uxbg.png",
+          "https://files.catbox.moe/yqpu25.png",
+          "https://files.catbox.moe/24eodx.png"
+        ]
+      },
+      "last_updated": 1532570944
+    },
+    "5.2": {
+      "title": "Kouhai and The Diner",
+      "volume": "1",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/5bt26k.png",
+          "https://files.catbox.moe/w8t7g3.png",
+          "https://files.catbox.moe/f1z7e8.png",
+          "https://files.catbox.moe/rrm7pn.png",
+          "https://files.catbox.moe/pbhcb4.png"
+        ]
+      },
+      "last_updated": 1532570959
+    },
     "6": {
       "title": "Kouhai and Cat",
       "volume": "1",
@@ -158,33 +185,6 @@
         ]
       },
       "last_updated": 1532399805
-    },
-    "5.1": {
-      "title": "Kouhai and Cafeteria",
-      "volume": "1",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/l3aqzn.png",
-          "https://files.catbox.moe/81uxbg.png",
-          "https://files.catbox.moe/yqpu25.png",
-          "https://files.catbox.moe/24eodx.png"
-        ]
-      },
-      "last_updated": 1532570944
-    },
-    "5.2": {
-      "title": "Kouhai and The Diner",
-      "volume": "1",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/5bt26k.png",
-          "https://files.catbox.moe/w8t7g3.png",
-          "https://files.catbox.moe/f1z7e8.png",
-          "https://files.catbox.moe/rrm7pn.png",
-          "https://files.catbox.moe/pbhcb4.png"
-        ]
-      },
-      "last_updated": 1532570959
     },
     "8": {
       "title": "Kouhai and the Common Cold",
@@ -510,6 +510,48 @@
       },
       "last_updated": 1546730320
     },
+    "23.5": {
+      "title": "Tankoubon 2 Omake + Extras",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/8htsnr.png",
+          "https://files.catbox.moe/po7958.png",
+          "https://files.catbox.moe/wzfpc6.png",
+          "https://files.catbox.moe/o9er5q.png",
+          "https://files.catbox.moe/rpu5q6.png",
+          "https://files.catbox.moe/aat7lu.png",
+          "https://files.catbox.moe/s8yy2o.png",
+          "https://files.catbox.moe/tekxrx.png",
+          "https://files.catbox.moe/s6nqpc.png",
+          "https://files.catbox.moe/fymjvi.png",
+          "https://files.catbox.moe/2wsqt8.png",
+          "https://files.catbox.moe/t1y53n.png",
+          "https://files.catbox.moe/3y98wc.png",
+          "https://files.catbox.moe/p8t5a8.png",
+          "https://files.catbox.moe/weeouy.png",
+          "https://files.catbox.moe/v3uxi5.png",
+          "https://files.catbox.moe/0x9sk4.png",
+          "https://files.catbox.moe/ibyggh.png",
+          "https://files.catbox.moe/lpbatu.png"
+        ]
+      },
+      "last_updated": 1565498198
+    },
+    "23.6": {
+      "title": "Omake 2 (Originally Web Bonus)",
+      "volume": "2",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/pdma41.png",
+          "https://files.catbox.moe/w01t8p.png",
+          "https://files.catbox.moe/7zbntj.png",
+          "https://files.catbox.moe/vg9lpf.png",
+          "https://files.catbox.moe/aq3txs.png"
+        ]
+      },
+      "last_updated": 1549161135
+    },
     "24": {
       "title": "Kouhai and Kouhai's House",
       "volume": "3",
@@ -536,23 +578,11 @@
       "title": "Twitter Bonus Comic",
       "volume": "3",
       "groups": {
-        "orchesc/a/ns": ["https://files.catbox.moe/01f6pm.png"]
-      },
-      "last_updated": 1548108662
-    },
-    "23.6": {
-      "title": "Omake 2 (Originally Web Bonus)",
-      "volume": "2",
-      "groups": {
         "orchesc/a/ns": [
-          "https://files.catbox.moe/pdma41.png",
-          "https://files.catbox.moe/w01t8p.png",
-          "https://files.catbox.moe/7zbntj.png",
-          "https://files.catbox.moe/vg9lpf.png",
-          "https://files.catbox.moe/aq3txs.png"
+          "https://files.catbox.moe/01f6pm.png"
         ]
       },
-      "last_updated": 1549161135
+      "last_updated": 1548108662
     },
     "25": {
       "title": "Kouhai and Kouhai's Mom",
@@ -598,28 +628,6 @@
       },
       "last_updated": 1552593450
     },
-    "28": {
-      "title": "Kouhai and Bowling",
-      "volume": "3",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/0n8u90.png",
-          "https://files.catbox.moe/tpsbii.png",
-          "https://files.catbox.moe/c0ou2v.png",
-          "https://files.catbox.moe/d1t36h.png",
-          "https://files.catbox.moe/av9ivv.png",
-          "https://files.catbox.moe/cixbek.png",
-          "https://files.catbox.moe/2fcacd.png",
-          "https://files.catbox.moe/snfoy4.png",
-          "https://files.catbox.moe/d012nr.png",
-          "https://files.catbox.moe/z9gu4t.png",
-          "https://files.catbox.moe/x2w1lm.png",
-          "https://files.catbox.moe/6nm5rk.png",
-          "https://files.catbox.moe/149q53.png"
-        ]
-      },
-      "last_updated": 1557119466
-    },
     "27": {
       "title": "Kouhai and Senpai's Room",
       "volume": "3",
@@ -641,6 +649,28 @@
         ]
       },
       "last_updated": 1557238843
+    },
+    "28": {
+      "title": "Kouhai and Bowling",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/0n8u90.png",
+          "https://files.catbox.moe/tpsbii.png",
+          "https://files.catbox.moe/c0ou2v.png",
+          "https://files.catbox.moe/d1t36h.png",
+          "https://files.catbox.moe/av9ivv.png",
+          "https://files.catbox.moe/cixbek.png",
+          "https://files.catbox.moe/2fcacd.png",
+          "https://files.catbox.moe/snfoy4.png",
+          "https://files.catbox.moe/d012nr.png",
+          "https://files.catbox.moe/z9gu4t.png",
+          "https://files.catbox.moe/x2w1lm.png",
+          "https://files.catbox.moe/6nm5rk.png",
+          "https://files.catbox.moe/149q53.png"
+        ]
+      },
+      "last_updated": 1557119466
     },
     "29": {
       "title": "Kouhai and Bouldering",
@@ -752,6 +782,32 @@
       },
       "last_updated": 1563762602
     },
+    "33.5": {
+      "title": "Tankoubon 3 Omake + Extras",
+      "volume": "3",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/x5fgq9.png",
+          "https://files.catbox.moe/itn98c.png",
+          "https://files.catbox.moe/ref4ss.png",
+          "https://files.catbox.moe/v2i331.png",
+          "https://files.catbox.moe/je63c7.png",
+          "https://files.catbox.moe/k2w7c4.png",
+          "https://files.catbox.moe/7m9k0h.png",
+          "https://files.catbox.moe/qxiyc0.png",
+          "https://files.catbox.moe/bf7u32.png",
+          "https://files.catbox.moe/gaffj5.png",
+          "https://files.catbox.moe/rtz3lx.png",
+          "https://files.catbox.moe/vrojib.png",
+          "https://files.catbox.moe/tvp6gc.png",
+          "https://files.catbox.moe/nbou5t.png",
+          "https://files.catbox.moe/oiq8h0.png",
+          "https://files.catbox.moe/ov6zcv.png",
+          "https://files.catbox.moe/v1n0p1.png"
+        ]
+      },
+      "last_updated": 1587175558
+    },
     "34": {
       "title": "Kouhai and Blackout",
       "volume": "4",
@@ -795,34 +851,6 @@
         ]
       },
       "last_updated": 1564709484
-    },
-    "23.5": {
-      "title": "Tankoubon 2 Omake + Extras",
-      "volume": "2",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/8htsnr.png",
-          "https://files.catbox.moe/po7958.png",
-          "https://files.catbox.moe/wzfpc6.png",
-          "https://files.catbox.moe/o9er5q.png",
-          "https://files.catbox.moe/rpu5q6.png",
-          "https://files.catbox.moe/aat7lu.png",
-          "https://files.catbox.moe/s8yy2o.png",
-          "https://files.catbox.moe/tekxrx.png",
-          "https://files.catbox.moe/s6nqpc.png",
-          "https://files.catbox.moe/fymjvi.png",
-          "https://files.catbox.moe/2wsqt8.png",
-          "https://files.catbox.moe/t1y53n.png",
-          "https://files.catbox.moe/3y98wc.png",
-          "https://files.catbox.moe/p8t5a8.png",
-          "https://files.catbox.moe/weeouy.png",
-          "https://files.catbox.moe/v3uxi5.png",
-          "https://files.catbox.moe/0x9sk4.png",
-          "https://files.catbox.moe/ibyggh.png",
-          "https://files.catbox.moe/lpbatu.png"
-        ]
-      },
-      "last_updated": 1565498198
     },
     "36": {
       "title": "Kouhai and Futsal",
@@ -964,6 +992,20 @@
       },
       "last_updated": 1577554970
     },
+    "41.5": {
+      "title": "Extra",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/7ruuy2.png",
+          "https://files.catbox.moe/veljpc.png",
+          "https://files.catbox.moe/mv65wz.png",
+          "https://files.catbox.moe/3dydhw.png",
+          "https://files.catbox.moe/arqe6t.png"
+        ]
+      },
+      "last_updated": 1586383852
+    },
     "42": {
       "title": "Kouhai and Hotpot",
       "volume": "4",
@@ -985,6 +1027,37 @@
         ]
       },
       "last_updated": 1579762612
+    },
+    "42.5": {
+      "title": "Tankoubon 4 Omake + Extras",
+      "volume": "4",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/9trfgx.png",
+          "https://files.catbox.moe/raodo4.png",
+          "https://files.catbox.moe/y2xmyr.png",
+          "https://files.catbox.moe/b4lrmm.png",
+          "https://files.catbox.moe/wdw3ir.png",
+          "https://files.catbox.moe/2w6cht.png",
+          "https://files.catbox.moe/jx13xx.png",
+          "https://files.catbox.moe/o4n71q.png",
+          "https://files.catbox.moe/wx3ly0.png",
+          "https://files.catbox.moe/ylt1ax.png",
+          "https://files.catbox.moe/e1puff.png",
+          "https://files.catbox.moe/p3lgpn.png",
+          "https://files.catbox.moe/qb3onr.png",
+          "https://files.catbox.moe/pbsb56.png",
+          "https://files.catbox.moe/nt2ti4.png",
+          "https://files.catbox.moe/8ka65p.png",
+          "https://files.catbox.moe/pzbaza.png",
+          "https://files.catbox.moe/jlc98m.png",
+          "https://files.catbox.moe/6fdti4.png",
+          "https://files.catbox.moe/x4d0zb.png",
+          "https://files.catbox.moe/wqoc6c.png",
+          "https://files.catbox.moe/ec8442.png"
+        ]
+      },
+      "last_updated": 1594267408
     },
     "43": {
       "title": "Kouhai And The Plan Going Ahead",
@@ -1150,46 +1223,6 @@
       },
       "last_updated": 1585801089
     },
-    "41.5": {
-      "title": "Extra",
-      "volume": "4",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/7ruuy2.png",
-          "https://files.catbox.moe/veljpc.png",
-          "https://files.catbox.moe/mv65wz.png",
-          "https://files.catbox.moe/3dydhw.png",
-          "https://files.catbox.moe/arqe6t.png"
-        ]
-      },
-      "last_updated": 1586383852
-    },
-    "33.5": {
-      "title": "Tankoubon 3 Omake + Extras",
-      "volume": "3",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/x5fgq9.png",
-          "https://files.catbox.moe/itn98c.png",
-          "https://files.catbox.moe/ref4ss.png",
-          "https://files.catbox.moe/v2i331.png",
-          "https://files.catbox.moe/je63c7.png",
-          "https://files.catbox.moe/k2w7c4.png",
-          "https://files.catbox.moe/7m9k0h.png",
-          "https://files.catbox.moe/qxiyc0.png",
-          "https://files.catbox.moe/bf7u32.png",
-          "https://files.catbox.moe/gaffj5.png",
-          "https://files.catbox.moe/rtz3lx.png",
-          "https://files.catbox.moe/vrojib.png",
-          "https://files.catbox.moe/tvp6gc.png",
-          "https://files.catbox.moe/nbou5t.png",
-          "https://files.catbox.moe/oiq8h0.png",
-          "https://files.catbox.moe/ov6zcv.png",
-          "https://files.catbox.moe/v1n0p1.png"
-        ]
-      },
-      "last_updated": 1587175558
-    },
     "50": {
       "title": "Kouhai and Cooking Training 4",
       "volume": "5",
@@ -1238,6 +1271,35 @@
       },
       "last_updated": 1588534618
     },
+    "51.5": {
+      "title": "Tankoubon 5 Omake + Extras",
+      "volume": "5",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/2y9ajr.png",
+          "https://files.catbox.moe/0m402i.png",
+          "https://files.catbox.moe/bftbzi.png",
+          "https://files.catbox.moe/eqh08n.png",
+          "https://files.catbox.moe/8ue3sq.png",
+          "https://files.catbox.moe/c4lgnp.png",
+          "https://files.catbox.moe/0b3p5b.png",
+          "https://files.catbox.moe/30g57r.png",
+          "https://files.catbox.moe/c1eqtc.png",
+          "https://files.catbox.moe/8p6ci2.png",
+          "https://files.catbox.moe/oprpc2.png",
+          "https://files.catbox.moe/wnow7a.png",
+          "https://files.catbox.moe/e9w87g.png",
+          "https://files.catbox.moe/xkb8g6.png",
+          "https://files.catbox.moe/0jhsrp.png",
+          "https://files.catbox.moe/7b1t0e.png",
+          "https://files.catbox.moe/6vz2nk.png",
+          "https://files.catbox.moe/o7ffjf.png",
+          "https://files.catbox.moe/ie648u.png",
+          "https://files.catbox.moe/t19fd4.png"
+        ]
+      },
+      "last_updated": 1599017132
+    },
     "52": {
       "title": "Kouhai and Something Like Resolve",
       "volume": "6",
@@ -1259,37 +1321,6 @@
         ]
       },
       "last_updated": 1592798834
-    },
-    "42.5": {
-      "title": "Tankoubon 4 Omake + Extras",
-      "volume": "4",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/9trfgx.png",
-          "https://files.catbox.moe/raodo4.png",
-          "https://files.catbox.moe/y2xmyr.png",
-          "https://files.catbox.moe/b4lrmm.png",
-          "https://files.catbox.moe/wdw3ir.png",
-          "https://files.catbox.moe/2w6cht.png",
-          "https://files.catbox.moe/jx13xx.png",
-          "https://files.catbox.moe/o4n71q.png",
-          "https://files.catbox.moe/wx3ly0.png",
-          "https://files.catbox.moe/ylt1ax.png",
-          "https://files.catbox.moe/e1puff.png",
-          "https://files.catbox.moe/p3lgpn.png",
-          "https://files.catbox.moe/qb3onr.png",
-          "https://files.catbox.moe/pbsb56.png",
-          "https://files.catbox.moe/nt2ti4.png",
-          "https://files.catbox.moe/8ka65p.png",
-          "https://files.catbox.moe/pzbaza.png",
-          "https://files.catbox.moe/jlc98m.png",
-          "https://files.catbox.moe/6fdti4.png",
-          "https://files.catbox.moe/x4d0zb.png",
-          "https://files.catbox.moe/wqoc6c.png",
-          "https://files.catbox.moe/ec8442.png"
-        ]
-      },
-      "last_updated": 1594267408
     },
     "53": {
       "title": "Kouhai and a Cliched Development",
@@ -1356,35 +1387,6 @@
         ]
       },
       "last_updated": 1598925984
-    },
-    "51.5": {
-      "title": "Tankoubon 5 Omake + Extras",
-      "volume": "5",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/2y9ajr.png",
-          "https://files.catbox.moe/0m402i.png",
-          "https://files.catbox.moe/bftbzi.png",
-          "https://files.catbox.moe/eqh08n.png",
-          "https://files.catbox.moe/8ue3sq.png",
-          "https://files.catbox.moe/c4lgnp.png",
-          "https://files.catbox.moe/0b3p5b.png",
-          "https://files.catbox.moe/30g57r.png",
-          "https://files.catbox.moe/c1eqtc.png",
-          "https://files.catbox.moe/8p6ci2.png",
-          "https://files.catbox.moe/oprpc2.png",
-          "https://files.catbox.moe/wnow7a.png",
-          "https://files.catbox.moe/e9w87g.png",
-          "https://files.catbox.moe/xkb8g6.png",
-          "https://files.catbox.moe/0jhsrp.png",
-          "https://files.catbox.moe/7b1t0e.png",
-          "https://files.catbox.moe/6vz2nk.png",
-          "https://files.catbox.moe/o7ffjf.png",
-          "https://files.catbox.moe/ie648u.png",
-          "https://files.catbox.moe/t19fd4.png"
-        ]
-      },
-      "last_updated": 1599017132
     },
     "56": {
       "title": "Kouhai and Kouhai's Brother",
@@ -1518,6 +1520,35 @@
       },
       "last_updated": 1607315055
     },
+    "61.5": {
+      "title": "Tankoubon 6 Omake + Extras",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/fhdyt6.png",
+          "https://files.catbox.moe/4s6bte.png",
+          "https://files.catbox.moe/tm5g5d.png",
+          "https://files.catbox.moe/cxwitu.png",
+          "https://files.catbox.moe/vxhj79.png",
+          "https://files.catbox.moe/fw55ui.png",
+          "https://files.catbox.moe/92ouab.png",
+          "https://files.catbox.moe/xuzbt9.png",
+          "https://files.catbox.moe/2ejbn2.png",
+          "https://files.catbox.moe/h79o33.png",
+          "https://files.catbox.moe/8zkozx.png",
+          "https://files.catbox.moe/doqqtb.png",
+          "https://files.catbox.moe/n4980v.png",
+          "https://files.catbox.moe/ney79l.png",
+          "https://files.catbox.moe/z6vkc3.png",
+          "https://files.catbox.moe/b87wwe.png",
+          "https://files.catbox.moe/qjsxqo.png",
+          "https://files.catbox.moe/x4lmah.png",
+          "https://files.catbox.moe/si21hm.png",
+          "https://files.catbox.moe/tkbn6g.png"
+        ]
+      },
+      "last_updated": 1615609002
+    },
     "62": {
       "title": "Kouhai and Thrown Senpai",
       "volume": "7",
@@ -1577,35 +1608,6 @@
         ]
       },
       "last_updated": 1632659016
-    },
-    "61.5": {
-      "title": "Tankoubon 6 Omake + Extras",
-      "volume": "6",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/fhdyt6.png",
-          "https://files.catbox.moe/4s6bte.png",
-          "https://files.catbox.moe/tm5g5d.png",
-          "https://files.catbox.moe/cxwitu.png",
-          "https://files.catbox.moe/vxhj79.png",
-          "https://files.catbox.moe/fw55ui.png",
-          "https://files.catbox.moe/92ouab.png",
-          "https://files.catbox.moe/xuzbt9.png",
-          "https://files.catbox.moe/2ejbn2.png",
-          "https://files.catbox.moe/h79o33.png",
-          "https://files.catbox.moe/8zkozx.png",
-          "https://files.catbox.moe/doqqtb.png",
-          "https://files.catbox.moe/n4980v.png",
-          "https://files.catbox.moe/ney79l.png",
-          "https://files.catbox.moe/z6vkc3.png",
-          "https://files.catbox.moe/b87wwe.png",
-          "https://files.catbox.moe/qjsxqo.png",
-          "https://files.catbox.moe/x4lmah.png",
-          "https://files.catbox.moe/si21hm.png",
-          "https://files.catbox.moe/tkbn6g.png"
-        ]
-      },
-      "last_updated": 1615609002
     },
     "64": {
       "title": "Kouhai and Christmas Eve",
@@ -1773,6 +1775,33 @@
       },
       "last_updated": 1632614446
     },
+    "69.5": {
+      "title": "Tankoubon 7 Omake + Extras",
+      "volume": "7",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/xpxdx6.png",
+          "https://files.catbox.moe/cwtjfr.png",
+          "https://files.catbox.moe/lsjd09.png",
+          "https://files.catbox.moe/lfn9we.png",
+          "https://files.catbox.moe/morv7w.png",
+          "https://files.catbox.moe/06sjgu.png",
+          "https://files.catbox.moe/sertiz.png",
+          "https://files.catbox.moe/z4hswo.png",
+          "https://files.catbox.moe/5qh2a7.png",
+          "https://files.catbox.moe/u8m8w9.png",
+          "https://files.catbox.moe/dbbm21.png",
+          "https://files.catbox.moe/ufngdb.png",
+          "https://files.catbox.moe/wjvfaq.png",
+          "https://files.catbox.moe/ijjmbb.png",
+          "https://files.catbox.moe/rynetd.png",
+          "https://files.catbox.moe/j6r3t3.png",
+          "https://files.catbox.moe/5pzge1.png",
+          "https://files.catbox.moe/k3mqod.png"
+        ]
+      },
+      "last_updated": 1646017665
+    },
     "70": {
       "title": "Kouhai and Confession",
       "volume": "8",
@@ -1851,32 +1880,25 @@
       },
       "last_updated": 1649035903
     },
-    "69.5": {
-      "title": "Tankoubon 7 Omake + Extras",
-      "volume": "7",
+    "72.5": {
+      "title": "Comitia Tsuki Doujin",
+      "volume": "8",
       "groups": {
         "orchesc/a/ns": [
-          "https://files.catbox.moe/xpxdx6.png",
-          "https://files.catbox.moe/cwtjfr.png",
-          "https://files.catbox.moe/lsjd09.png",
-          "https://files.catbox.moe/lfn9we.png",
-          "https://files.catbox.moe/morv7w.png",
-          "https://files.catbox.moe/06sjgu.png",
-          "https://files.catbox.moe/sertiz.png",
-          "https://files.catbox.moe/z4hswo.png",
-          "https://files.catbox.moe/5qh2a7.png",
-          "https://files.catbox.moe/u8m8w9.png",
-          "https://files.catbox.moe/dbbm21.png",
-          "https://files.catbox.moe/ufngdb.png",
-          "https://files.catbox.moe/wjvfaq.png",
-          "https://files.catbox.moe/ijjmbb.png",
-          "https://files.catbox.moe/rynetd.png",
-          "https://files.catbox.moe/j6r3t3.png",
-          "https://files.catbox.moe/5pzge1.png",
-          "https://files.catbox.moe/k3mqod.png"
+          "https://files.catbox.moe/pcb5sa.png",
+          "https://files.catbox.moe/pvn0hn.png",
+          "https://files.catbox.moe/bdkvgf.png",
+          "https://files.catbox.moe/7zh9ko.png",
+          "https://files.catbox.moe/zsgg6y.png",
+          "https://files.catbox.moe/ept0s9.png",
+          "https://files.catbox.moe/fixbba.png",
+          "https://files.catbox.moe/hbgogw.png",
+          "https://files.catbox.moe/o2rodv.png",
+          "https://files.catbox.moe/ifigq4.png",
+          "https://files.catbox.moe/szj5fi.png"
         ]
       },
-      "last_updated": 1646017665
+      "last_updated": 1660575993
     },
     "73": {
       "title": "Uzaki and Review Meeting",
@@ -1920,26 +1942,6 @@
         ]
       },
       "last_updated": 1649035972
-    },
-    "72.5": {
-      "title": "Comitia Tsuki Doujin",
-      "volume": "8",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/pcb5sa.png",
-          "https://files.catbox.moe/pvn0hn.png",
-          "https://files.catbox.moe/bdkvgf.png",
-          "https://files.catbox.moe/7zh9ko.png",
-          "https://files.catbox.moe/zsgg6y.png",
-          "https://files.catbox.moe/ept0s9.png",
-          "https://files.catbox.moe/fixbba.png",
-          "https://files.catbox.moe/hbgogw.png",
-          "https://files.catbox.moe/o2rodv.png",
-          "https://files.catbox.moe/ifigq4.png",
-          "https://files.catbox.moe/szj5fi.png"
-        ]
-      },
-      "last_updated": 1660575993
     },
     "74.2": {
       "title": "Kouhai and Starting to Date",
@@ -2050,6 +2052,30 @@
         ]
       },
       "last_updated": 1660532412
+    },
+    "77.5": {
+      "title": "Tankoubon 8 Omake + Extras",
+      "volume": "8",
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/r1dgk8.png",
+          "https://files.catbox.moe/14xecc.png",
+          "https://files.catbox.moe/lhojv2.png",
+          "https://files.catbox.moe/2s59qq.png",
+          "https://files.catbox.moe/iyh7vh.png",
+          "https://files.catbox.moe/p89wbt.png",
+          "https://files.catbox.moe/k5c17i.png",
+          "https://files.catbox.moe/gtjbmf.png",
+          "https://files.catbox.moe/mfszct.png",
+          "https://files.catbox.moe/p02b5l.png",
+          "https://files.catbox.moe/rerp3e.png",
+          "https://files.catbox.moe/sltgbz.png",
+          "https://files.catbox.moe/ixhro4.png",
+          "https://files.catbox.moe/9j063z.png",
+          "https://files.catbox.moe/ptzr9e.png"
+        ]
+      },
+      "last_updated": 1692689293
     },
     "78": {
       "title": "Kouhai and First Mixer",
@@ -2261,29 +2287,45 @@
       },
       "last_updated": 1685943837
     },
-    "77.5": {
-      "title": "Tankoubon 8 Omake + Extras",
-      "volume": "8",
+    "85.5": {
+      "title": "Tankoubon 9 Omake + Extras",
+      "volume": "9",
       "groups": {
         "orchesc/a/ns": [
-          "https://files.catbox.moe/r1dgk8.png",
-          "https://files.catbox.moe/14xecc.png",
-          "https://files.catbox.moe/lhojv2.png",
-          "https://files.catbox.moe/2s59qq.png",
-          "https://files.catbox.moe/iyh7vh.png",
-          "https://files.catbox.moe/p89wbt.png",
-          "https://files.catbox.moe/k5c17i.png",
-          "https://files.catbox.moe/gtjbmf.png",
-          "https://files.catbox.moe/mfszct.png",
-          "https://files.catbox.moe/p02b5l.png",
-          "https://files.catbox.moe/rerp3e.png",
-          "https://files.catbox.moe/sltgbz.png",
-          "https://files.catbox.moe/ixhro4.png",
-          "https://files.catbox.moe/9j063z.png",
-          "https://files.catbox.moe/ptzr9e.png"
+          "https://files.catbox.moe/afpvtl.png",
+          "https://files.catbox.moe/wxe6x3.png",
+          "https://files.catbox.moe/7sxdwo.png",
+          "https://files.catbox.moe/lw2pnu.png",
+          "https://files.catbox.moe/2h46ma.png",
+          "https://files.catbox.moe/fo7hxo.png",
+          "https://files.catbox.moe/f9p2hc.png",
+          "https://files.catbox.moe/5jxsvu.png",
+          "https://files.catbox.moe/pg7ggi.png",
+          "https://files.catbox.moe/bxeu5f.png",
+          "https://files.catbox.moe/xndvtb.png",
+          "https://files.catbox.moe/jl8hdx.png",
+          "https://files.catbox.moe/4zn81k.png",
+          "https://files.catbox.moe/iu4rmr.png",
+          "https://files.catbox.moe/4m3eln.png",
+          "https://files.catbox.moe/nqbjaj.png",
+          "https://files.catbox.moe/w6o88r.png",
+          "https://files.catbox.moe/yekvlm.png",
+          "https://files.catbox.moe/qngkwq.png",
+          "https://files.catbox.moe/074wvi.png",
+          "https://files.catbox.moe/uvt6oz.png",
+          "https://files.catbox.moe/ybgkyx.png",
+          "https://files.catbox.moe/c5elzf.png",
+          "https://files.catbox.moe/28ya90.png",
+          "https://files.catbox.moe/09wtde.png",
+          "https://files.catbox.moe/wv6un4.png",
+          "https://files.catbox.moe/bicf9w.png",
+          "https://files.catbox.moe/2lce8u.png",
+          "https://files.catbox.moe/nacs96.png",
+          "https://files.catbox.moe/8jn0ty.png",
+          "https://files.catbox.moe/rm8cwi.png"
         ]
       },
-      "last_updated": 1692689293
+      "last_updated": 1692939433
     },
     "86": {
       "title": "Kouhai and Valentine's Day 2",
@@ -2636,46 +2678,6 @@
         ]
       },
       "last_updated": 1703187142
-    },
-    "85.5": {
-      "title": "Tankoubon 9 Omake + Extras",
-      "volume": "9",
-      "groups": {
-        "orchesc/a/ns": [
-          "https://files.catbox.moe/afpvtl.png",
-          "https://files.catbox.moe/wxe6x3.png",
-          "https://files.catbox.moe/7sxdwo.png",
-          "https://files.catbox.moe/lw2pnu.png",
-          "https://files.catbox.moe/2h46ma.png",
-          "https://files.catbox.moe/fo7hxo.png",
-          "https://files.catbox.moe/f9p2hc.png",
-          "https://files.catbox.moe/5jxsvu.png",
-          "https://files.catbox.moe/pg7ggi.png",
-          "https://files.catbox.moe/bxeu5f.png",
-          "https://files.catbox.moe/xndvtb.png",
-          "https://files.catbox.moe/jl8hdx.png",
-          "https://files.catbox.moe/4zn81k.png",
-          "https://files.catbox.moe/iu4rmr.png",
-          "https://files.catbox.moe/4m3eln.png",
-          "https://files.catbox.moe/nqbjaj.png",
-          "https://files.catbox.moe/w6o88r.png",
-          "https://files.catbox.moe/yekvlm.png",
-          "https://files.catbox.moe/qngkwq.png",
-          "https://files.catbox.moe/074wvi.png",
-          "https://files.catbox.moe/uvt6oz.png",
-          "https://files.catbox.moe/ybgkyx.png",
-          "https://files.catbox.moe/c5elzf.png",
-          "https://files.catbox.moe/28ya90.png",
-          "https://files.catbox.moe/09wtde.png",
-          "https://files.catbox.moe/wv6un4.png",
-          "https://files.catbox.moe/bicf9w.png",
-          "https://files.catbox.moe/2lce8u.png",
-          "https://files.catbox.moe/nacs96.png",
-          "https://files.catbox.moe/8jn0ty.png",
-          "https://files.catbox.moe/rm8cwi.png"
-        ]
-      },
-      "last_updated": 1692939433
     },
     "101": {
       "title": "Kouhai and Dream",
@@ -3306,6 +3308,28 @@
         ]
       },
       "last_updated": 1759129223
+    },
+    "128": {
+      "title": "Kouhai and the Trial",
+      "volume": null,
+      "groups": {
+        "orchesc/a/ns": [
+          "https://files.catbox.moe/f75iyl.webp",
+          "https://files.catbox.moe/8hmfi6.webp",
+          "https://files.catbox.moe/ef9r31.webp",
+          "https://files.catbox.moe/05hol3.webp",
+          "https://files.catbox.moe/bzr2b6.webp",
+          "https://files.catbox.moe/rb1f93.webp",
+          "https://files.catbox.moe/mwfpno.webp",
+          "https://files.catbox.moe/gvximl.webp",
+          "https://files.catbox.moe/ojix0z.webp",
+          "https://files.catbox.moe/5g7ua8.webp",
+          "https://files.catbox.moe/d6q3lm.webp",
+          "https://files.catbox.moe/lsmg25.webp",
+          "https://files.catbox.moe/5mogqr.gif"
+        ]
+      },
+      "last_updated": 1760160801
     }
   }
 }
